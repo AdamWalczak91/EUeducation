@@ -1,0 +1,1889 @@
+TIME,GEO,WST_OPER,UNIT,Value
+2000,European Union - 28 countries,Waste generated,Thousand tonnes,"254,047"
+2000,European Union - 28 countries,Waste treatment,Thousand tonnes,"242,545"
+2000,European Union - 28 countries,Recycling - material,Thousand tonnes,"40,290"
+2000,European Union - 27 countries (2007-2013),Waste generated,Thousand tonnes,"252,874"
+2000,European Union - 27 countries (2007-2013),Waste treatment,Thousand tonnes,"241,666"
+2000,European Union - 27 countries (2007-2013),Recycling - material,Thousand tonnes,"40,290"
+2000,Belgium,Waste generated,Thousand tonnes,"4,830"
+2000,Belgium,Waste treatment,Thousand tonnes,"4,895"
+2000,Belgium,Recycling - material,Thousand tonnes,"1,245"
+2000,Bulgaria,Waste generated,Thousand tonnes,"4,998"
+2000,Bulgaria,Waste treatment,Thousand tonnes,"4,046"
+2000,Bulgaria,Recycling - material,Thousand tonnes,775
+2000,Czechia,Waste generated,Thousand tonnes,"3,434"
+2000,Czechia,Waste treatment,Thousand tonnes,"3,250"
+2000,Czechia,Recycling - material,Thousand tonnes,19
+2000,Denmark,Waste generated,Thousand tonnes,"3,546"
+2000,Denmark,Waste treatment,Thousand tonnes,"3,546"
+2000,Denmark,Recycling - material,Thousand tonnes,755
+2000,Germany (until 1990 former territory of the FRG),Waste generated,Thousand tonnes,"52,810"
+2000,Germany (until 1990 former territory of the FRG),Waste treatment,Thousand tonnes,"52,810"
+2000,Germany (until 1990 former territory of the FRG),Recycling - material,Thousand tonnes,"20,144"
+2000,Estonia,Waste generated,Thousand tonnes,633
+2000,Estonia,Waste treatment,Thousand tonnes,616
+2000,Estonia,Recycling - material,Thousand tonnes,13
+2000,Ireland,Waste generated,Thousand tonnes,"2,279"
+2000,Ireland,Waste treatment,Thousand tonnes,"2,364"
+2000,Ireland,Recycling - material,Thousand tonnes,254
+2000,Greece,Waste generated,Thousand tonnes,"4,447"
+2000,Greece,Waste treatment,Thousand tonnes,"4,447"
+2000,Greece,Recycling - material,Thousand tonnes,359
+2000,Spain,Waste generated,Thousand tonnes,"26,505"
+2000,Spain,Waste treatment,Thousand tonnes,"19,905"
+2000,Spain,Recycling - material,Thousand tonnes,"1,778"
+2000,France,Waste generated,Thousand tonnes,"31,232"
+2000,France,Waste treatment,Thousand tonnes,"31,232"
+2000,France,Recycling - material,Thousand tonnes,"4,045"
+2000,Croatia,Waste generated,Thousand tonnes,"1,173"
+2000,Italy,Waste generated,Thousand tonnes,"28,959"
+2000,Italy,Waste treatment,Thousand tonnes,"28,279"
+2000,Italy,Recycling - material,Thousand tonnes,"2,888"
+2000,Cyprus,Waste generated,Thousand tonnes,436
+2000,Cyprus,Waste treatment,Thousand tonnes,436
+2000,Cyprus,Recycling - material,Thousand tonnes,13
+2000,Latvia,Waste generated,Thousand tonnes,642
+2000,Latvia,Waste treatment,Thousand tonnes,597
+2000,Lithuania,Waste generated,Thousand tonnes,"1,276"
+2000,Lithuania,Waste treatment,Thousand tonnes,"1,209"
+2000,Luxembourg,Waste generated,Thousand tonnes,285
+2000,Luxembourg,Waste treatment,Thousand tonnes,285
+2000,Luxembourg,Recycling - material,Thousand tonnes,62
+2000,Hungary,Waste generated,Thousand tonnes,"4,552"
+2000,Hungary,Waste treatment,Thousand tonnes,"4,157"
+2000,Hungary,Recycling - material,Thousand tonnes,56
+2000,Malta,Waste generated,Thousand tonnes,208
+2000,Malta,Waste treatment,Thousand tonnes,208
+2000,Malta,Recycling - material,Thousand tonnes,1
+2000,Netherlands,Waste generated,Thousand tonnes,"9,529"
+2000,Netherlands,Waste treatment,Thousand tonnes,"8,121"
+2000,Netherlands,Recycling - material,Thousand tonnes,"1,899"
+2000,Austria,Waste generated,Thousand tonnes,"4,646"
+2000,Austria,Waste treatment,Thousand tonnes,"5,069"
+2000,Austria,Recycling - material,Thousand tonnes,"1,129"
+2000,Poland,Waste generated,Thousand tonnes,"12,226"
+2000,Poland,Waste treatment,Thousand tonnes,"12,226"
+2000,Poland,Recycling - material,Thousand tonnes,13
+2000,Portugal,Waste generated,Thousand tonnes,"4,705"
+2000,Portugal,Waste treatment,Thousand tonnes,"4,705"
+2000,Portugal,Recycling - material,Thousand tonnes,157
+2000,Romania,Waste generated,Thousand tonnes,"7,961"
+2000,Romania,Waste treatment,Thousand tonnes,"6,611"
+2000,Slovenia,Waste generated,Thousand tonnes,"1,020"
+2000,Slovenia,Waste treatment,Thousand tonnes,861
+2000,Slovenia,Recycling - material,Thousand tonnes,47
+2000,Slovakia,Waste generated,Thousand tonnes,"1,369"
+2000,Slovakia,Waste treatment,Thousand tonnes,"1,340"
+2000,Slovakia,Recycling - material,Thousand tonnes,34
+2000,Finland,Waste generated,Thousand tonnes,"2,600"
+2000,Finland,Waste treatment,Thousand tonnes,"2,724"
+2000,Finland,Recycling - material,Thousand tonnes,677
+2000,Sweden,Waste generated,Thousand tonnes,"3,793"
+2000,Sweden,Waste treatment,Thousand tonnes,"3,773"
+2000,Sweden,Recycling - material,Thousand tonnes,"1,091"
+2000,United Kingdom,Waste generated,Thousand tonnes,"33,954"
+2000,United Kingdom,Waste treatment,Thousand tonnes,"33,954"
+2000,United Kingdom,Recycling - material,Thousand tonnes,"2,836"
+2000,Iceland,Waste generated,Thousand tonnes,130
+2000,Iceland,Waste treatment,Thousand tonnes,135
+2000,Iceland,Recycling - material,Thousand tonnes,17
+2000,Norway,Waste generated,Thousand tonnes,"2,755"
+2000,Norway,Waste treatment,Thousand tonnes,"2,755"
+2000,Norway,Recycling - material,Thousand tonnes,606
+2000,Switzerland,Waste generated,Thousand tonnes,"4,731"
+2000,Switzerland,Waste treatment,Thousand tonnes,"4,731"
+2000,Switzerland,Recycling - material,Thousand tonnes,"1,500"
+2000,Turkey,Waste generated,Thousand tonnes,"30,617"
+2000,Turkey,Waste treatment,Thousand tonnes,"24,696"
+2001,European Union - 28 countries,Waste generated,Thousand tonnes,"253,761"
+2001,European Union - 28 countries,Waste treatment,Thousand tonnes,"242,155"
+2001,European Union - 28 countries,Recycling - material,Thousand tonnes,"42,691"
+2001,European Union - 27 countries (2007-2013),Waste generated,Thousand tonnes,"252,588"
+2001,European Union - 27 countries (2007-2013),Waste treatment,Thousand tonnes,"241,276"
+2001,European Union - 27 countries (2007-2013),Recycling - material,Thousand tonnes,"42,691"
+2001,Belgium,Waste generated,Thousand tonnes,"4,802"
+2001,Belgium,Waste treatment,Thousand tonnes,"4,643"
+2001,Belgium,Recycling - material,Thousand tonnes,"1,305"
+2001,Bulgaria,Waste generated,Thousand tonnes,"4,773"
+2001,Bulgaria,Waste treatment,Thousand tonnes,"3,968"
+2001,Bulgaria,Recycling - material,Thousand tonnes,770
+2001,Czechia,Waste generated,Thousand tonnes,"2,798"
+2001,Czechia,Waste treatment,Thousand tonnes,"2,582"
+2001,Czechia,Recycling - material,Thousand tonnes,15
+2001,Denmark,Waste generated,Thousand tonnes,"3,519"
+2001,Denmark,Waste treatment,Thousand tonnes,"3,519"
+2001,Denmark,Recycling - material,Thousand tonnes,787
+2001,Germany (until 1990 former territory of the FRG),Waste generated,Thousand tonnes,"52,075"
+2001,Germany (until 1990 former territory of the FRG),Waste treatment,Thousand tonnes,"52,075"
+2001,Germany (until 1990 former territory of the FRG),Recycling - material,Thousand tonnes,"19,632"
+2001,Estonia,Waste generated,Thousand tonnes,509
+2001,Estonia,Waste treatment,Thousand tonnes,430
+2001,Estonia,Recycling - material,Thousand tonnes,15
+2001,Ireland,Waste generated,Thousand tonnes,"2,704"
+2001,Ireland,Waste treatment,Thousand tonnes,"2,377"
+2001,Ireland,Recycling - material,Thousand tonnes,284
+2001,Greece,Waste generated,Thousand tonnes,"4,559"
+2001,Greece,Waste treatment,Thousand tonnes,"4,559"
+2001,Greece,Recycling - material,Thousand tonnes,370
+2001,Spain,Waste generated,Thousand tonnes,"26,616"
+2001,Spain,Waste treatment,Thousand tonnes,"21,916"
+2001,Spain,Recycling - material,Thousand tonnes,"2,956"
+2001,France,Waste generated,Thousand tonnes,"32,198"
+2001,France,Waste treatment,Thousand tonnes,"32,198"
+2001,France,Recycling - material,Thousand tonnes,"4,410"
+2001,Italy,Waste generated,Thousand tonnes,"29,409"
+2001,Italy,Waste treatment,Thousand tonnes,"27,668"
+2001,Italy,Recycling - material,Thousand tonnes,"3,513"
+2001,Cyprus,Waste generated,Thousand tonnes,456
+2001,Cyprus,Waste treatment,Thousand tonnes,456
+2001,Cyprus,Recycling - material,Thousand tonnes,14
+2001,Latvia,Waste generated,Thousand tonnes,713
+2001,Latvia,Waste treatment,Thousand tonnes,640
+2001,Lithuania,Waste generated,Thousand tonnes,"1,313"
+2001,Lithuania,Waste treatment,Thousand tonnes,"1,169"
+2001,Luxembourg,Waste generated,Thousand tonnes,285
+2001,Luxembourg,Waste treatment,Thousand tonnes,285
+2001,Luxembourg,Recycling - material,Thousand tonnes,66
+2001,Hungary,Waste generated,Thousand tonnes,"4,603"
+2001,Hungary,Waste treatment,Thousand tonnes,"4,123"
+2001,Hungary,Recycling - material,Thousand tonnes,57
+2001,Malta,Waste generated,Thousand tonnes,212
+2001,Malta,Waste treatment,Thousand tonnes,212
+2001,Malta,Recycling - material,Thousand tonnes,1
+2001,Netherlands,Waste generated,Thousand tonnes,"9,550"
+2001,Netherlands,Waste treatment,Thousand tonnes,"8,141"
+2001,Netherlands,Recycling - material,Thousand tonnes,"1,917"
+2001,Austria,Waste generated,Thousand tonnes,"4,634"
+2001,Austria,Waste treatment,Thousand tonnes,"5,074"
+2001,Austria,Recycling - material,Thousand tonnes,"1,125"
+2001,Poland,Waste generated,Thousand tonnes,"11,109"
+2001,Poland,Waste treatment,Thousand tonnes,"11,108"
+2001,Poland,Recycling - material,Thousand tonnes,147
+2001,Portugal,Waste generated,Thousand tonnes,"4,709"
+2001,Portugal,Waste treatment,Thousand tonnes,"4,709"
+2001,Portugal,Recycling - material,Thousand tonnes,190
+2001,Romania,Waste generated,Thousand tonnes,"7,539"
+2001,Romania,Waste treatment,Thousand tonnes,"6,079"
+2001,Romania,Recycling - material,Thousand tonnes,123
+2001,Slovenia,Waste generated,Thousand tonnes,953
+2001,Slovenia,Waste treatment,Thousand tonnes,738
+2001,Slovenia,Recycling - material,Thousand tonnes,14
+2001,Slovakia,Waste generated,Thousand tonnes,"1,286"
+2001,Slovakia,Waste treatment,Thousand tonnes,"1,258"
+2001,Slovakia,Recycling - material,Thousand tonnes,36
+2001,Finland,Waste generated,Thousand tonnes,"2,412"
+2001,Finland,Waste treatment,Thousand tonnes,"2,499"
+2001,Finland,Recycling - material,Thousand tonnes,628
+2001,Sweden,Waste generated,Thousand tonnes,"3,907"
+2001,Sweden,Waste treatment,Thousand tonnes,"3,907"
+2001,Sweden,Recycling - material,Thousand tonnes,"1,135"
+2001,United Kingdom,Waste generated,Thousand tonnes,"34,945"
+2001,United Kingdom,Waste treatment,Thousand tonnes,"34,942"
+2001,United Kingdom,Recycling - material,Thousand tonnes,"3,181"
+2001,Iceland,Waste generated,Thousand tonnes,133
+2001,Iceland,Waste treatment,Thousand tonnes,132
+2001,Iceland,Recycling - material,Thousand tonnes,18
+2001,Norway,Waste generated,Thousand tonnes,"1,629"
+2001,Norway,Waste treatment,Thousand tonnes,"1,629"
+2001,Norway,Recycling - material,Thousand tonnes,496
+2001,Switzerland,Waste generated,Thousand tonnes,"4,794"
+2001,Switzerland,Waste treatment,Thousand tonnes,"4,794"
+2001,Switzerland,Recycling - material,Thousand tonnes,"1,584"
+2001,Turkey,Waste generated,Thousand tonnes,"31,031"
+2001,Turkey,Waste treatment,Thousand tonnes,"25,134"
+2002,European Union - 28 countries,Waste generated,Thousand tonnes,"257,117"
+2002,European Union - 28 countries,Waste treatment,Thousand tonnes,"245,359"
+2002,European Union - 28 countries,Recycling - material,Thousand tonnes,"46,597"
+2002,European Union - 27 countries (2007-2013),Waste generated,Thousand tonnes,"255,945"
+2002,European Union - 27 countries (2007-2013),Waste treatment,Thousand tonnes,"244,480"
+2002,European Union - 27 countries (2007-2013),Recycling - material,Thousand tonnes,"46,597"
+2002,Belgium,Waste generated,Thousand tonnes,"4,981"
+2002,Belgium,Waste treatment,Thousand tonnes,"4,796"
+2002,Belgium,Recycling - material,Thousand tonnes,"1,365"
+2002,Bulgaria,Waste generated,Thousand tonnes,"4,715"
+2002,Bulgaria,Waste treatment,Thousand tonnes,"3,958"
+2002,Bulgaria,Recycling - material,Thousand tonnes,770
+2002,Czechia,Waste generated,Thousand tonnes,"2,845"
+2002,Czechia,Waste treatment,Thousand tonnes,"2,523"
+2002,Czechia,Recycling - material,Thousand tonnes,16
+2002,Denmark,Waste generated,Thousand tonnes,"3,568"
+2002,Denmark,Waste treatment,Thousand tonnes,"3,568"
+2002,Denmark,Recycling - material,Thousand tonnes,796
+2002,Germany (until 1990 former territory of the FRG),Waste generated,Thousand tonnes,"52,772"
+2002,Germany (until 1990 former territory of the FRG),Waste treatment,Thousand tonnes,"52,771"
+2002,Germany (until 1990 former territory of the FRG),Recycling - material,Thousand tonnes,"22,015"
+2002,Estonia,Waste generated,Thousand tonnes,553
+2002,Estonia,Waste treatment,Thousand tonnes,434
+2002,Estonia,Recycling - material,Thousand tonnes,11
+2002,Ireland,Waste generated,Thousand tonnes,"2,720"
+2002,Ireland,Waste treatment,Thousand tonnes,"2,464"
+2002,Ireland,Recycling - material,Thousand tonnes,463
+2002,Greece,Waste generated,Thousand tonnes,"4,640"
+2002,Greece,Waste treatment,Thousand tonnes,"4,640"
+2002,Greece,Recycling - material,Thousand tonnes,375
+2002,Spain,Waste generated,Thousand tonnes,"26,404"
+2002,Spain,Waste treatment,Thousand tonnes,"24,015"
+2002,Spain,Recycling - material,Thousand tonnes,"3,811"
+2002,France,Waste generated,Thousand tonnes,"32,684"
+2002,France,Waste treatment,Thousand tonnes,"32,684"
+2002,France,Recycling - material,Thousand tonnes,"4,715"
+2002,Italy,Waste generated,Thousand tonnes,"29,864"
+2002,Italy,Waste treatment,Thousand tonnes,"25,840"
+2002,Italy,Recycling - material,Thousand tonnes,"2,727"
+2002,Cyprus,Waste generated,Thousand tonnes,465
+2002,Cyprus,Waste treatment,Thousand tonnes,465
+2002,Cyprus,Recycling - material,Thousand tonnes,15
+2002,Latvia,Waste generated,Thousand tonnes,793
+2002,Latvia,Waste treatment,Thousand tonnes,673
+2002,Latvia,Recycling - material,Thousand tonnes,3
+2002,Lithuania,Waste generated,Thousand tonnes,"1,395"
+2002,Lithuania,Waste treatment,Thousand tonnes,"1,119"
+2002,Luxembourg,Waste generated,Thousand tonnes,291
+2002,Luxembourg,Waste treatment,Thousand tonnes,291
+2002,Luxembourg,Recycling - material,Thousand tonnes,66
+2002,Hungary,Waste generated,Thousand tonnes,"4,646"
+2002,Hungary,Waste treatment,Thousand tonnes,"4,243"
+2002,Hungary,Recycling - material,Thousand tonnes,67
+2002,Malta,Waste generated,Thousand tonnes,214
+2002,Malta,Waste treatment,Thousand tonnes,214
+2002,Malta,Recycling - material,Thousand tonnes,1
+2002,Netherlands,Waste generated,Thousand tonnes,"9,684"
+2002,Netherlands,Waste treatment,Thousand tonnes,"8,313"
+2002,Netherlands,Recycling - material,Thousand tonnes,"2,022"
+2002,Austria,Waste generated,Thousand tonnes,"4,914"
+2002,Austria,Waste treatment,Thousand tonnes,"5,146"
+2002,Austria,Recycling - material,Thousand tonnes,"1,115"
+2002,Poland,Waste generated,Thousand tonnes,"10,509"
+2002,Poland,Waste treatment,Thousand tonnes,"10,509"
+2002,Poland,Recycling - material,Thousand tonnes,116
+2002,Portugal,Waste generated,Thousand tonnes,"4,595"
+2002,Portugal,Waste treatment,Thousand tonnes,"4,595"
+2002,Portugal,Recycling - material,Thousand tonnes,213
+2002,Romania,Waste generated,Thousand tonnes,"8,365"
+2002,Romania,Waste treatment,Thousand tonnes,"6,865"
+2002,Romania,Recycling - material,Thousand tonnes,170
+2002,Slovenia,Waste generated,Thousand tonnes,812
+2002,Slovenia,Waste treatment,Thousand tonnes,791
+2002,Slovenia,Recycling - material,Thousand tonnes,62
+2002,Slovakia,Waste generated,Thousand tonnes,"1,449"
+2002,Slovakia,Waste treatment,Thousand tonnes,"1,376"
+2002,Slovakia,Recycling - material,Thousand tonnes,34
+2002,Finland,Waste generated,Thousand tonnes,"2,384"
+2002,Finland,Waste treatment,Thousand tonnes,"2,503"
+2002,Finland,Recycling - material,Thousand tonnes,621
+2002,Sweden,Waste generated,Thousand tonnes,"4,149"
+2002,Sweden,Waste treatment,Thousand tonnes,"4,149"
+2002,Sweden,Recycling - material,Thousand tonnes,"1,295"
+2002,United Kingdom,Waste generated,Thousand tonnes,"35,532"
+2002,United Kingdom,Waste treatment,Thousand tonnes,"35,534"
+2002,United Kingdom,Recycling - material,Thousand tonnes,"3,733"
+2002,Iceland,Waste generated,Thousand tonnes,137
+2002,Iceland,Waste treatment,Thousand tonnes,135
+2002,Iceland,Recycling - material,Thousand tonnes,19
+2002,Norway,Waste generated,Thousand tonnes,"1,780"
+2002,Norway,Waste treatment,Thousand tonnes,"1,780"
+2002,Norway,Recycling - material,Thousand tonnes,560
+2002,Switzerland,Waste generated,Thousand tonnes,"4,936"
+2002,Switzerland,Waste treatment,Thousand tonnes,"4,936"
+2002,Switzerland,Recycling - material,Thousand tonnes,"1,578"
+2002,Turkey,Waste generated,Thousand tonnes,"30,999"
+2002,Turkey,Waste treatment,Thousand tonnes,"25,374"
+2003,European Union - 28 countries,Waste generated,Thousand tonnes,"252,297"
+2003,European Union - 28 countries,Waste treatment,Thousand tonnes,"240,252"
+2003,European Union - 28 countries,Recycling - material,Thousand tonnes,"47,727"
+2003,European Union - 27 countries (2007-2013),Waste generated,Thousand tonnes,"251,125"
+2003,European Union - 27 countries (2007-2013),Waste treatment,Thousand tonnes,"239,373"
+2003,European Union - 27 countries (2007-2013),Recycling - material,Thousand tonnes,"47,727"
+2003,Belgium,Waste generated,Thousand tonnes,"4,824"
+2003,Belgium,Waste treatment,Thousand tonnes,"4,800"
+2003,Belgium,Recycling - material,Thousand tonnes,"1,336"
+2003,Bulgaria,Waste generated,Thousand tonnes,"4,690"
+2003,Bulgaria,Waste treatment,Thousand tonnes,"3,968"
+2003,Bulgaria,Recycling - material,Thousand tonnes,774
+2003,Czechia,Waste generated,Thousand tonnes,"2,857"
+2003,Czechia,Waste treatment,Thousand tonnes,"2,475"
+2003,Czechia,Recycling - material,Thousand tonnes,16
+2003,Denmark,Waste generated,Thousand tonnes,"3,618"
+2003,Denmark,Waste treatment,Thousand tonnes,"3,618"
+2003,Denmark,Recycling - material,Thousand tonnes,926
+2003,Germany (until 1990 former territory of the FRG),Waste generated,Thousand tonnes,"49,622"
+2003,Germany (until 1990 former territory of the FRG),Waste treatment,Thousand tonnes,"49,622"
+2003,Germany (until 1990 former territory of the FRG),Recycling - material,Thousand tonnes,"21,425"
+2003,Estonia,Waste generated,Thousand tonnes,567
+2003,Estonia,Waste treatment,Thousand tonnes,456
+2003,Estonia,Recycling - material,Thousand tonnes,77
+2003,Ireland,Waste generated,Thousand tonnes,"2,918"
+2003,Ireland,Waste treatment,Thousand tonnes,"2,594"
+2003,Ireland,Recycling - material,Thousand tonnes,650
+2003,Greece,Waste generated,Thousand tonnes,"4,710"
+2003,Greece,Waste treatment,Thousand tonnes,"4,710"
+2003,Greece,Recycling - material,Thousand tonnes,382
+2003,Spain,Waste generated,Thousand tonnes,"27,270"
+2003,Spain,Waste treatment,Thousand tonnes,"24,774"
+2003,Spain,Recycling - material,Thousand tonnes,"3,770"
+2003,France,Waste generated,Thousand tonnes,"31,400"
+2003,France,Waste treatment,Thousand tonnes,"31,400"
+2003,France,Recycling - material,Thousand tonnes,"4,725"
+2003,Italy,Waste generated,Thousand tonnes,"30,035"
+2003,Italy,Waste treatment,Thousand tonnes,"25,956"
+2003,Italy,Recycling - material,Thousand tonnes,"3,108"
+2003,Cyprus,Waste generated,Thousand tonnes,481
+2003,Cyprus,Waste treatment,Thousand tonnes,481
+2003,Cyprus,Recycling - material,Thousand tonnes,15
+2003,Latvia,Waste generated,Thousand tonnes,695
+2003,Latvia,Waste treatment,Thousand tonnes,606
+2003,Latvia,Recycling - material,Thousand tonnes,14
+2003,Lithuania,Waste generated,Thousand tonnes,"1,328"
+2003,Lithuania,Waste treatment,Thousand tonnes,"1,136"
+2003,Luxembourg,Waste generated,Thousand tonnes,306
+2003,Luxembourg,Waste treatment,Thousand tonnes,306
+2003,Luxembourg,Recycling - material,Thousand tonnes,71
+2003,Hungary,Waste generated,Thousand tonnes,"4,700"
+2003,Hungary,Waste treatment,Thousand tonnes,"4,376"
+2003,Hungary,Recycling - material,Thousand tonnes,117
+2003,Malta,Waste generated,Thousand tonnes,231
+2003,Malta,Waste treatment,Thousand tonnes,231
+2003,Malta,Recycling - material,Thousand tonnes,1
+2003,Netherlands,Waste generated,Thousand tonnes,"9,504"
+2003,Netherlands,Waste treatment,Thousand tonnes,"7,778"
+2003,Netherlands,Recycling - material,Thousand tonnes,"2,039"
+2003,Austria,Waste generated,Thousand tonnes,"4,932"
+2003,Austria,Waste treatment,Thousand tonnes,"5,279"
+2003,Austria,Recycling - material,Thousand tonnes,"1,110"
+2003,Poland,Waste generated,Thousand tonnes,"9,925"
+2003,Poland,Waste treatment,Thousand tonnes,"9,925"
+2003,Poland,Recycling - material,Thousand tonnes,145
+2003,Portugal,Waste generated,Thousand tonnes,"4,693"
+2003,Portugal,Waste treatment,Thousand tonnes,"4,693"
+2003,Portugal,Recycling - material,Thousand tonnes,227
+2003,Romania,Waste generated,Thousand tonnes,"7,611"
+2003,Romania,Waste treatment,Thousand tonnes,"6,040"
+2003,Romania,Recycling - material,Thousand tonnes,17
+2003,Slovenia,Waste generated,Thousand tonnes,834
+2003,Slovenia,Waste treatment,Thousand tonnes,804
+2003,Slovenia,Recycling - material,Thousand tonnes,92
+2003,Slovakia,Waste generated,Thousand tonnes,"1,511"
+2003,Slovakia,Waste treatment,Thousand tonnes,"1,427"
+2003,Slovakia,Recycling - material,Thousand tonnes,47
+2003,Finland,Waste generated,Thousand tonnes,"2,428"
+2003,Finland,Waste treatment,Thousand tonnes,"2,517"
+2003,Finland,Recycling - material,Thousand tonnes,632
+2003,Sweden,Waste generated,Thousand tonnes,"4,156"
+2003,Sweden,Waste treatment,Thousand tonnes,"4,156"
+2003,Sweden,Recycling - material,Thousand tonnes,"1,314"
+2003,United Kingdom,Waste generated,Thousand tonnes,"35,279"
+2003,United Kingdom,Waste treatment,Thousand tonnes,"35,245"
+2003,United Kingdom,Recycling - material,Thousand tonnes,"4,698"
+2003,Iceland,Waste generated,Thousand tonnes,140
+2003,Iceland,Waste treatment,Thousand tonnes,141
+2003,Iceland,Recycling - material,Thousand tonnes,20
+2003,Norway,Waste generated,Thousand tonnes,"1,836"
+2003,Norway,Waste treatment,Thousand tonnes,"1,836"
+2003,Norway,Recycling - material,Thousand tonnes,576
+2003,Switzerland,Waste generated,Thousand tonnes,"4,916"
+2003,Switzerland,Waste treatment,Thousand tonnes,"4,916"
+2003,Switzerland,Recycling - material,Thousand tonnes,"1,596"
+2003,Turkey,Waste generated,Thousand tonnes,"31,081"
+2003,Turkey,Waste treatment,Thousand tonnes,"26,118"
+2004,European Union - 28 countries,Waste generated,Thousand tonnes,"252,798"
+2004,European Union - 28 countries,Waste treatment,Thousand tonnes,"239,354"
+2004,European Union - 28 countries,Recycling - material,Thousand tonnes,"49,012"
+2004,European Union - 27 countries (2007-2013),Waste generated,Thousand tonnes,"251,488"
+2004,European Union - 27 countries (2007-2013),Waste treatment,Thousand tonnes,"238,371"
+2004,European Union - 27 countries (2007-2013),Recycling - material,Thousand tonnes,"49,012"
+2004,Belgium,Waste generated,Thousand tonnes,"5,059"
+2004,Belgium,Waste treatment,Thousand tonnes,"5,004"
+2004,Belgium,Recycling - material,Thousand tonnes,"1,408"
+2004,Bulgaria,Waste generated,Thousand tonnes,"4,619"
+2004,Bulgaria,Waste treatment,Thousand tonnes,"3,885"
+2004,Bulgaria,Recycling - material,Thousand tonnes,793
+2004,Czechia,Waste generated,Thousand tonnes,"2,841"
+2004,Czechia,Waste treatment,Thousand tonnes,"2,396"
+2004,Czechia,Recycling - material,Thousand tonnes,138
+2004,Denmark,Waste generated,Thousand tonnes,"3,757"
+2004,Denmark,Waste treatment,Thousand tonnes,"3,757"
+2004,Denmark,Recycling - material,Thousand tonnes,934
+2004,Germany (until 1990 former territory of the FRG),Waste generated,Thousand tonnes,"48,434"
+2004,Germany (until 1990 former territory of the FRG),Waste treatment,Thousand tonnes,"48,434"
+2004,Germany (until 1990 former territory of the FRG),Recycling - material,Thousand tonnes,"19,587"
+2004,Estonia,Waste generated,Thousand tonnes,606
+2004,Estonia,Waste treatment,Thousand tonnes,534
+2004,Estonia,Recycling - material,Thousand tonnes,142
+2004,Ireland,Waste generated,Thousand tonnes,"3,001"
+2004,Ireland,Waste treatment,Thousand tonnes,"2,704"
+2004,Ireland,Recycling - material,Thousand tonnes,835
+2004,Greece,Waste generated,Thousand tonnes,"4,782"
+2004,Greece,Waste treatment,Thousand tonnes,"4,781"
+2004,Greece,Recycling - material,Thousand tonnes,481
+2004,Spain,Waste generated,Thousand tonnes,"25,746"
+2004,Spain,Waste treatment,Thousand tonnes,"22,361"
+2004,Spain,Recycling - material,Thousand tonnes,"3,730"
+2004,France,Waste generated,Thousand tonnes,"32,444"
+2004,France,Waste treatment,Thousand tonnes,"32,444"
+2004,France,Recycling - material,Thousand tonnes,"4,970"
+2004,Croatia,Waste generated,Thousand tonnes,"1,311"
+2004,Italy,Waste generated,Thousand tonnes,"31,150"
+2004,Italy,Waste treatment,Thousand tonnes,"26,626"
+2004,Italy,Recycling - material,Thousand tonnes,"3,509"
+2004,Cyprus,Waste generated,Thousand tonnes,498
+2004,Cyprus,Waste treatment,Thousand tonnes,498
+2004,Cyprus,Recycling - material,Thousand tonnes,16
+2004,Latvia,Waste generated,Thousand tonnes,720
+2004,Latvia,Waste treatment,Thousand tonnes,647
+2004,Latvia,Recycling - material,Thousand tonnes,25
+2004,Lithuania,Waste generated,Thousand tonnes,"1,260"
+2004,Lithuania,Waste treatment,Thousand tonnes,"1,177"
+2004,Lithuania,Recycling - material,Thousand tonnes,14
+2004,Luxembourg,Waste generated,Thousand tonnes,311
+2004,Luxembourg,Waste treatment,Thousand tonnes,311
+2004,Luxembourg,Recycling - material,Thousand tonnes,72
+2004,Hungary,Waste generated,Thousand tonnes,"4,592"
+2004,Hungary,Waste treatment,Thousand tonnes,"4,552"
+2004,Hungary,Recycling - material,Thousand tonnes,501
+2004,Malta,Waste generated,Thousand tonnes,250
+2004,Malta,Waste treatment,Thousand tonnes,250
+2004,Malta,Recycling - material,Thousand tonnes,3
+2004,Netherlands,Waste generated,Thousand tonnes,"9,746"
+2004,Netherlands,Waste treatment,Thousand tonnes,"8,009"
+2004,Netherlands,Recycling - material,Thousand tonnes,"2,183"
+2004,Austria,Waste generated,Thousand tonnes,"4,687"
+2004,Austria,Waste treatment,Thousand tonnes,"4,625"
+2004,Austria,Recycling - material,Thousand tonnes,"1,116"
+2004,Poland,Waste generated,Thousand tonnes,"9,759"
+2004,Poland,Waste treatment,Thousand tonnes,"9,715"
+2004,Poland,Recycling - material,Thousand tonnes,243
+2004,Portugal,Waste generated,Thousand tonnes,"4,665"
+2004,Portugal,Waste treatment,Thousand tonnes,"4,665"
+2004,Portugal,Recycling - material,Thousand tonnes,320
+2004,Romania,Waste generated,Thousand tonnes,"7,483"
+2004,Romania,Waste treatment,Thousand tonnes,"6,001"
+2004,Romania,Recycling - material,Thousand tonnes,83
+2004,Slovenia,Waste generated,Thousand tonnes,969
+2004,Slovenia,Waste treatment,Thousand tonnes,838
+2004,Slovenia,Recycling - material,Thousand tonnes,183
+2004,Slovakia,Waste generated,Thousand tonnes,"1,400"
+2004,Slovakia,Waste treatment,Thousand tonnes,"1,400"
+2004,Slovakia,Recycling - material,Thousand tonnes,46
+2004,Finland,Waste generated,Thousand tonnes,"2,453"
+2004,Finland,Waste treatment,Thousand tonnes,"2,532"
+2004,Finland,Recycling - material,Thousand tonnes,639
+2004,Sweden,Waste generated,Thousand tonnes,"4,134"
+2004,Sweden,Waste treatment,Thousand tonnes,"4,134"
+2004,Sweden,Recycling - material,Thousand tonnes,"1,385"
+2004,United Kingdom,Waste generated,Thousand tonnes,"36,121"
+2004,United Kingdom,Waste treatment,Thousand tonnes,"36,090"
+2004,United Kingdom,Recycling - material,Thousand tonnes,"5,657"
+2004,Iceland,Waste generated,Thousand tonnes,147
+2004,Iceland,Waste treatment,Thousand tonnes,144
+2004,Iceland,Recycling - material,Thousand tonnes,23
+2004,Norway,Waste generated,Thousand tonnes,"1,903"
+2004,Norway,Waste treatment,Thousand tonnes,"1,902"
+2004,Norway,Recycling - material,Thousand tonnes,475
+2004,Switzerland,Waste generated,Thousand tonnes,"4,900"
+2004,Switzerland,Waste treatment,Thousand tonnes,"4,899"
+2004,Switzerland,Recycling - material,Thousand tonnes,"1,640"
+2004,Turkey,Waste generated,Thousand tonnes,"29,736"
+2004,Turkey,Waste treatment,Thousand tonnes,"25,015"
+2005,European Union - 28 countries,Waste generated,Thousand tonnes,"255,380"
+2005,European Union - 28 countries,Waste treatment,Thousand tonnes,"239,077"
+2005,European Union - 28 countries,Recycling - material,Thousand tonnes,"52,167"
+2005,European Union - 27 countries (2007-2013),Waste generated,Thousand tonnes,"253,931"
+2005,European Union - 27 countries (2007-2013),Waste treatment,Thousand tonnes,"237,990"
+2005,European Union - 27 countries (2007-2013),Recycling - material,Thousand tonnes,"52,167"
+2005,Belgium,Waste generated,Thousand tonnes,"5,052"
+2005,Belgium,Waste treatment,Thousand tonnes,"5,187"
+2005,Belgium,Recycling - material,Thousand tonnes,"1,547"
+2005,Bulgaria,Waste generated,Thousand tonnes,"4,502"
+2005,Bulgaria,Waste treatment,Thousand tonnes,"3,967"
+2005,Bulgaria,Recycling - material,Thousand tonnes,822
+2005,Czechia,Waste generated,Thousand tonnes,"2,954"
+2005,Czechia,Waste treatment,Thousand tonnes,"2,495"
+2005,Czechia,Recycling - material,Thousand tonnes,166
+2005,Denmark,Waste generated,Thousand tonnes,"3,990"
+2005,Denmark,Waste treatment,Thousand tonnes,"3,990"
+2005,Denmark,Recycling - material,Thousand tonnes,977
+2005,Germany (until 1990 former territory of the FRG),Waste generated,Thousand tonnes,"46,555"
+2005,Germany (until 1990 former territory of the FRG),Waste treatment,Thousand tonnes,"46,555"
+2005,Germany (until 1990 former territory of the FRG),Recycling - material,Thousand tonnes,"20,734"
+2005,Estonia,Waste generated,Thousand tonnes,587
+2005,Estonia,Waste treatment,Thousand tonnes,502
+2005,Estonia,Recycling - material,Thousand tonnes,121
+2005,Ireland,Waste generated,Thousand tonnes,"3,041"
+2005,Ireland,Waste treatment,Thousand tonnes,"2,779"
+2005,Ireland,Recycling - material,Thousand tonnes,898
+2005,Greece,Waste generated,Thousand tonnes,"4,853"
+2005,Greece,Waste treatment,Thousand tonnes,"4,867"
+2005,Greece,Recycling - material,Thousand tonnes,543
+2005,Spain,Waste generated,Thousand tonnes,"25,683"
+2005,Spain,Waste treatment,Thousand tonnes,"22,554"
+2005,Spain,Recycling - material,Thousand tonnes,"3,685"
+2005,France,Waste generated,Thousand tonnes,"33,347"
+2005,France,Waste treatment,Thousand tonnes,"33,347"
+2005,France,Recycling - material,Thousand tonnes,"5,533"
+2005,Croatia,Waste generated,Thousand tonnes,"1,449"
+2005,Italy,Waste generated,Thousand tonnes,"31,668"
+2005,Italy,Waste treatment,Thousand tonnes,"26,810"
+2005,Italy,Recycling - material,Thousand tonnes,"3,683"
+2005,Cyprus,Waste generated,Thousand tonnes,508
+2005,Cyprus,Waste treatment,Thousand tonnes,508
+2005,Cyprus,Recycling - material,Thousand tonnes,19
+2005,Latvia,Waste generated,Thousand tonnes,716
+2005,Latvia,Waste treatment,Thousand tonnes,596
+2005,Latvia,Recycling - material,Thousand tonnes,26
+2005,Lithuania,Waste generated,Thousand tonnes,"1,287"
+2005,Lithuania,Waste treatment,Thousand tonnes,"1,198"
+2005,Lithuania,Recycling - material,Thousand tonnes,14
+2005,Luxembourg,Waste generated,Thousand tonnes,313
+2005,Luxembourg,Waste treatment,Thousand tonnes,313
+2005,Luxembourg,Recycling - material,Thousand tonnes,80
+2005,Hungary,Waste generated,Thousand tonnes,"4,646"
+2005,Hungary,Waste treatment,Thousand tonnes,"4,606"
+2005,Hungary,Recycling - material,Thousand tonnes,403
+2005,Malta,Waste generated,Thousand tonnes,252
+2005,Malta,Waste treatment,Thousand tonnes,252
+2005,Malta,Recycling - material,Thousand tonnes,4
+2005,Netherlands,Waste generated,Thousand tonnes,"9,769"
+2005,Netherlands,Waste treatment,Thousand tonnes,"8,034"
+2005,Netherlands,Recycling - material,Thousand tonnes,"2,142"
+2005,Austria,Waste generated,Thousand tonnes,"4,732"
+2005,Austria,Waste treatment,Thousand tonnes,"4,601"
+2005,Austria,Recycling - material,Thousand tonnes,"1,180"
+2005,Poland,Waste generated,Thousand tonnes,"12,169"
+2005,Poland,Waste treatment,Thousand tonnes,"9,352"
+2005,Poland,Recycling - material,Thousand tonnes,367
+2005,Portugal,Waste generated,Thousand tonnes,"4,745"
+2005,Portugal,Waste treatment,Thousand tonnes,"4,745"
+2005,Portugal,Recycling - material,Thousand tonnes,406
+2005,Romania,Waste generated,Thousand tonnes,"8,173"
+2005,Romania,Waste treatment,Thousand tonnes,"6,558"
+2005,Romania,Recycling - material,Thousand tonnes,145
+2005,Slovenia,Waste generated,Thousand tonnes,989
+2005,Slovenia,Waste treatment,Thousand tonnes,844
+2005,Slovenia,Recycling - material,Thousand tonnes,169
+2005,Slovakia,Waste generated,Thousand tonnes,"1,468"
+2005,Slovakia,Waste treatment,Thousand tonnes,"1,381"
+2005,Slovakia,Recycling - material,Thousand tonnes,14
+2005,Finland,Waste generated,Thousand tonnes,"2,506"
+2005,Finland,Waste treatment,Thousand tonnes,"2,547"
+2005,Finland,Recycling - material,Thousand tonnes,652
+2005,Sweden,Waste generated,Thousand tonnes,"4,306"
+2005,Sweden,Waste treatment,Thousand tonnes,"4,306"
+2005,Sweden,Recycling - material,Thousand tonnes,"1,474"
+2005,United Kingdom,Waste generated,Thousand tonnes,"35,121"
+2005,United Kingdom,Waste treatment,Thousand tonnes,"35,097"
+2005,United Kingdom,Recycling - material,Thousand tonnes,"6,362"
+2005,Iceland,Waste generated,Thousand tonnes,153
+2005,Iceland,Waste treatment,Thousand tonnes,121
+2005,Norway,Waste generated,Thousand tonnes,"1,968"
+2005,Norway,Waste treatment,Thousand tonnes,"1,968"
+2005,Norway,Recycling - material,Thousand tonnes,519
+2005,Switzerland,Waste generated,Thousand tonnes,"4,940"
+2005,Switzerland,Waste treatment,Thousand tonnes,"4,940"
+2005,Switzerland,Recycling - material,Thousand tonnes,"1,730"
+2005,Turkey,Waste generated,Thousand tonnes,"31,352"
+2005,Turkey,Waste treatment,Thousand tonnes,"26,617"
+2006,European Union - 28 countries,Waste generated,Thousand tonnes,"259,375"
+2006,European Union - 28 countries,Waste treatment,Thousand tonnes,"245,852"
+2006,European Union - 28 countries,Recycling - material,Thousand tonnes,"54,459"
+2006,European Union - 27 countries (2007-2013),Waste generated,Thousand tonnes,"257,721"
+2006,European Union - 27 countries (2007-2013),Waste treatment,Thousand tonnes,"244,631"
+2006,European Union - 27 countries (2007-2013),Recycling - material,Thousand tonnes,"54,459"
+2006,Belgium,Waste generated,Thousand tonnes,"5,115"
+2006,Belgium,Waste treatment,Thousand tonnes,"4,990"
+2006,Belgium,Recycling - material,Thousand tonnes,"1,601"
+2006,Bulgaria,Waste generated,Thousand tonnes,"4,387"
+2006,Bulgaria,Waste treatment,Thousand tonnes,"3,590"
+2006,Bulgaria,Recycling - material,Thousand tonnes,839
+2006,Czechia,Waste generated,Thousand tonnes,"3,039"
+2006,Czechia,Waste treatment,Thousand tonnes,"2,659"
+2006,Czechia,Recycling - material,Thousand tonnes,201
+2006,Denmark,Waste generated,Thousand tonnes,"4,021"
+2006,Denmark,Waste treatment,Thousand tonnes,"4,021"
+2006,Denmark,Recycling - material,Thousand tonnes,977
+2006,Germany (until 1990 former territory of the FRG),Waste generated,Thousand tonnes,"46,426"
+2006,Germany (until 1990 former territory of the FRG),Waste treatment,Thousand tonnes,"46,426"
+2006,Germany (until 1990 former territory of the FRG),Recycling - material,Thousand tonnes,"21,195"
+2006,Estonia,Waste generated,Thousand tonnes,536
+2006,Estonia,Waste treatment,Thousand tonnes,467
+2006,Estonia,Recycling - material,Thousand tonnes,70
+2006,Ireland,Waste generated,Thousand tonnes,"3,385"
+2006,Ireland,Waste treatment,Thousand tonnes,"3,100"
+2006,Ireland,Recycling - material,Thousand tonnes,"1,064"
+2006,Greece,Waste generated,Thousand tonnes,"4,927"
+2006,Greece,Waste treatment,Thousand tonnes,"4,927"
+2006,Greece,Recycling - material,Thousand tonnes,551
+2006,Spain,Waste generated,Thousand tonnes,"26,209"
+2006,Spain,Waste treatment,Thousand tonnes,"26,209"
+2006,Spain,Recycling - material,Thousand tonnes,"3,646"
+2006,France,Waste generated,Thousand tonnes,"33,962"
+2006,France,Waste treatment,Thousand tonnes,"33,962"
+2006,France,Recycling - material,Thousand tonnes,"5,806"
+2006,Croatia,Waste generated,Thousand tonnes,"1,654"
+2006,Croatia,Waste treatment,Thousand tonnes,"1,221"
+2006,Italy,Waste generated,Thousand tonnes,"32,516"
+2006,Italy,Waste treatment,Thousand tonnes,"27,829"
+2006,Italy,Recycling - material,Thousand tonnes,"3,813"
+2006,Cyprus,Waste generated,Thousand tonnes,521
+2006,Cyprus,Waste treatment,Thousand tonnes,521
+2006,Cyprus,Recycling - material,Thousand tonnes,22
+2006,Latvia,Waste generated,Thousand tonnes,760
+2006,Latvia,Waste treatment,Thousand tonnes,709
+2006,Latvia,Recycling - material,Thousand tonnes,29
+2006,Lithuania,Waste generated,Thousand tonnes,"1,326"
+2006,Lithuania,Waste treatment,Thousand tonnes,"1,237"
+2006,Lithuania,Recycling - material,Thousand tonnes,14
+2006,Luxembourg,Waste generated,Thousand tonnes,323
+2006,Luxembourg,Waste treatment,Thousand tonnes,323
+2006,Luxembourg,Recycling - material,Thousand tonnes,84
+2006,Hungary,Waste generated,Thousand tonnes,"4,711"
+2006,Hungary,Waste treatment,Thousand tonnes,"4,671"
+2006,Hungary,Recycling - material,Thousand tonnes,432
+2006,Malta,Waste generated,Thousand tonnes,253
+2006,Malta,Waste treatment,Thousand tonnes,253
+2006,Malta,Recycling - material,Thousand tonnes,6
+2006,Netherlands,Waste generated,Thousand tonnes,"9,761"
+2006,Netherlands,Waste treatment,Thousand tonnes,"8,049"
+2006,Netherlands,Recycling - material,Thousand tonnes,"2,247"
+2006,Austria,Waste generated,Thousand tonnes,"4,933"
+2006,Austria,Waste treatment,Thousand tonnes,"4,834"
+2006,Austria,Recycling - material,Thousand tonnes,"1,259"
+2006,Poland,Waste generated,Thousand tonnes,"12,235"
+2006,Poland,Waste treatment,Thousand tonnes,"9,877"
+2006,Poland,Recycling - material,Thousand tonnes,487
+2006,Portugal,Waste generated,Thousand tonnes,"4,898"
+2006,Portugal,Waste treatment,Thousand tonnes,"4,898"
+2006,Portugal,Recycling - material,Thousand tonnes,475
+2006,Romania,Waste generated,Thousand tonnes,"8,392"
+2006,Romania,Waste treatment,Thousand tonnes,"6,335"
+2006,Romania,Recycling - material,Thousand tonnes,41
+2006,Slovenia,Waste generated,Thousand tonnes,"1,036"
+2006,Slovenia,Waste treatment,Thousand tonnes,886
+2006,Slovenia,Recycling - material,Thousand tonnes,145
+2006,Slovakia,Waste generated,Thousand tonnes,"1,524"
+2006,Slovakia,Waste treatment,Thousand tonnes,"1,441"
+2006,Slovakia,Recycling - material,Thousand tonnes,14
+2006,Finland,Waste generated,Thousand tonnes,"2,600"
+2006,Finland,Waste treatment,Thousand tonnes,"2,600"
+2006,Finland,Recycling - material,Thousand tonnes,677
+2006,Sweden,Waste generated,Thousand tonnes,"4,447"
+2006,Sweden,Waste treatment,Thousand tonnes,"4,447"
+2006,Sweden,Recycling - material,Thousand tonnes,"1,658"
+2006,United Kingdom,Waste generated,Thousand tonnes,"35,479"
+2006,United Kingdom,Waste treatment,Thousand tonnes,"35,370"
+2006,United Kingdom,Recycling - material,Thousand tonnes,"7,107"
+2006,Iceland,Waste generated,Thousand tonnes,171
+2006,Iceland,Waste treatment,Thousand tonnes,130
+2006,Norway,Waste generated,Thousand tonnes,"2,140"
+2006,Norway,Waste treatment,Thousand tonnes,"2,139"
+2006,Norway,Recycling - material,Thousand tonnes,574
+2006,Switzerland,Waste generated,Thousand tonnes,"5,330"
+2006,Switzerland,Waste treatment,Thousand tonnes,"5,330"
+2006,Switzerland,Recycling - material,Thousand tonnes,"1,785"
+2006,Serbia,Waste generated,Thousand tonnes,"1,730"
+2006,Serbia,Waste treatment,Thousand tonnes,"1,040"
+2006,Turkey,Waste generated,Thousand tonnes,"30,082"
+2006,Turkey,Waste treatment,Thousand tonnes,"25,281"
+2007,European Union - 28 countries,Waste generated,Thousand tonnes,"261,377"
+2007,European Union - 28 countries,Waste treatment,Thousand tonnes,"250,640"
+2007,European Union - 28 countries,Recycling - material,Thousand tonnes,"59,635"
+2007,European Union - 27 countries (2007-2013),Waste generated,Thousand tonnes,"259,658"
+2007,European Union - 27 countries (2007-2013),Waste treatment,Thousand tonnes,"248,936"
+2007,European Union - 27 countries (2007-2013),Recycling - material,Thousand tonnes,"59,595"
+2007,Belgium,Waste generated,Thousand tonnes,"5,243"
+2007,Belgium,Waste treatment,Thousand tonnes,"5,454"
+2007,Belgium,Recycling - material,Thousand tonnes,"1,741"
+2007,Bulgaria,Waste generated,Thousand tonnes,"4,172"
+2007,Bulgaria,Waste treatment,Thousand tonnes,"3,837"
+2007,Bulgaria,Recycling - material,Thousand tonnes,858
+2007,Czechia,Waste generated,Thousand tonnes,"3,025"
+2007,Czechia,Waste treatment,Thousand tonnes,"2,817"
+2007,Czechia,Recycling - material,Thousand tonnes,276
+2007,Denmark,Waste generated,Thousand tonnes,"4,313"
+2007,Denmark,Waste treatment,Thousand tonnes,"4,313"
+2007,Denmark,Recycling - material,Thousand tonnes,"1,149"
+2007,Germany (until 1990 former territory of the FRG),Waste generated,Thousand tonnes,"47,887"
+2007,Germany (until 1990 former territory of the FRG),Waste treatment,Thousand tonnes,"47,887"
+2007,Germany (until 1990 former territory of the FRG),Recycling - material,Thousand tonnes,"22,555"
+2007,Estonia,Waste generated,Thousand tonnes,602
+2007,Estonia,Waste treatment,Thousand tonnes,531
+2007,Estonia,Recycling - material,Thousand tonnes,122
+2007,Ireland,Waste generated,Thousand tonnes,"3,398"
+2007,Ireland,Waste treatment,Thousand tonnes,"3,175"
+2007,Ireland,Recycling - material,Thousand tonnes,"1,081"
+2007,Greece,Waste generated,Thousand tonnes,"5,002"
+2007,Greece,Waste treatment,Thousand tonnes,"5,002"
+2007,Greece,Recycling - material,Thousand tonnes,905
+2007,Spain,Waste generated,Thousand tonnes,"26,154"
+2007,Spain,Waste treatment,Thousand tonnes,"26,154"
+2007,Spain,Recycling - material,Thousand tonnes,"3,496"
+2007,France,Waste generated,Thousand tonnes,"34,577"
+2007,France,Waste treatment,Thousand tonnes,"34,577"
+2007,France,Recycling - material,Thousand tonnes,"6,079"
+2007,Croatia,Waste generated,Thousand tonnes,"1,719"
+2007,Croatia,Waste treatment,Thousand tonnes,"1,704"
+2007,Croatia,Recycling - material,Thousand tonnes,39
+2007,Italy,Waste generated,Thousand tonnes,"32,536"
+2007,Italy,Waste treatment,Thousand tonnes,"29,076"
+2007,Italy,Recycling - material,Thousand tonnes,"5,536"
+2007,Cyprus,Waste generated,Thousand tonnes,540
+2007,Cyprus,Waste treatment,Thousand tonnes,540
+2007,Cyprus,Recycling - material,Thousand tonnes,28
+2007,Latvia,Waste generated,Thousand tonnes,861
+2007,Latvia,Waste treatment,Thousand tonnes,782
+2007,Latvia,Recycling - material,Thousand tonnes,38
+2007,Lithuania,Waste generated,Thousand tonnes,"1,354"
+2007,Lithuania,Waste treatment,Thousand tonnes,"1,347"
+2007,Lithuania,Recycling - material,Thousand tonnes,80
+2007,Luxembourg,Waste generated,Thousand tonnes,333
+2007,Luxembourg,Waste treatment,Thousand tonnes,333
+2007,Luxembourg,Recycling - material,Thousand tonnes,86
+2007,Hungary,Waste generated,Thousand tonnes,"4,594"
+2007,Hungary,Waste treatment,Thousand tonnes,"4,365"
+2007,Hungary,Recycling - material,Thousand tonnes,490
+2007,Malta,Waste generated,Thousand tonnes,266
+2007,Malta,Waste treatment,Thousand tonnes,266
+2007,Malta,Recycling - material,Thousand tonnes,5
+2007,Netherlands,Waste generated,Thousand tonnes,"9,922"
+2007,Netherlands,Waste treatment,Thousand tonnes,"8,255"
+2007,Netherlands,Recycling - material,Thousand tonnes,"2,388"
+2007,Austria,Waste generated,Thousand tonnes,"4,951"
+2007,Austria,Waste treatment,Thousand tonnes,"4,859"
+2007,Austria,Recycling - material,Thousand tonnes,"1,318"
+2007,Poland,Waste generated,Thousand tonnes,"12,264"
+2007,Poland,Waste treatment,Thousand tonnes,"10,082"
+2007,Poland,Recycling - material,Thousand tonnes,580
+2007,Portugal,Waste generated,Thousand tonnes,"4,967"
+2007,Portugal,Waste treatment,Thousand tonnes,"4,967"
+2007,Portugal,Recycling - material,Thousand tonnes,528
+2007,Romania,Waste generated,Thousand tonnes,"8,161"
+2007,Romania,Waste treatment,Thousand tonnes,"6,159"
+2007,Romania,Recycling - material,Thousand tonnes,34
+2007,Slovenia,Waste generated,Thousand tonnes,"1,060"
+2007,Slovenia,Waste treatment,Thousand tonnes,920
+2007,Slovenia,Recycling - material,Thousand tonnes,217
+2007,Slovakia,Waste generated,Thousand tonnes,"1,579"
+2007,Slovakia,Waste treatment,Thousand tonnes,"1,494"
+2007,Slovakia,Recycling - material,Thousand tonnes,39
+2007,Finland,Waste generated,Thousand tonnes,"2,675"
+2007,Finland,Waste treatment,Thousand tonnes,"2,675"
+2007,Finland,Recycling - material,Thousand tonnes,695
+2007,Sweden,Waste generated,Thousand tonnes,"4,442"
+2007,Sweden,Waste treatment,Thousand tonnes,"4,442"
+2007,Sweden,Recycling - material,Thousand tonnes,"1,591"
+2007,United Kingdom,Waste generated,Thousand tonnes,"34,780"
+2007,United Kingdom,Waste treatment,Thousand tonnes,"34,626"
+2007,United Kingdom,Recycling - material,Thousand tonnes,"7,680"
+2007,Iceland,Waste generated,Thousand tonnes,174
+2007,Iceland,Waste treatment,Thousand tonnes,134
+2007,Norway,Waste generated,Thousand tonnes,"2,312"
+2007,Norway,Waste treatment,Thousand tonnes,"2,284"
+2007,Norway,Recycling - material,Thousand tonnes,642
+2007,Switzerland,Waste generated,Thousand tonnes,"5,465"
+2007,Switzerland,Waste treatment,Thousand tonnes,"5,465"
+2007,Switzerland,Recycling - material,Thousand tonnes,"1,855"
+2007,Serbia,Waste generated,Thousand tonnes,"2,067"
+2007,Serbia,Waste treatment,Thousand tonnes,"1,241"
+2007,Turkey,Waste generated,Thousand tonnes,"30,366"
+2007,Turkey,Waste treatment,Thousand tonnes,"25,818"
+2008,European Union - 28 countries,Waste generated,Thousand tonnes,"260,861"
+2008,European Union - 28 countries,Waste treatment,Thousand tonnes,"250,764"
+2008,European Union - 28 countries,Recycling - material,Thousand tonnes,"60,536"
+2008,European Union - 27 countries (2007-2013),Waste generated,Thousand tonnes,"259,072"
+2008,European Union - 27 countries (2007-2013),Waste treatment,Thousand tonnes,"248,984"
+2008,European Union - 27 countries (2007-2013),Recycling - material,Thousand tonnes,"60,502"
+2008,Belgium,Waste generated,Thousand tonnes,"5,119"
+2008,Belgium,Waste treatment,Thousand tonnes,"4,936"
+2008,Belgium,Recycling - material,Thousand tonnes,"1,664"
+2008,Bulgaria,Waste generated,Thousand tonnes,"4,486"
+2008,Bulgaria,Waste treatment,Thousand tonnes,"4,229"
+2008,Bulgaria,Recycling - material,Thousand tonnes,871
+2008,Czechia,Waste generated,Thousand tonnes,"3,176"
+2008,Czechia,Waste treatment,Thousand tonnes,"2,757"
+2008,Czechia,Recycling - material,Thousand tonnes,280
+2008,Denmark,Waste generated,Thousand tonnes,"4,560"
+2008,Denmark,Waste treatment,Thousand tonnes,"4,560"
+2008,Denmark,Recycling - material,Thousand tonnes,"1,559"
+2008,Germany (until 1990 former territory of the FRG),Waste generated,Thousand tonnes,"48,367"
+2008,Germany (until 1990 former territory of the FRG),Waste treatment,Thousand tonnes,"48,367"
+2008,Germany (until 1990 former territory of the FRG),Recycling - material,Thousand tonnes,"22,752"
+2008,Estonia,Waste generated,Thousand tonnes,524
+2008,Estonia,Waste treatment,Thousand tonnes,440
+2008,Estonia,Recycling - material,Thousand tonnes,78
+2008,Ireland,Waste generated,Thousand tonnes,"3,224"
+2008,Ireland,Waste treatment,Thousand tonnes,"3,104"
+2008,Ireland,Recycling - material,Thousand tonnes,977
+2008,Greece,Waste generated,Thousand tonnes,"5,077"
+2008,Greece,Waste treatment,Thousand tonnes,"5,078"
+2008,Greece,Recycling - material,Thousand tonnes,797
+2008,Spain,Waste generated,Thousand tonnes,"25,317"
+2008,Spain,Waste treatment,Thousand tonnes,"25,317"
+2008,Spain,Recycling - material,Thousand tonnes,"3,898"
+2008,France,Waste generated,Thousand tonnes,"34,501"
+2008,France,Waste treatment,Thousand tonnes,"34,501"
+2008,France,Recycling - material,Thousand tonnes,"6,385"
+2008,Croatia,Waste generated,Thousand tonnes,"1,788"
+2008,Croatia,Waste treatment,Thousand tonnes,"1,780"
+2008,Croatia,Recycling - material,Thousand tonnes,35
+2008,Italy,Waste generated,Thousand tonnes,"32,461"
+2008,Italy,Waste treatment,Thousand tonnes,"28,178"
+2008,Italy,Recycling - material,Thousand tonnes,"4,631"
+2008,Cyprus,Waste generated,Thousand tonnes,573
+2008,Cyprus,Waste treatment,Thousand tonnes,573
+2008,Cyprus,Recycling - material,Thousand tonnes,42
+2008,Latvia,Waste generated,Thousand tonnes,752
+2008,Latvia,Waste treatment,Thousand tonnes,756
+2008,Latvia,Recycling - material,Thousand tonnes,43
+2008,Lithuania,Waste generated,Thousand tonnes,"1,369"
+2008,Lithuania,Waste treatment,Thousand tonnes,"1,353"
+2008,Lithuania,Recycling - material,Thousand tonnes,101
+2008,Luxembourg,Waste generated,Thousand tonnes,341
+2008,Luxembourg,Waste treatment,Thousand tonnes,341
+2008,Luxembourg,Recycling - material,Thousand tonnes,89
+2008,Hungary,Waste generated,Thousand tonnes,"4,553"
+2008,Hungary,Waste treatment,Thousand tonnes,"4,426"
+2008,Hungary,Recycling - material,Thousand tonnes,607
+2008,Malta,Waste generated,Thousand tonnes,276
+2008,Malta,Waste treatment,Thousand tonnes,276
+2008,Malta,Recycling - material,Thousand tonnes,10
+2008,Netherlands,Waste generated,Thousand tonnes,"9,868"
+2008,Netherlands,Waste treatment,Thousand tonnes,"9,870"
+2008,Netherlands,Recycling - material,Thousand tonnes,"2,450"
+2008,Austria,Waste generated,Thousand tonnes,"4,997"
+2008,Austria,Waste treatment,Thousand tonnes,"4,889"
+2008,Austria,Recycling - material,Thousand tonnes,"1,476"
+2008,Poland,Waste generated,Thousand tonnes,"12,194"
+2008,Poland,Waste treatment,Thousand tonnes,"10,037"
+2008,Poland,Recycling - material,Thousand tonnes,895
+2008,Portugal,Waste generated,Thousand tonnes,"5,472"
+2008,Portugal,Waste treatment,Thousand tonnes,"5,472"
+2008,Portugal,Recycling - material,Thousand tonnes,567
+2008,Romania,Waste generated,Thousand tonnes,"8,439"
+2008,Romania,Waste treatment,Thousand tonnes,"6,561"
+2008,Romania,Recycling - material,Thousand tonnes,72
+2008,Slovenia,Waste generated,Thousand tonnes,"1,095"
+2008,Slovenia,Waste treatment,Thousand tonnes,905
+2008,Slovenia,Recycling - material,Thousand tonnes,190
+2008,Slovakia,Waste generated,Thousand tonnes,"1,686"
+2008,Slovakia,Waste treatment,Thousand tonnes,"1,557"
+2008,Slovakia,Recycling - material,Thousand tonnes,60
+2008,Finland,Waste generated,Thousand tonnes,"2,768"
+2008,Finland,Waste treatment,Thousand tonnes,"2,832"
+2008,Finland,Recycling - material,Thousand tonnes,715
+2008,Sweden,Waste generated,Thousand tonnes,"4,455"
+2008,Sweden,Waste treatment,Thousand tonnes,"4,455"
+2008,Sweden,Recycling - material,Thousand tonnes,"1,520"
+2008,United Kingdom,Waste generated,Thousand tonnes,"33,424"
+2008,United Kingdom,Waste treatment,Thousand tonnes,"33,215"
+2008,United Kingdom,Recycling - material,Thousand tonnes,"7,775"
+2008,Iceland,Waste generated,Thousand tonnes,208
+2008,Iceland,Waste treatment,Thousand tonnes,208
+2008,Iceland,Recycling - material,Thousand tonnes,36
+2008,Norway,Waste generated,Thousand tonnes,"2,324"
+2008,Norway,Waste treatment,Thousand tonnes,"2,300"
+2008,Norway,Recycling - material,Thousand tonnes,670
+2008,Switzerland,Waste generated,Thousand tonnes,"5,653"
+2008,Switzerland,Waste treatment,Thousand tonnes,"5,653"
+2008,Switzerland,Recycling - material,Thousand tonnes,"1,893"
+2008,North Macedonia,Waste generated,Thousand tonnes,714
+2008,North Macedonia,Waste treatment,Thousand tonnes,531
+2008,Serbia,Waste generated,Thousand tonnes,"2,550"
+2008,Serbia,Waste treatment,Thousand tonnes,"1,520"
+2008,Turkey,Waste generated,Thousand tonnes,"28,454"
+2008,Turkey,Waste treatment,Thousand tonnes,"24,074"
+2008,Bosnia and Herzegovina,Waste generated,Thousand tonnes,"1,367"
+2008,Bosnia and Herzegovina,Waste treatment,Thousand tonnes,"1,220"
+2009,European Union - 28 countries,Waste generated,Thousand tonnes,"256,995"
+2009,European Union - 28 countries,Waste treatment,Thousand tonnes,"249,504"
+2009,European Union - 28 countries,Recycling - material,Thousand tonnes,"62,172"
+2009,European Union - 27 countries (2007-2013),Waste generated,Thousand tonnes,"255,252"
+2009,European Union - 27 countries (2007-2013),Waste treatment,Thousand tonnes,"247,773"
+2009,European Union - 27 countries (2007-2013),Recycling - material,Thousand tonnes,"62,144"
+2009,Belgium,Waste generated,Thousand tonnes,"5,021"
+2009,Belgium,Waste treatment,Thousand tonnes,"4,826"
+2009,Belgium,Recycling - material,Thousand tonnes,"1,697"
+2009,Bulgaria,Waste generated,Thousand tonnes,"4,449"
+2009,Bulgaria,Waste treatment,Thousand tonnes,"4,309"
+2009,Bulgaria,Recycling - material,Thousand tonnes,887
+2009,Czechia,Waste generated,Thousand tonnes,"3,310"
+2009,Czechia,Waste treatment,Thousand tonnes,"2,894"
+2009,Czechia,Recycling - material,Thousand tonnes,353
+2009,Denmark,Waste generated,Thousand tonnes,"4,206"
+2009,Denmark,Waste treatment,Thousand tonnes,"4,206"
+2009,Denmark,Recycling - material,Thousand tonnes,"1,310"
+2009,Germany (until 1990 former territory of the FRG),Waste generated,Thousand tonnes,"48,466"
+2009,Germany (until 1990 former territory of the FRG),Waste treatment,Thousand tonnes,"48,466"
+2009,Germany (until 1990 former territory of the FRG),Recycling - material,Thousand tonnes,"22,204"
+2009,Estonia,Waste generated,Thousand tonnes,452
+2009,Estonia,Waste treatment,Thousand tonnes,383
+2009,Estonia,Recycling - material,Thousand tonnes,52
+2009,Ireland,Waste generated,Thousand tonnes,"2,953"
+2009,Ireland,Waste treatment,Thousand tonnes,"2,825"
+2009,Ireland,Recycling - material,Thousand tonnes,902
+2009,Greece,Waste generated,Thousand tonnes,"5,154"
+2009,Greece,Waste treatment,Thousand tonnes,"5,154"
+2009,Greece,Recycling - material,Thousand tonnes,936
+2009,Spain,Waste generated,Thousand tonnes,"25,108"
+2009,Spain,Waste treatment,Thousand tonnes,"25,108"
+2009,Spain,Recycling - material,Thousand tonnes,"3,811"
+2009,France,Waste generated,Thousand tonnes,"34,426"
+2009,France,Waste treatment,Thousand tonnes,"34,426"
+2009,France,Recycling - material,Thousand tonnes,"6,688"
+2009,Croatia,Waste generated,Thousand tonnes,"1,743"
+2009,Croatia,Waste treatment,Thousand tonnes,"1,732"
+2009,Croatia,Recycling - material,Thousand tonnes,28
+2009,Italy,Waste generated,Thousand tonnes,"32,107"
+2009,Italy,Waste treatment,Thousand tonnes,"29,840"
+2009,Italy,Recycling - material,Thousand tonnes,"6,042"
+2009,Cyprus,Waste generated,Thousand tonnes,589
+2009,Cyprus,Waste treatment,Thousand tonnes,589
+2009,Cyprus,Recycling - material,Thousand tonnes,49
+2009,Latvia,Waste generated,Thousand tonnes,753
+2009,Latvia,Waste treatment,Thousand tonnes,753
+2009,Latvia,Recycling - material,Thousand tonnes,56
+2009,Lithuania,Waste generated,Thousand tonnes,"1,206"
+2009,Lithuania,Waste treatment,Thousand tonnes,"1,196"
+2009,Lithuania,Recycling - material,Thousand tonnes,87
+2009,Luxembourg,Waste generated,Thousand tonnes,338
+2009,Luxembourg,Waste treatment,Thousand tonnes,338
+2009,Luxembourg,Recycling - material,Thousand tonnes,89
+2009,Hungary,Waste generated,Thousand tonnes,"4,312"
+2009,Hungary,Waste treatment,Thousand tonnes,"4,284"
+2009,Hungary,Recycling - material,Thousand tonnes,576
+2009,Malta,Waste generated,Thousand tonnes,268
+2009,Malta,Waste treatment,Thousand tonnes,268
+2009,Malta,Recycling - material,Thousand tonnes,10
+2009,Netherlands,Waste generated,Thousand tonnes,"9,738"
+2009,Netherlands,Waste treatment,Thousand tonnes,"9,738"
+2009,Netherlands,Recycling - material,Thousand tonnes,"2,384"
+2009,Austria,Waste generated,Thousand tonnes,"4,921"
+2009,Austria,Waste treatment,Thousand tonnes,"4,788"
+2009,Austria,Recycling - material,Thousand tonnes,"1,492"
+2009,Poland,Waste generated,Thousand tonnes,"12,053"
+2009,Poland,Waste treatment,Thousand tonnes,"10,054"
+2009,Poland,Recycling - material,Thousand tonnes,"1,421"
+2009,Portugal,Waste generated,Thousand tonnes,"5,496"
+2009,Portugal,Waste treatment,Thousand tonnes,"5,496"
+2009,Portugal,Recycling - material,Thousand tonnes,648
+2009,Romania,Waste generated,Thousand tonnes,"7,768"
+2009,Romania,Waste treatment,Thousand tonnes,"6,246"
+2009,Romania,Recycling - material,Thousand tonnes,78
+2009,Slovenia,Waste generated,Thousand tonnes,"1,069"
+2009,Slovenia,Waste treatment,Thousand tonnes,851
+2009,Slovenia,Recycling - material,Thousand tonnes,189
+2009,Slovakia,Waste generated,Thousand tonnes,"1,654"
+2009,Slovakia,Waste treatment,Thousand tonnes,"1,583"
+2009,Slovakia,Recycling - material,Thousand tonnes,72
+2009,Finland,Waste generated,Thousand tonnes,"2,562"
+2009,Finland,Waste treatment,Thousand tonnes,"2,562"
+2009,Finland,Recycling - material,Thousand tonnes,615
+2009,Sweden,Waste generated,Thousand tonnes,"4,366"
+2009,Sweden,Waste treatment,Thousand tonnes,"4,366"
+2009,Sweden,Recycling - material,Thousand tonnes,"1,604"
+2009,United Kingdom,Waste generated,Thousand tonnes,"32,507"
+2009,United Kingdom,Waste treatment,Thousand tonnes,"32,224"
+2009,United Kingdom,Recycling - material,Thousand tonnes,"7,890"
+2009,Iceland,Waste generated,Thousand tonnes,132
+2009,Iceland,Waste treatment,Thousand tonnes,132
+2009,Iceland,Recycling - material,Thousand tonnes,21
+2009,Norway,Waste generated,Thousand tonnes,"2,269"
+2009,Norway,Waste treatment,Thousand tonnes,"2,240"
+2009,Norway,Recycling - material,Thousand tonnes,620
+2009,Switzerland,Waste generated,Thousand tonnes,"5,461"
+2009,Switzerland,Waste treatment,Thousand tonnes,"5,461"
+2009,Switzerland,Recycling - material,Thousand tonnes,"1,871"
+2009,North Macedonia,Waste generated,Thousand tonnes,726
+2009,North Macedonia,Waste treatment,Thousand tonnes,726
+2009,Serbia,Waste generated,Thousand tonnes,"2,636"
+2009,Serbia,Waste treatment,Thousand tonnes,"1,581"
+2009,Turkey,Waste generated,Thousand tonnes,"30,196"
+2009,Turkey,Waste treatment,Thousand tonnes,"26,015"
+2009,Bosnia and Herzegovina,Waste generated,Thousand tonnes,"1,362"
+2009,Bosnia and Herzegovina,Waste treatment,Thousand tonnes,"1,002"
+2010,European Union - 28 countries,Waste generated,Thousand tonnes,"253,906"
+2010,European Union - 28 countries,Waste treatment,Thousand tonnes,"247,802"
+2010,European Union - 28 countries,Recycling - material,Thousand tonnes,"63,388"
+2010,European Union - 27 countries (2007-2013),Waste generated,Thousand tonnes,"252,276"
+2010,European Union - 27 countries (2007-2013),Waste treatment,Thousand tonnes,"246,198"
+2010,European Union - 27 countries (2007-2013),Recycling - material,Thousand tonnes,"63,335"
+2010,Belgium,Waste generated,Thousand tonnes,"4,953"
+2010,Belgium,Waste treatment,Thousand tonnes,"4,791"
+2010,Belgium,Recycling - material,Thousand tonnes,"1,672"
+2010,Bulgaria,Waste generated,Thousand tonnes,"4,094"
+2010,Bulgaria,Waste treatment,Thousand tonnes,"4,044"
+2010,Bulgaria,Recycling - material,Thousand tonnes,"1,003"
+2010,Czechia,Waste generated,Thousand tonnes,"3,334"
+2010,Czechia,Waste treatment,Thousand tonnes,"3,186"
+2010,Czechia,Recycling - material,Thousand tonnes,452
+2010,Germany (until 1990 former territory of the FRG),Waste generated,Thousand tonnes,"49,237"
+2010,Germany (until 1990 former territory of the FRG),Waste treatment,Thousand tonnes,"49,236"
+2010,Germany (until 1990 former territory of the FRG),Recycling - material,Thousand tonnes,"22,476"
+2010,Estonia,Waste generated,Thousand tonnes,406
+2010,Estonia,Waste treatment,Thousand tonnes,340
+2010,Estonia,Recycling - material,Thousand tonnes,41
+2010,Ireland,Waste generated,Thousand tonnes,"2,846"
+2010,Ireland,Waste treatment,Thousand tonnes,"2,622"
+2010,Ireland,Recycling - material,Thousand tonnes,910
+2010,Greece,Waste generated,Thousand tonnes,"5,917"
+2010,Greece,Waste treatment,Thousand tonnes,"5,917"
+2010,Greece,Recycling - material,Thousand tonnes,872
+2010,Spain,Waste generated,Thousand tonnes,"23,774"
+2010,Spain,Waste treatment,Thousand tonnes,"23,774"
+2010,Spain,Recycling - material,Thousand tonnes,"4,175"
+2010,France,Waste generated,Thousand tonnes,"34,609"
+2010,France,Waste treatment,Thousand tonnes,"34,609"
+2010,France,Recycling - material,Thousand tonnes,"6,937"
+2010,Croatia,Waste generated,Thousand tonnes,"1,630"
+2010,Croatia,Waste treatment,Thousand tonnes,"1,604"
+2010,Croatia,Recycling - material,Thousand tonnes,53
+2010,Italy,Waste generated,Thousand tonnes,"32,440"
+2010,Italy,Waste treatment,Thousand tonnes,"30,505"
+2010,Italy,Recycling - material,Thousand tonnes,"6,107"
+2010,Cyprus,Waste generated,Thousand tonnes,571
+2010,Cyprus,Waste treatment,Thousand tonnes,551
+2010,Cyprus,Recycling - material,Thousand tonnes,61
+2010,Latvia,Waste generated,Thousand tonnes,680
+2010,Latvia,Waste treatment,Thousand tonnes,680
+2010,Latvia,Recycling - material,Thousand tonnes,60
+2010,Lithuania,Waste generated,Thousand tonnes,"1,253"
+2010,Lithuania,Waste treatment,Thousand tonnes,"1,143"
+2010,Lithuania,Recycling - material,Thousand tonnes,43
+2010,Luxembourg,Waste generated,Thousand tonnes,344
+2010,Luxembourg,Waste treatment,Thousand tonnes,344
+2010,Luxembourg,Recycling - material,Thousand tonnes,93
+2010,Hungary,Waste generated,Thousand tonnes,"4,033"
+2010,Hungary,Waste treatment,Thousand tonnes,"4,033"
+2010,Hungary,Recycling - material,Thousand tonnes,641
+2010,Malta,Waste generated,Thousand tonnes,249
+2010,Malta,Waste treatment,Thousand tonnes,239
+2010,Malta,Recycling - material,Thousand tonnes,13
+2010,Netherlands,Waste generated,Thousand tonnes,"9,484"
+2010,Netherlands,Waste treatment,Thousand tonnes,"9,484"
+2010,Netherlands,Recycling - material,Thousand tonnes,"2,354"
+2010,Austria,Waste generated,Thousand tonnes,"4,701"
+2010,Austria,Waste treatment,Thousand tonnes,"4,582"
+2010,Austria,Recycling - material,Thousand tonnes,"1,272"
+2010,Poland,Waste generated,Thousand tonnes,"12,032"
+2010,Poland,Waste treatment,Thousand tonnes,"10,040"
+2010,Poland,Recycling - material,Thousand tonnes,"1,783"
+2010,Portugal,Waste generated,Thousand tonnes,"5,457"
+2010,Portugal,Waste treatment,Thousand tonnes,"5,457"
+2010,Portugal,Recycling - material,Thousand tonnes,619
+2010,Romania,Waste generated,Thousand tonnes,"6,343"
+2010,Romania,Waste treatment,Thousand tonnes,"5,645"
+2010,Romania,Recycling - material,Thousand tonnes,162
+2010,Slovenia,Waste generated,Thousand tonnes,"1,004"
+2010,Slovenia,Waste treatment,Thousand tonnes,805
+2010,Slovenia,Recycling - material,Thousand tonnes,203
+2010,Slovakia,Waste generated,Thousand tonnes,"1,719"
+2010,Slovakia,Waste treatment,Thousand tonnes,"1,666"
+2010,Slovakia,Recycling - material,Thousand tonnes,98
+2010,Finland,Waste generated,Thousand tonnes,"2,519"
+2010,Finland,Waste treatment,Thousand tonnes,"2,519"
+2010,Finland,Recycling - material,Thousand tonnes,495
+2010,Sweden,Waste generated,Thousand tonnes,"4,115"
+2010,Sweden,Waste treatment,Thousand tonnes,"4,115"
+2010,Sweden,Recycling - material,Thousand tonnes,"1,414"
+2010,United Kingdom,Waste generated,Thousand tonnes,"31,955"
+2010,United Kingdom,Waste treatment,Thousand tonnes,"31,665"
+2010,United Kingdom,Recycling - material,Thousand tonnes,"8,069"
+2010,Iceland,Waste generated,Thousand tonnes,154
+2010,Iceland,Waste treatment,Thousand tonnes,154
+2010,Iceland,Recycling - material,Thousand tonnes,24
+2010,Norway,Waste generated,Thousand tonnes,"2,295"
+2010,Norway,Waste treatment,Thousand tonnes,"2,258"
+2010,Norway,Recycling - material,Thousand tonnes,609
+2010,Switzerland,Waste generated,Thousand tonnes,"5,565"
+2010,Switzerland,Waste treatment,Thousand tonnes,"5,565"
+2010,Switzerland,Recycling - material,Thousand tonnes,"1,878"
+2010,North Macedonia,Waste generated,Thousand tonnes,721
+2010,North Macedonia,Waste treatment,Thousand tonnes,721
+2010,Serbia,Waste generated,Thousand tonnes,"2,650"
+2010,Serbia,Waste treatment,Thousand tonnes,"1,889"
+2010,Turkey,Waste generated,Thousand tonnes,"29,733"
+2010,Turkey,Waste treatment,Thousand tonnes,"25,098"
+2010,Bosnia and Herzegovina,Waste generated,Thousand tonnes,"1,276"
+2010,Bosnia and Herzegovina,Waste treatment,Thousand tonnes,"1,042"
+2011,European Union - 28 countries,Waste generated,Thousand tonnes,"250,383"
+2011,European Union - 28 countries,Waste treatment,Thousand tonnes,"244,493"
+2011,European Union - 28 countries,Recycling - material,Thousand tonnes,"64,433"
+2011,European Union - 27 countries (2007-2013),Waste generated,Thousand tonnes,"248,738"
+2011,European Union - 27 countries (2007-2013),Waste treatment,Thousand tonnes,"242,860"
+2011,European Union - 27 countries (2007-2013),Recycling - material,Thousand tonnes,"64,310"
+2011,Belgium,Waste generated,Thousand tonnes,"5,003"
+2011,Belgium,Waste treatment,Thousand tonnes,"4,824"
+2011,Belgium,Recycling - material,Thousand tonnes,"1,707"
+2011,Bulgaria,Waste generated,Thousand tonnes,"3,732"
+2011,Bulgaria,Waste treatment,Thousand tonnes,"3,547"
+2011,Bulgaria,Recycling - material,Thousand tonnes,895
+2011,Czechia,Waste generated,Thousand tonnes,"3,358"
+2011,Czechia,Waste treatment,Thousand tonnes,"3,346"
+2011,Czechia,Recycling - material,Thousand tonnes,496
+2011,Denmark,Waste generated,Thousand tonnes,"4,349"
+2011,Denmark,Waste treatment,Thousand tonnes,"4,348"
+2011,Denmark,Recycling - material,Thousand tonnes,"1,187"
+2011,Germany (until 1990 former territory of the FRG),Waste generated,Thousand tonnes,"50,237"
+2011,Germany (until 1990 former territory of the FRG),Waste treatment,Thousand tonnes,"50,238"
+2011,Germany (until 1990 former territory of the FRG),Recycling - material,Thousand tonnes,"23,135"
+2011,Estonia,Waste generated,Thousand tonnes,399
+2011,Estonia,Waste treatment,Thousand tonnes,332
+2011,Estonia,Recycling - material,Thousand tonnes,58
+2011,Ireland,Waste generated,Thousand tonnes,"2,823"
+2011,Ireland,Waste treatment,Thousand tonnes,"2,558"
+2011,Ireland,Recycling - material,Thousand tonnes,861
+2011,Greece,Waste generated,Thousand tonnes,"5,586"
+2011,Greece,Waste treatment,Thousand tonnes,"5,586"
+2011,Greece,Recycling - material,Thousand tonnes,832
+2011,Spain,Waste generated,Thousand tonnes,"22,672"
+2011,Spain,Waste treatment,Thousand tonnes,"22,672"
+2011,Spain,Recycling - material,Thousand tonnes,"3,782"
+2011,France,Waste generated,Thousand tonnes,"34,790"
+2011,France,Waste treatment,Thousand tonnes,"34,790"
+2011,France,Recycling - material,Thousand tonnes,"7,184"
+2011,Croatia,Waste generated,Thousand tonnes,"1,645"
+2011,Croatia,Waste treatment,Thousand tonnes,"1,633"
+2011,Croatia,Recycling - material,Thousand tonnes,123
+2011,Italy,Waste generated,Thousand tonnes,"31,386"
+2011,Italy,Waste treatment,Thousand tonnes,"29,928"
+2011,Italy,Recycling - material,Thousand tonnes,"7,149"
+2011,Cyprus,Waste generated,Thousand tonnes,572
+2011,Cyprus,Waste treatment,Thousand tonnes,533
+2011,Cyprus,Recycling - material,Thousand tonnes,72
+2011,Latvia,Waste generated,Thousand tonnes,721
+2011,Latvia,Waste treatment,Thousand tonnes,601
+2011,Latvia,Recycling - material,Thousand tonnes,62
+2011,Lithuania,Waste generated,Thousand tonnes,"1,339"
+2011,Lithuania,Waste treatment,Thousand tonnes,"1,309"
+2011,Lithuania,Recycling - material,Thousand tonnes,244
+2011,Luxembourg,Waste generated,Thousand tonnes,345
+2011,Luxembourg,Waste treatment,Thousand tonnes,345
+2011,Luxembourg,Recycling - material,Thousand tonnes,98
+2011,Hungary,Waste generated,Thousand tonnes,"3,809"
+2011,Hungary,Waste treatment,Thousand tonnes,"3,809"
+2011,Hungary,Recycling - material,Thousand tonnes,654
+2011,Malta,Waste generated,Thousand tonnes,245
+2011,Malta,Waste treatment,Thousand tonnes,231
+2011,Malta,Recycling - material,Thousand tonnes,19
+2011,Netherlands,Waste generated,Thousand tonnes,"9,479"
+2011,Netherlands,Waste treatment,Thousand tonnes,"9,480"
+2011,Netherlands,Recycling - material,Thousand tonnes,"2,291"
+2011,Austria,Waste generated,Thousand tonnes,"4,807"
+2011,Austria,Waste treatment,Thousand tonnes,"4,632"
+2011,Austria,Recycling - material,Thousand tonnes,"1,146"
+2011,Poland,Waste generated,Thousand tonnes,"12,129"
+2011,Poland,Waste treatment,Thousand tonnes,"9,828"
+2011,Poland,Recycling - material,Thousand tonnes,"1,173"
+2011,Portugal,Waste generated,Thousand tonnes,"5,178"
+2011,Portugal,Waste treatment,Thousand tonnes,"5,178"
+2011,Portugal,Recycling - material,Thousand tonnes,595
+2011,Romania,Waste generated,Thousand tonnes,"5,216"
+2011,Romania,Waste treatment,Thousand tonnes,"4,713"
+2011,Romania,Recycling - material,Thousand tonnes,173
+2011,Slovenia,Waste generated,Thousand tonnes,852
+2011,Slovenia,Waste treatment,Thousand tonnes,796
+2011,Slovenia,Recycling - material,Thousand tonnes,258
+2011,Slovakia,Waste generated,Thousand tonnes,"1,679"
+2011,Slovakia,Waste treatment,Thousand tonnes,"1,599"
+2011,Slovakia,Recycling - material,Thousand tonnes,104
+2011,Finland,Waste generated,Thousand tonnes,"2,719"
+2011,Finland,Waste treatment,Thousand tonnes,"2,718"
+2011,Finland,Recycling - material,Thousand tonnes,592
+2011,Sweden,Waste generated,Thousand tonnes,"4,246"
+2011,Sweden,Waste treatment,Thousand tonnes,"4,248"
+2011,Sweden,Recycling - material,Thousand tonnes,"1,408"
+2011,United Kingdom,Waste generated,Thousand tonnes,"31,066"
+2011,United Kingdom,Waste treatment,Thousand tonnes,"30,669"
+2011,United Kingdom,Recycling - material,Thousand tonnes,"8,134"
+2011,Iceland,Waste generated,Thousand tonnes,158
+2011,Iceland,Waste treatment,Thousand tonnes,158
+2011,Iceland,Recycling - material,Thousand tonnes,32
+2011,Norway,Waste generated,Thousand tonnes,"2,403"
+2011,Norway,Waste treatment,Thousand tonnes,"2,356"
+2011,Norway,Recycling - material,Thousand tonnes,598
+2011,Switzerland,Waste generated,Thousand tonnes,"5,478"
+2011,Switzerland,Waste treatment,Thousand tonnes,"5,478"
+2011,Switzerland,Recycling - material,Thousand tonnes,"1,895"
+2011,Montenegro,Waste generated,Thousand tonnes,325
+2011,Montenegro,Waste treatment,Thousand tonnes,237
+2011,Montenegro,Recycling - material,Thousand tonnes,3
+2011,North Macedonia,Waste generated,Thousand tonnes,735
+2011,North Macedonia,Waste treatment,Thousand tonnes,735
+2011,Serbia,Waste generated,Thousand tonnes,"2,710"
+2011,Serbia,Waste treatment,Thousand tonnes,"2,090"
+2011,Turkey,Waste generated,Thousand tonnes,"30,862"
+2011,Turkey,Waste treatment,Thousand tonnes,"26,610"
+2011,Bosnia and Herzegovina,Waste generated,Thousand tonnes,"1,307"
+2011,Bosnia and Herzegovina,Waste treatment,Thousand tonnes,"1,034"
+2012,European Union - 28 countries,Waste generated,Thousand tonnes,"245,246"
+2012,European Union - 28 countries,Waste treatment,Thousand tonnes,"238,912"
+2012,European Union - 28 countries,Recycling - material,Thousand tonnes,"65,602"
+2012,European Union - 27 countries (2007-2013),Waste generated,Thousand tonnes,"243,576"
+2012,European Union - 27 countries (2007-2013),Waste treatment,Thousand tonnes,"237,284"
+2012,European Union - 27 countries (2007-2013),Recycling - material,Thousand tonnes,"65,382"
+2012,Belgium,Waste generated,Thousand tonnes,"4,944"
+2012,Belgium,Waste treatment,Thousand tonnes,"4,717"
+2012,Belgium,Recycling - material,Thousand tonnes,"1,600"
+2012,Bulgaria,Waste generated,Thousand tonnes,"3,364"
+2012,Bulgaria,Waste treatment,Thousand tonnes,"3,164"
+2012,Bulgaria,Recycling - material,Thousand tonnes,749
+2012,Czechia,Waste generated,Thousand tonnes,"3,233"
+2012,Czechia,Waste treatment,Thousand tonnes,"3,233"
+2012,Czechia,Recycling - material,Thousand tonnes,665
+2012,Denmark,Waste generated,Thousand tonnes,"4,421"
+2012,Denmark,Waste treatment,Thousand tonnes,"4,421"
+2012,Denmark,Recycling - material,Thousand tonnes,"1,135"
+2012,Germany (until 1990 former territory of the FRG),Waste generated,Thousand tonnes,"49,759"
+2012,Germany (until 1990 former territory of the FRG),Waste treatment,Thousand tonnes,"49,759"
+2012,Germany (until 1990 former territory of the FRG),Recycling - material,Thousand tonnes,"23,596"
+2012,Estonia,Waste generated,Thousand tonnes,371
+2012,Estonia,Waste treatment,Thousand tonnes,247
+2012,Estonia,Recycling - material,Thousand tonnes,52
+2012,Ireland,Waste generated,Thousand tonnes,"2,693"
+2012,Ireland,Waste treatment,Thousand tonnes,"2,439"
+2012,Ireland,Recycling - material,Thousand tonnes,829
+2012,Greece,Waste generated,Thousand tonnes,"5,463"
+2012,Greece,Waste treatment,Thousand tonnes,"5,434"
+2012,Greece,Recycling - material,Thousand tonnes,747
+2012,Spain,Waste generated,Thousand tonnes,"21,896"
+2012,Spain,Waste treatment,Thousand tonnes,"21,896"
+2012,Spain,Recycling - material,Thousand tonnes,"4,277"
+2012,France,Waste generated,Thousand tonnes,"34,484"
+2012,France,Waste treatment,Thousand tonnes,"34,484"
+2012,France,Recycling - material,Thousand tonnes,"7,293"
+2012,Croatia,Waste generated,Thousand tonnes,"1,670"
+2012,Croatia,Waste treatment,Thousand tonnes,"1,627"
+2012,Croatia,Recycling - material,Thousand tonnes,220
+2012,Italy,Waste generated,Thousand tonnes,"29,994"
+2012,Italy,Waste treatment,Thousand tonnes,"28,765"
+2012,Italy,Recycling - material,Thousand tonnes,"7,177"
+2012,Cyprus,Waste generated,Thousand tonnes,568
+2012,Cyprus,Waste treatment,Thousand tonnes,528
+2012,Cyprus,Recycling - material,Thousand tonnes,70
+2012,Latvia,Waste generated,Thousand tonnes,658
+2012,Latvia,Waste treatment,Thousand tonnes,615
+2012,Latvia,Recycling - material,Thousand tonnes,84
+2012,Lithuania,Waste generated,Thousand tonnes,"1,330"
+2012,Lithuania,Waste treatment,Thousand tonnes,"1,283"
+2012,Lithuania,Recycling - material,Thousand tonnes,261
+2012,Luxembourg,Waste generated,Thousand tonnes,346
+2012,Luxembourg,Waste treatment,Thousand tonnes,346
+2012,Luxembourg,Recycling - material,Thousand tonnes,96
+2012,Hungary,Waste generated,Thousand tonnes,"3,988"
+2012,Hungary,Waste treatment,Thousand tonnes,"3,988"
+2012,Hungary,Recycling - material,Thousand tonnes,832
+2012,Malta,Waste generated,Thousand tonnes,248
+2012,Malta,Waste treatment,Thousand tonnes,232
+2012,Malta,Recycling - material,Thousand tonnes,19
+2012,Netherlands,Waste generated,Thousand tonnes,"9,203"
+2012,Netherlands,Waste treatment,Thousand tonnes,"9,202"
+2012,Netherlands,Recycling - material,Thousand tonnes,"2,196"
+2012,Austria,Waste generated,Thousand tonnes,"4,883"
+2012,Austria,Waste treatment,Thousand tonnes,"4,718"
+2012,Austria,Recycling - material,Thousand tonnes,"1,168"
+2012,Poland,Waste generated,Thousand tonnes,"12,084"
+2012,Poland,Waste treatment,Thousand tonnes,"9,582"
+2012,Poland,Recycling - material,Thousand tonnes,"1,244"
+2012,Portugal,Waste generated,Thousand tonnes,"4,766"
+2012,Portugal,Waste treatment,Thousand tonnes,"4,766"
+2012,Portugal,Recycling - material,Thousand tonnes,549
+2012,Romania,Waste generated,Thousand tonnes,"5,044"
+2012,Romania,Waste treatment,Thousand tonnes,"4,261"
+2012,Romania,Recycling - material,Thousand tonnes,165
+2012,Slovenia,Waste generated,Thousand tonnes,744
+2012,Slovenia,Waste treatment,Thousand tonnes,639
+2012,Slovenia,Recycling - material,Thousand tonnes,270
+2012,Slovakia,Waste generated,Thousand tonnes,"1,657"
+2012,Slovakia,Waste treatment,Thousand tonnes,"1,600"
+2012,Slovakia,Recycling - material,Thousand tonnes,140
+2012,Finland,Waste generated,Thousand tonnes,"2,738"
+2012,Finland,Waste treatment,Thousand tonnes,"2,738"
+2012,Finland,Recycling - material,Thousand tonnes,589
+2012,Sweden,Waste generated,Thousand tonnes,"4,285"
+2012,Sweden,Waste treatment,Thousand tonnes,"4,287"
+2012,Sweden,Recycling - material,Thousand tonnes,"1,405"
+2012,United Kingdom,Waste generated,Thousand tonnes,"30,413"
+2012,United Kingdom,Waste treatment,Thousand tonnes,"29,940"
+2012,United Kingdom,Recycling - material,Thousand tonnes,"8,173"
+2012,Iceland,Waste generated,Thousand tonnes,164
+2012,Iceland,Waste treatment,Thousand tonnes,165
+2012,Iceland,Recycling - material,Thousand tonnes,39
+2012,Norway,Waste generated,Thousand tonnes,"2,392"
+2012,Norway,Waste treatment,Thousand tonnes,"2,343"
+2012,Norway,Recycling - material,Thousand tonnes,620
+2012,Switzerland,Waste generated,Thousand tonnes,"5,576"
+2012,Switzerland,Waste treatment,Thousand tonnes,"5,576"
+2012,Switzerland,Recycling - material,Thousand tonnes,"1,939"
+2012,Montenegro,Waste generated,Thousand tonnes,307
+2012,Montenegro,Waste treatment,Thousand tonnes,233
+2012,Montenegro,Recycling - material,Thousand tonnes,8
+2012,North Macedonia,Waste generated,Thousand tonnes,786
+2012,North Macedonia,Waste treatment,Thousand tonnes,786
+2012,Serbia,Waste generated,Thousand tonnes,"2,620"
+2012,Serbia,Waste treatment,Thousand tonnes,"1,830"
+2012,Turkey,Waste generated,Thousand tonnes,"30,786"
+2012,Turkey,Waste treatment,Thousand tonnes,"25,707"
+2012,Bosnia and Herzegovina,Waste generated,Thousand tonnes,"1,303"
+2012,Bosnia and Herzegovina,Waste treatment,Thousand tonnes,873
+2013,European Union - 28 countries,Waste generated,Thousand tonnes,"242,195"
+2013,European Union - 28 countries,Waste treatment,Thousand tonnes,"236,290"
+2013,European Union - 28 countries,Recycling - material,Thousand tonnes,"64,803"
+2013,European Union - 27 countries (2007-2013),Waste generated,Thousand tonnes,"240,474"
+2013,European Union - 27 countries (2007-2013),Waste treatment,Thousand tonnes,"234,618"
+2013,European Union - 27 countries (2007-2013),Recycling - material,Thousand tonnes,"64,575"
+2013,Belgium,Waste generated,Thousand tonnes,"4,867"
+2013,Belgium,Waste treatment,Thousand tonnes,"4,742"
+2013,Belgium,Recycling - material,Thousand tonnes,"1,539"
+2013,Bulgaria,Waste generated,Thousand tonnes,"3,135"
+2013,Bulgaria,Waste treatment,Thousand tonnes,"3,110"
+2013,Bulgaria,Recycling - material,Thousand tonnes,787
+2013,Czechia,Waste generated,Thousand tonnes,"3,228"
+2013,Czechia,Waste treatment,Thousand tonnes,"3,228"
+2013,Czechia,Recycling - material,Thousand tonnes,686
+2013,Denmark,Waste generated,Thousand tonnes,"4,437"
+2013,Denmark,Waste treatment,Thousand tonnes,"4,437"
+2013,Denmark,Recycling - material,Thousand tonnes,"1,152"
+2013,Germany (until 1990 former territory of the FRG),Waste generated,Thousand tonnes,"49,570"
+2013,Germany (until 1990 former territory of the FRG),Waste treatment,Thousand tonnes,"49,021"
+2013,Germany (until 1990 former territory of the FRG),Recycling - material,Thousand tonnes,"23,094"
+2013,Estonia,Waste generated,Thousand tonnes,386
+2013,Estonia,Waste treatment,Thousand tonnes,336
+2013,Estonia,Recycling - material,Thousand tonnes,49
+2013,Greece,Waste generated,Thousand tonnes,"5,284"
+2013,Greece,Waste treatment,Thousand tonnes,"5,284"
+2013,Greece,Recycling - material,Thousand tonnes,647
+2013,Spain,Waste generated,Thousand tonnes,"21,184"
+2013,Spain,Waste treatment,Thousand tonnes,"21,184"
+2013,Spain,Recycling - material,Thousand tonnes,"3,284"
+2013,France,Waste generated,Thousand tonnes,"34,176"
+2013,France,Waste treatment,Thousand tonnes,"34,176"
+2013,France,Recycling - material,Thousand tonnes,"7,402"
+2013,Croatia,Waste generated,Thousand tonnes,"1,721"
+2013,Croatia,Waste treatment,Thousand tonnes,"1,671"
+2013,Croatia,Recycling - material,Thousand tonnes,228
+2013,Italy,Waste generated,Thousand tonnes,"29,573"
+2013,Italy,Waste treatment,Thousand tonnes,"28,538"
+2013,Italy,Recycling - material,Thousand tonnes,"7,335"
+2013,Cyprus,Waste generated,Thousand tonnes,533
+2013,Cyprus,Waste treatment,Thousand tonnes,501
+2013,Cyprus,Recycling - material,Thousand tonnes,70
+2013,Latvia,Waste generated,Thousand tonnes,704
+2013,Latvia,Waste treatment,Thousand tonnes,715
+2013,Latvia,Recycling - material,Thousand tonnes,142
+2013,Lithuania,Waste generated,Thousand tonnes,"1,280"
+2013,Lithuania,Waste treatment,Thousand tonnes,"1,246"
+2013,Lithuania,Recycling - material,Thousand tonnes,261
+2013,Luxembourg,Waste generated,Thousand tonnes,335
+2013,Luxembourg,Waste treatment,Thousand tonnes,335
+2013,Luxembourg,Recycling - material,Thousand tonnes,95
+2013,Hungary,Waste generated,Thousand tonnes,"3,738"
+2013,Hungary,Waste treatment,Thousand tonnes,"3,738"
+2013,Hungary,Recycling - material,Thousand tonnes,799
+2013,Malta,Waste generated,Thousand tonnes,247
+2013,Malta,Waste treatment,Thousand tonnes,230
+2013,Malta,Recycling - material,Thousand tonnes,20
+2013,Netherlands,Waste generated,Thousand tonnes,"8,840"
+2013,Netherlands,Waste treatment,Thousand tonnes,"8,840"
+2013,Netherlands,Recycling - material,Thousand tonnes,"2,112"
+2013,Austria,Waste generated,Thousand tonnes,"4,905"
+2013,Austria,Waste treatment,Thousand tonnes,"4,744"
+2013,Austria,Recycling - material,Thousand tonnes,"1,202"
+2013,Poland,Waste generated,Thousand tonnes,"11,295"
+2013,Poland,Waste treatment,Thousand tonnes,"9,474"
+2013,Poland,Recycling - material,Thousand tonnes,"1,499"
+2013,Portugal,Waste generated,Thousand tonnes,"4,598"
+2013,Portugal,Waste treatment,Thousand tonnes,"4,598"
+2013,Portugal,Recycling - material,Thousand tonnes,594
+2013,Romania,Waste generated,Thousand tonnes,"5,071"
+2013,Romania,Waste treatment,Thousand tonnes,"4,270"
+2013,Romania,Recycling - material,Thousand tonnes,215
+2013,Slovenia,Waste generated,Thousand tonnes,853
+2013,Slovenia,Waste treatment,Thousand tonnes,526
+2013,Slovenia,Recycling - material,Thousand tonnes,239
+2013,Slovakia,Waste generated,Thousand tonnes,"1,645"
+2013,Slovakia,Waste treatment,Thousand tonnes,"1,502"
+2013,Slovakia,Recycling - material,Thousand tonnes,108
+2013,Finland,Waste generated,Thousand tonnes,"2,682"
+2013,Finland,Waste treatment,Thousand tonnes,"2,682"
+2013,Finland,Recycling - material,Thousand tonnes,510
+2013,Sweden,Waste generated,Thousand tonnes,"4,326"
+2013,Sweden,Waste treatment,Thousand tonnes,"4,328"
+2013,Sweden,Recycling - material,Thousand tonnes,"1,445"
+2013,United Kingdom,Waste generated,Thousand tonnes,"30,890"
+2013,United Kingdom,Waste treatment,Thousand tonnes,"30,397"
+2013,United Kingdom,Recycling - material,Thousand tonnes,"8,460"
+2013,Iceland,Waste generated,Thousand tonnes,167
+2013,Iceland,Waste treatment,Thousand tonnes,166
+2013,Iceland,Recycling - material,Thousand tonnes,42
+2013,Norway,Waste generated,Thousand tonnes,"2,518"
+2013,Norway,Waste treatment,Thousand tonnes,"2,485"
+2013,Norway,Recycling - material,Thousand tonnes,590
+2013,Switzerland,Waste generated,Thousand tonnes,"5,708"
+2013,Switzerland,Waste treatment,Thousand tonnes,"5,708"
+2013,Switzerland,Recycling - material,Thousand tonnes,"1,919"
+2013,Montenegro,Waste generated,Thousand tonnes,309
+2013,Montenegro,Waste treatment,Thousand tonnes,252
+2013,Montenegro,Recycling - material,Thousand tonnes,10
+2013,North Macedonia,Waste generated,Thousand tonnes,793
+2013,North Macedonia,Waste treatment,Thousand tonnes,793
+2013,Albania,Waste generated,Thousand tonnes,940
+2013,Albania,Waste treatment,Thousand tonnes,793
+2013,Albania,Recycling - material,Thousand tonnes,226
+2013,Serbia,Waste generated,Thousand tonnes,"2,410"
+2013,Serbia,Waste treatment,Thousand tonnes,"1,945"
+2013,Serbia,Recycling - material,Thousand tonnes,25
+2013,Turkey,Waste generated,Thousand tonnes,"30,920"
+2013,Turkey,Waste treatment,Thousand tonnes,"25,427"
+2013,Bosnia and Herzegovina,Waste generated,Thousand tonnes,"1,192"
+2013,Bosnia and Herzegovina,Waste treatment,Thousand tonnes,894
+2014,European Union - 28 countries,Waste generated,Thousand tonnes,"242,798"
+2014,European Union - 28 countries,Waste treatment,Thousand tonnes,"237,436"
+2014,European Union - 28 countries,Recycling - material,Thousand tonnes,"67,787"
+2014,European Union - 27 countries (2007-2013),Waste generated,Thousand tonnes,"241,161"
+2014,European Union - 27 countries (2007-2013),Waste treatment,Thousand tonnes,"235,854"
+2014,European Union - 27 countries (2007-2013),Recycling - material,Thousand tonnes,"67,551"
+2014,Belgium,Waste generated,Thousand tonnes,"4,762"
+2014,Belgium,Waste treatment,Thousand tonnes,"4,684"
+2014,Belgium,Recycling - material,Thousand tonnes,"1,590"
+2014,Bulgaria,Waste generated,Thousand tonnes,"3,192"
+2014,Bulgaria,Waste treatment,Thousand tonnes,"3,004"
+2014,Bulgaria,Recycling - material,Thousand tonnes,677
+2014,Czechia,Waste generated,Thousand tonnes,"3,261"
+2014,Czechia,Waste treatment,Thousand tonnes,"3,261"
+2014,Czechia,Recycling - material,Thousand tonnes,736
+2014,Denmark,Waste generated,Thousand tonnes,"4,450"
+2014,Denmark,Waste treatment,Thousand tonnes,"4,450"
+2014,Denmark,Recycling - material,Thousand tonnes,"1,198"
+2014,Germany (until 1990 former territory of the FRG),Waste generated,Thousand tonnes,"51,102"
+2014,Germany (until 1990 former territory of the FRG),Waste treatment,Thousand tonnes,"50,544"
+2014,Germany (until 1990 former territory of the FRG),Recycling - material,Thousand tonnes,"24,302"
+2014,Estonia,Waste generated,Thousand tonnes,470
+2014,Estonia,Waste treatment,Thousand tonnes,398
+2014,Estonia,Recycling - material,Thousand tonnes,125
+2014,Ireland,Waste generated,Thousand tonnes,"2,619"
+2014,Ireland,Waste treatment,Thousand tonnes,"2,473"
+2014,Ireland,Recycling - material,Thousand tonnes,863
+2014,Greece,Waste generated,Thousand tonnes,"5,315"
+2014,Greece,Waste treatment,Thousand tonnes,"5,315"
+2014,Greece,Recycling - material,Thousand tonnes,652
+2014,Spain,Waste generated,Thousand tonnes,"20,836"
+2014,Spain,Waste treatment,Thousand tonnes,"20,836"
+2014,Spain,Recycling - material,Thousand tonnes,"3,526"
+2014,France,Waste generated,Thousand tonnes,"34,230"
+2014,France,Waste treatment,Thousand tonnes,"34,230"
+2014,France,Recycling - material,Thousand tonnes,"7,610"
+2014,Croatia,Waste generated,Thousand tonnes,"1,637"
+2014,Croatia,Waste treatment,Thousand tonnes,"1,582"
+2014,Croatia,Recycling - material,Thousand tonnes,236
+2014,Italy,Waste generated,Thousand tonnes,"29,652"
+2014,Italy,Waste treatment,Thousand tonnes,"27,537"
+2014,Italy,Recycling - material,Thousand tonnes,"7,472"
+2014,Cyprus,Waste generated,Thousand tonnes,523
+2014,Cyprus,Waste treatment,Thousand tonnes,490
+2014,Cyprus,Recycling - material,Thousand tonnes,70
+2014,Latvia,Waste generated,Thousand tonnes,726
+2014,Latvia,Waste treatment,Thousand tonnes,722
+2014,Latvia,Recycling - material,Thousand tonnes,170
+2014,Lithuania,Waste generated,Thousand tonnes,"1,270"
+2014,Lithuania,Waste treatment,Thousand tonnes,"1,247"
+2014,Lithuania,Recycling - material,Thousand tonnes,268
+2014,Luxembourg,Waste generated,Thousand tonnes,348
+2014,Luxembourg,Waste treatment,Thousand tonnes,348
+2014,Luxembourg,Recycling - material,Thousand tonnes,99
+2014,Hungary,Waste generated,Thousand tonnes,"3,795"
+2014,Hungary,Waste treatment,Thousand tonnes,"3,713"
+2014,Hungary,Recycling - material,Thousand tonnes,923
+2014,Malta,Waste generated,Thousand tonnes,257
+2014,Malta,Waste treatment,Thousand tonnes,238
+2014,Malta,Recycling - material,Thousand tonnes,19
+2014,Netherlands,Waste generated,Thousand tonnes,"8,894"
+2014,Netherlands,Waste treatment,Thousand tonnes,"8,893"
+2014,Netherlands,Recycling - material,Thousand tonnes,"2,112"
+2014,Austria,Waste generated,Thousand tonnes,"4,833"
+2014,Austria,Waste treatment,Thousand tonnes,"4,673"
+2014,Austria,Recycling - material,Thousand tonnes,"1,231"
+2014,Poland,Waste generated,Thousand tonnes,"10,330"
+2014,Poland,Waste treatment,Thousand tonnes,"10,331"
+2014,Poland,Recycling - material,Thousand tonnes,"2,180"
+2014,Portugal,Waste generated,Thousand tonnes,"4,710"
+2014,Portugal,Waste treatment,Thousand tonnes,"4,710"
+2014,Portugal,Recycling - material,Thousand tonnes,765
+2014,Romania,Waste generated,Thousand tonnes,"4,956"
+2014,Romania,Waste treatment,Thousand tonnes,"4,338"
+2014,Romania,Recycling - material,Thousand tonnes,256
+2014,Slovenia,Waste generated,Thousand tonnes,892
+2014,Slovenia,Waste treatment,Thousand tonnes,530
+2014,Slovenia,Recycling - material,Thousand tonnes,259
+2014,Slovakia,Waste generated,Thousand tonnes,"1,733"
+2014,Slovakia,Waste treatment,Thousand tonnes,"1,528"
+2014,Slovakia,Recycling - material,Thousand tonnes,88
+2014,Finland,Waste generated,Thousand tonnes,"2,630"
+2014,Finland,Waste treatment,Thousand tonnes,"2,630"
+2014,Finland,Recycling - material,Thousand tonnes,474
+2014,Sweden,Waste generated,Thousand tonnes,"4,246"
+2014,Sweden,Waste treatment,Thousand tonnes,"4,248"
+2014,Sweden,Recycling - material,Thousand tonnes,"1,420"
+2014,United Kingdom,Waste generated,Thousand tonnes,"31,129"
+2014,United Kingdom,Waste treatment,Thousand tonnes,"30,481"
+2014,United Kingdom,Recycling - material,Thousand tonnes,"8,466"
+2014,Iceland,Waste generated,Thousand tonnes,175
+2014,Iceland,Waste treatment,Thousand tonnes,175
+2014,Iceland,Recycling - material,Thousand tonnes,37
+2014,Norway,Waste generated,Thousand tonnes,"2,175"
+2014,Norway,Waste treatment,Thousand tonnes,"2,127"
+2014,Norway,Recycling - material,Thousand tonnes,567
+2014,Switzerland,Waste generated,Thousand tonnes,"6,006"
+2014,Switzerland,Waste treatment,Thousand tonnes,"6,006"
+2014,Switzerland,Recycling - material,Thousand tonnes,"1,960"
+2014,Montenegro,Waste generated,Thousand tonnes,301
+2014,Montenegro,Waste treatment,Thousand tonnes,262
+2014,Montenegro,Recycling - material,Thousand tonnes,15
+2014,North Macedonia,Waste generated,Thousand tonnes,765
+2014,North Macedonia,Waste treatment,Thousand tonnes,765
+2014,Albania,Waste generated,Thousand tonnes,"1,229"
+2014,Albania,Waste treatment,Thousand tonnes,"1,089"
+2014,Albania,Recycling - material,Thousand tonnes,265
+2014,Serbia,Waste generated,Thousand tonnes,"2,130"
+2014,Serbia,Waste treatment,Thousand tonnes,"1,685"
+2014,Serbia,Recycling - material,Thousand tonnes,15
+2014,Turkey,Waste generated,Thousand tonnes,"31,230"
+2014,Turkey,Waste treatment,Thousand tonnes,"27,990"
+2014,Bosnia and Herzegovina,Waste generated,Thousand tonnes,"1,335"
+2014,Bosnia and Herzegovina,Waste treatment,Thousand tonnes,894
+2015,European Union - 28 countries,Waste generated,Thousand tonnes,"244,594"
+2015,European Union - 28 countries,Waste treatment,Thousand tonnes,"238,186"
+2015,European Union - 28 countries,Recycling - material,Thousand tonnes,"71,100"
+2015,European Union - 27 countries (2007-2013),Waste generated,Thousand tonnes,"242,940"
+2015,European Union - 27 countries (2007-2013),Waste treatment,Thousand tonnes,"236,569"
+2015,European Union - 27 countries (2007-2013),Recycling - material,Thousand tonnes,"70,830"
+2015,Belgium,Waste generated,Thousand tonnes,"4,643"
+2015,Belgium,Waste treatment,Thousand tonnes,"4,574"
+2015,Belgium,Recycling - material,Thousand tonnes,"1,584"
+2015,Bulgaria,Waste generated,Thousand tonnes,"3,011"
+2015,Bulgaria,Waste treatment,Thousand tonnes,"2,960"
+2015,Bulgaria,Recycling - material,Thousand tonnes,573
+2015,Czechia,Waste generated,Thousand tonnes,"3,337"
+2015,Czechia,Waste treatment,Thousand tonnes,"3,337"
+2015,Czechia,Recycling - material,Thousand tonnes,851
+2015,Denmark,Waste generated,Thousand tonnes,"4,485"
+2015,Denmark,Waste treatment,Thousand tonnes,"4,485"
+2015,Denmark,Recycling - material,Thousand tonnes,"1,223"
+2015,Germany (until 1990 former territory of the FRG),Waste generated,Thousand tonnes,"51,625"
+2015,Germany (until 1990 former territory of the FRG),Waste treatment,Thousand tonnes,"51,084"
+2015,Germany (until 1990 former territory of the FRG),Recycling - material,Thousand tonnes,"25,155"
+2015,Estonia,Waste generated,Thousand tonnes,473
+2015,Estonia,Waste treatment,Thousand tonnes,411
+2015,Estonia,Recycling - material,Thousand tonnes,117
+2015,Greece,Waste generated,Thousand tonnes,"5,277"
+2015,Greece,Waste treatment,Thousand tonnes,"5,277"
+2015,Greece,Recycling - material,Thousand tonnes,698
+2015,Spain,Waste generated,Thousand tonnes,"21,158"
+2015,Spain,Waste treatment,Thousand tonnes,"21,158"
+2015,Spain,Recycling - material,Thousand tonnes,"3,892"
+2015,France,Waste generated,Thousand tonnes,"34,284"
+2015,France,Waste treatment,Thousand tonnes,"34,284"
+2015,France,Recycling - material,Thousand tonnes,"7,817"
+2015,Croatia,Waste generated,Thousand tonnes,"1,654"
+2015,Croatia,Waste treatment,Thousand tonnes,"1,617"
+2015,Croatia,Recycling - material,Thousand tonnes,270
+2015,Italy,Waste generated,Thousand tonnes,"29,524"
+2015,Italy,Waste treatment,Thousand tonnes,"26,926"
+2015,Italy,Recycling - material,Thousand tonnes,"7,864"
+2015,Cyprus,Waste generated,Thousand tonnes,541
+2015,Cyprus,Waste treatment,Thousand tonnes,500
+2015,Cyprus,Recycling - material,Thousand tonnes,72
+2015,Latvia,Waste generated,Thousand tonnes,798
+2015,Latvia,Waste treatment,Thousand tonnes,738
+2015,Latvia,Recycling - material,Thousand tonnes,182
+2015,Lithuania,Waste generated,Thousand tonnes,"1,300"
+2015,Lithuania,Waste treatment,Thousand tonnes,"1,283"
+2015,Lithuania,Recycling - material,Thousand tonnes,298
+2015,Luxembourg,Waste generated,Thousand tonnes,346
+2015,Luxembourg,Waste treatment,Thousand tonnes,346
+2015,Luxembourg,Recycling - material,Thousand tonnes,101
+2015,Hungary,Waste generated,Thousand tonnes,"3,712"
+2015,Hungary,Waste treatment,Thousand tonnes,"3,710"
+2015,Hungary,Recycling - material,Thousand tonnes,963
+2015,Malta,Waste generated,Thousand tonnes,270
+2015,Malta,Waste treatment,Thousand tonnes,260
+2015,Malta,Recycling - material,Thousand tonnes,18
+2015,Netherlands,Waste generated,Thousand tonnes,"8,866"
+2015,Netherlands,Waste treatment,Thousand tonnes,"8,867"
+2015,Netherlands,Recycling - material,Thousand tonnes,"2,176"
+2015,Austria,Waste generated,Thousand tonnes,"4,836"
+2015,Austria,Waste treatment,Thousand tonnes,"4,728"
+2015,Austria,Recycling - material,Thousand tonnes,"1,241"
+2015,Poland,Waste generated,Thousand tonnes,"10,863"
+2015,Poland,Waste treatment,Thousand tonnes,"10,864"
+2015,Poland,Recycling - material,Thousand tonnes,"2,867"
+2015,Portugal,Waste generated,Thousand tonnes,"4,769"
+2015,Portugal,Waste treatment,Thousand tonnes,"4,586"
+2015,Portugal,Recycling - material,Thousand tonnes,678
+2015,Romania,Waste generated,Thousand tonnes,"4,904"
+2015,Romania,Waste treatment,Thousand tonnes,"4,288"
+2015,Romania,Recycling - material,Thousand tonnes,284
+2015,Slovenia,Waste generated,Thousand tonnes,926
+2015,Slovenia,Waste treatment,Thousand tonnes,869
+2015,Slovenia,Recycling - material,Thousand tonnes,430
+2015,Slovakia,Waste generated,Thousand tonnes,"1,784"
+2015,Slovakia,Waste treatment,Thousand tonnes,"1,683"
+2015,Slovakia,Recycling - material,Thousand tonnes,136
+2015,Finland,Waste generated,Thousand tonnes,"2,738"
+2015,Finland,Waste treatment,Thousand tonnes,"1,741"
+2015,Finland,Recycling - material,Thousand tonnes,770
+2015,Sweden,Waste generated,Thousand tonnes,"4,377"
+2015,Sweden,Waste treatment,Thousand tonnes,"4,378"
+2015,Sweden,Recycling - material,Thousand tonnes,"1,418"
+2015,United Kingdom,Waste generated,Thousand tonnes,"31,475"
+2015,United Kingdom,Waste treatment,Thousand tonnes,"30,760"
+2015,United Kingdom,Recycling - material,Thousand tonnes,"8,558"
+2015,Iceland,Waste generated,Thousand tonnes,195
+2015,Iceland,Waste treatment,Thousand tonnes,174
+2015,Iceland,Recycling - material,Thousand tonnes,40
+2015,Norway,Waste generated,Thousand tonnes,"2,187"
+2015,Norway,Waste treatment,Thousand tonnes,"2,155"
+2015,Norway,Recycling - material,Thousand tonnes,572
+2015,Switzerland,Waste generated,Thousand tonnes,"6,030"
+2015,Switzerland,Waste treatment,Thousand tonnes,"6,030"
+2015,Switzerland,Recycling - material,Thousand tonnes,"1,924"
+2015,Montenegro,Waste generated,Thousand tonnes,313
+2015,Montenegro,Waste treatment,Thousand tonnes,280
+2015,Montenegro,Recycling - material,Thousand tonnes,14
+2015,North Macedonia,Waste generated,Thousand tonnes,786
+2015,North Macedonia,Waste treatment,Thousand tonnes,786
+2015,Albania,Waste generated,Thousand tonnes,"1,413"
+2015,Albania,Waste treatment,Thousand tonnes,"1,285"
+2015,Albania,Recycling - material,Thousand tonnes,258
+2015,Serbia,Waste generated,Thousand tonnes,"1,840"
+2015,Serbia,Waste treatment,Thousand tonnes,"1,374"
+2015,Serbia,Recycling - material,Thousand tonnes,14
+2015,Turkey,Waste generated,Thousand tonnes,"31,283"
+2015,Turkey,Waste treatment,Thousand tonnes,"27,569"
+2015,Bosnia and Herzegovina,Waste generated,Thousand tonnes,"1,249"
+2015,Bosnia and Herzegovina,Waste treatment,Thousand tonnes,942
+2015,Kosovo (under United Nations Security Council Resolution 1244/99),Waste generated,Thousand tonnes,319
+2015,Kosovo (under United Nations Security Council Resolution 1244/99),Waste treatment,Thousand tonnes,316
+2016,European Union - 28 countries,Waste generated,Thousand tonnes,"248,263"
+2016,European Union - 28 countries,Waste treatment,Thousand tonnes,"244,714"
+2016,European Union - 28 countries,Recycling - material,Thousand tonnes,"73,010"
+2016,European Union - 27 countries (2007-2013),Waste generated,Thousand tonnes,"246,583"
+2016,European Union - 27 countries (2007-2013),Waste treatment,Thousand tonnes,"243,072"
+2016,European Union - 27 countries (2007-2013),Recycling - material,Thousand tonnes,"72,688"
+2016,Belgium,Waste generated,Thousand tonnes,"4,746"
+2016,Belgium,Waste treatment,Thousand tonnes,"4,752"
+2016,Belgium,Recycling - material,Thousand tonnes,"1,575"
+2016,Bulgaria,Waste generated,Thousand tonnes,"2,881"
+2016,Bulgaria,Waste treatment,Thousand tonnes,"2,877"
+2016,Bulgaria,Recycling - material,Thousand tonnes,654
+2016,Czechia,Waste generated,Thousand tonnes,"3,580"
+2016,Czechia,Waste treatment,Thousand tonnes,"3,580"
+2016,Czechia,Recycling - material,Thousand tonnes,958
+2016,Denmark,Waste generated,Thousand tonnes,"4,484"
+2016,Denmark,Waste treatment,Thousand tonnes,"4,484"
+2016,Denmark,Recycling - material,Thousand tonnes,"1,255"
+2016,Germany (until 1990 former territory of the FRG),Waste generated,Thousand tonnes,"52,133"
+2016,Germany (until 1990 former territory of the FRG),Waste treatment,Thousand tonnes,"52,133"
+2016,Germany (until 1990 former territory of the FRG),Recycling - material,Thousand tonnes,"25,435"
+2016,Estonia,Waste generated,Thousand tonnes,494
+2016,Estonia,Waste treatment,Thousand tonnes,453
+2016,Estonia,Recycling - material,Thousand tonnes,125
+2016,Ireland,Waste generated,Thousand tonnes,"2,763"
+2016,Ireland,Waste treatment,Thousand tonnes,"2,718"
+2016,Ireland,Recycling - material,Thousand tonnes,935
+2016,Greece,Waste generated,Thousand tonnes,"5,367"
+2016,Greece,Waste treatment,Thousand tonnes,"5,367"
+2016,Greece,Recycling - material,Thousand tonnes,743
+2016,Spain,Waste generated,Thousand tonnes,"21,542"
+2016,Spain,Waste treatment,Thousand tonnes,"21,542"
+2016,Spain,Recycling - material,Thousand tonnes,"3,945"
+2016,France,Waste generated,Thousand tonnes,"34,339"
+2016,France,Waste treatment,Thousand tonnes,"34,339"
+2016,France,Recycling - material,Thousand tonnes,"8,025"
+2016,Croatia,Waste generated,Thousand tonnes,"1,680"
+2016,Croatia,Waste treatment,Thousand tonnes,"1,642"
+2016,Croatia,Recycling - material,Thousand tonnes,322
+2016,Italy,Waste generated,Thousand tonnes,"30,112"
+2016,Italy,Waste treatment,Thousand tonnes,"27,374"
+2016,Italy,Recycling - material,Thousand tonnes,"8,093"
+2016,Cyprus,Waste generated,Thousand tonnes,545
+2016,Cyprus,Waste treatment,Thousand tonnes,504
+2016,Cyprus,Recycling - material,Thousand tonnes,73
+2016,Latvia,Waste generated,Thousand tonnes,802
+2016,Latvia,Waste treatment,Thousand tonnes,737
+2016,Latvia,Recycling - material,Thousand tonnes,121
+2016,Lithuania,Waste generated,Thousand tonnes,"1,272"
+2016,Lithuania,Waste treatment,Thousand tonnes,"1,211"
+2016,Lithuania,Recycling - material,Thousand tonnes,312
+2016,Luxembourg,Waste generated,Thousand tonnes,355
+2016,Luxembourg,Waste treatment,Thousand tonnes,355
+2016,Luxembourg,Recycling - material,Thousand tonnes,98
+2016,Hungary,Waste generated,Thousand tonnes,"3,721"
+2016,Hungary,Waste treatment,Thousand tonnes,"3,734"
+2016,Hungary,Recycling - material,Thousand tonnes,998
+2016,Malta,Waste generated,Thousand tonnes,270
+2016,Malta,Waste treatment,Thousand tonnes,237
+2016,Malta,Recycling - material,Thousand tonnes,19
+2016,Netherlands,Waste generated,Thousand tonnes,"8,858"
+2016,Netherlands,Waste treatment,Thousand tonnes,"8,858"
+2016,Netherlands,Recycling - material,Thousand tonnes,"2,242"
+2016,Austria,Waste generated,Thousand tonnes,"4,928"
+2016,Austria,Waste treatment,Thousand tonnes,"4,825"
+2016,Austria,Recycling - material,Thousand tonnes,"1,254"
+2016,Poland,Waste generated,Thousand tonnes,"11,654"
+2016,Poland,Waste treatment,Thousand tonnes,"11,654"
+2016,Poland,Recycling - material,Thousand tonnes,"3,243"
+2016,Portugal,Waste generated,Thousand tonnes,"4,897"
+2016,Portugal,Waste treatment,Thousand tonnes,"4,648"
+2016,Portugal,Recycling - material,Thousand tonnes,700
+2016,Romania,Waste generated,Thousand tonnes,"5,136"
+2016,Romania,Waste treatment,Thousand tonnes,"5,079"
+2016,Romania,Recycling - material,Thousand tonnes,331
+2016,Slovenia,Waste generated,Thousand tonnes,943
+2016,Slovenia,Waste treatment,Thousand tonnes,790
+2016,Slovenia,Recycling - material,Thousand tonnes,380
+2016,Slovakia,Waste generated,Thousand tonnes,"1,890"
+2016,Slovakia,Waste treatment,Thousand tonnes,"1,875"
+2016,Slovakia,Recycling - material,Thousand tonnes,291
+2016,Finland,Waste generated,Thousand tonnes,"2,768"
+2016,Finland,Waste treatment,Thousand tonnes,"2,768"
+2016,Finland,Recycling - material,Thousand tonnes,808
+2016,Sweden,Waste generated,Thousand tonnes,"4,393"
+2016,Sweden,Waste treatment,Thousand tonnes,"4,393"
+2016,Sweden,Recycling - material,Thousand tonnes,"1,435"
+2016,United Kingdom,Waste generated,Thousand tonnes,"31,710"
+2016,United Kingdom,Waste treatment,Thousand tonnes,"31,786"
+2016,United Kingdom,Recycling - material,Thousand tonnes,"8,640"
+2016,Iceland,Waste generated,Thousand tonnes,220
+2016,Iceland,Waste treatment,Thousand tonnes,220
+2016,Iceland,Recycling - material,Thousand tonnes,56
+2016,Norway,Waste generated,Thousand tonnes,"3,946"
+2016,Norway,Waste treatment,Thousand tonnes,"3,946"
+2016,Norway,Recycling - material,Thousand tonnes,"1,105"
+2016,Switzerland,Waste generated,Thousand tonnes,"6,056"
+2016,Switzerland,Waste treatment,Thousand tonnes,"6,056"
+2016,Switzerland,Recycling - material,Thousand tonnes,"1,880"
+2016,Montenegro,Waste generated,Thousand tonnes,322
+2016,Montenegro,Waste treatment,Thousand tonnes,248
+2016,Montenegro,Recycling - material,Thousand tonnes,12
+2016,North Macedonia,Waste generated,Thousand tonnes,797
+2016,North Macedonia,Waste treatment,Thousand tonnes,797
+2016,Albania,Waste generated,Thousand tonnes,"1,300"
+2016,Albania,Waste treatment,Thousand tonnes,"1,300"
+2016,Albania,Recycling - material,Thousand tonnes,224
+2016,Serbia,Waste generated,Thousand tonnes,"1,890"
+2016,Serbia,Waste treatment,Thousand tonnes,"1,495"
+2016,Serbia,Recycling - material,Thousand tonnes,5
+2016,Turkey,Waste generated,Thousand tonnes,"33,763"
+2016,Turkey,Waste treatment,Thousand tonnes,"31,584"
+2016,Turkey,Recycling - material,Thousand tonnes,"2,946"
+2016,Bosnia and Herzegovina,Waste generated,Thousand tonnes,"1,244"
+2016,Bosnia and Herzegovina,Waste treatment,Thousand tonnes,926
+2016,Kosovo (under United Nations Security Council Resolution 1244/99),Waste generated,Thousand tonnes,395
+2017,European Union - 28 countries,Waste generated,Thousand tonnes,"248,653"
+2017,European Union - 28 countries,Waste treatment,Thousand tonnes,"245,191"
+2017,European Union - 28 countries,Recycling - material,Thousand tonnes,"73,669"
+2017,European Union - 27 countries (2007-2013),Waste generated,Thousand tonnes,"246,937"
+2017,European Union - 27 countries (2007-2013),Waste treatment,Thousand tonnes,"243,542"
+2017,European Union - 27 countries (2007-2013),Recycling - material,Thousand tonnes,"73,303"
+2017,Belgium,Waste generated,Thousand tonnes,"4,659"
+2017,Belgium,Waste treatment,Thousand tonnes,"4,620"
+2017,Belgium,Recycling - material,Thousand tonnes,"1,580"
+2017,Bulgaria,Waste generated,Thousand tonnes,"3,080"
+2017,Bulgaria,Waste treatment,Thousand tonnes,"3,071"
+2017,Bulgaria,Recycling - material,Thousand tonnes,827
+2017,Czechia,Waste generated,Thousand tonnes,"3,643"
+2017,Czechia,Waste treatment,Thousand tonnes,"3,643"
+2017,Czechia,Recycling - material,Thousand tonnes,982
+2017,Denmark,Waste generated,Thousand tonnes,"4,503"
+2017,Denmark,Waste treatment,Thousand tonnes,"4,503"
+2017,Denmark,Recycling - material,Thousand tonnes,"1,228"
+2017,Germany (until 1990 former territory of the FRG),Waste generated,Thousand tonnes,"52,342"
+2017,Germany (until 1990 former territory of the FRG),Waste treatment,Thousand tonnes,"52,342"
+2017,Germany (until 1990 former territory of the FRG),Recycling - material,Thousand tonnes,"25,715"
+2017,Estonia,Waste generated,Thousand tonnes,514
+2017,Estonia,Waste treatment,Thousand tonnes,492
+2017,Estonia,Recycling - material,Thousand tonnes,127
+2017,Greece,Waste generated,Thousand tonnes,"5,415"
+2017,Greece,Waste treatment,Thousand tonnes,"5,415"
+2017,Greece,Recycling - material,Thousand tonnes,798
+2017,Spain,Waste generated,Thousand tonnes,"21,530"
+2017,Spain,Waste treatment,Thousand tonnes,"21,530"
+2017,Spain,Recycling - material,Thousand tonnes,"3,900"
+2017,France,Waste generated,Thousand tonnes,"34,393"
+2017,France,Waste treatment,Thousand tonnes,"34,393"
+2017,France,Recycling - material,Thousand tonnes,"8,232"
+2017,Croatia,Waste generated,Thousand tonnes,"1,716"
+2017,Croatia,Waste treatment,Thousand tonnes,"1,649"
+2017,Croatia,Recycling - material,Thousand tonnes,366
+2017,Italy,Waste generated,Thousand tonnes,"29,583"
+2017,Italy,Waste treatment,Thousand tonnes,"26,948"
+2017,Italy,Recycling - material,Thousand tonnes,"8,218"
+2017,Cyprus,Waste generated,Thousand tonnes,547
+2017,Cyprus,Waste treatment,Thousand tonnes,505
+2017,Cyprus,Recycling - material,Thousand tonnes,78
+2017,Latvia,Waste generated,Thousand tonnes,851
+2017,Latvia,Waste treatment,Thousand tonnes,737
+2017,Latvia,Recycling - material,Thousand tonnes,141
+2017,Lithuania,Waste generated,Thousand tonnes,"1,286"
+2017,Lithuania,Waste treatment,Thousand tonnes,"1,275"
+2017,Lithuania,Recycling - material,Thousand tonnes,311
+2017,Luxembourg,Waste generated,Thousand tonnes,362
+2017,Luxembourg,Waste treatment,Thousand tonnes,362
+2017,Luxembourg,Recycling - material,Thousand tonnes,100
+2017,Hungary,Waste generated,Thousand tonnes,"3,768"
+2017,Hungary,Waste treatment,Thousand tonnes,"3,752"
+2017,Hungary,Recycling - material,Thousand tonnes,"1,010"
+2017,Malta,Waste generated,Thousand tonnes,283
+2017,Malta,Waste treatment,Thousand tonnes,261
+2017,Malta,Recycling - material,Thousand tonnes,18
+2017,Netherlands,Waste generated,Thousand tonnes,"8,787"
+2017,Netherlands,Waste treatment,Thousand tonnes,"8,787"
+2017,Netherlands,Recycling - material,Thousand tonnes,"2,279"
+2017,Austria,Waste generated,Thousand tonnes,"5,018"
+2017,Austria,Waste treatment,Thousand tonnes,"4,944"
+2017,Austria,Recycling - material,Thousand tonnes,"1,296"
+2017,Poland,Waste generated,Thousand tonnes,"11,969"
+2017,Poland,Waste treatment,Thousand tonnes,"11,969"
+2017,Poland,Recycling - material,Thousand tonnes,"3,199"
+2017,Portugal,Waste generated,Thousand tonnes,"5,012"
+2017,Portugal,Waste treatment,Thousand tonnes,"4,778"
+2017,Portugal,Recycling - material,Thousand tonnes,576
+2017,Romania,Waste generated,Thousand tonnes,"5,325"
+2017,Romania,Waste treatment,Thousand tonnes,"5,306"
+2017,Romania,Recycling - material,Thousand tonnes,387
+2017,Slovenia,Waste generated,Thousand tonnes,974
+2017,Slovenia,Waste treatment,Thousand tonnes,773
+2017,Slovenia,Recycling - material,Thousand tonnes,412
+2017,Slovakia,Waste generated,Thousand tonnes,"2,058"
+2017,Slovakia,Waste treatment,Thousand tonnes,"2,057"
+2017,Slovakia,Recycling - material,Thousand tonnes,433
+2017,Finland,Waste generated,Thousand tonnes,"2,812"
+2017,Finland,Waste treatment,Thousand tonnes,"2,812"
+2017,Finland,Recycling - material,Thousand tonnes,771
+2017,Sweden,Waste generated,Thousand tonnes,"4,551"
+2017,Sweden,Waste treatment,Thousand tonnes,"4,551"
+2017,Sweden,Recycling - material,Thousand tonnes,"1,426"
+2017,United Kingdom,Waste generated,Thousand tonnes,"30,911"
+2017,United Kingdom,Waste treatment,Thousand tonnes,"30,998"
+2017,United Kingdom,Recycling - material,Thousand tonnes,"8,324"
+2017,Iceland,Waste generated,Thousand tonnes,225
+2017,Iceland,Waste treatment,Thousand tonnes,225
+2017,Iceland,Recycling - material,Thousand tonnes,43
+2017,Norway,Waste generated,Thousand tonnes,"3,949"
+2017,Norway,Waste treatment,Thousand tonnes,"3,949"
+2017,Norway,Recycling - material,Thousand tonnes,"1,138"
+2017,Switzerland,Waste generated,Thousand tonnes,"5,992"
+2017,Switzerland,Waste treatment,Thousand tonnes,"5,992"
+2017,Switzerland,Recycling - material,Thousand tonnes,"1,846"
+2017,North Macedonia,Waste generated,Thousand tonnes,714
+2017,North Macedonia,Waste treatment,Thousand tonnes,714
+2017,Albania,Waste generated,Thousand tonnes,"1,254"
+2017,Albania,Waste treatment,Thousand tonnes,"1,254"
+2017,Albania,Recycling - material,Thousand tonnes,218
+2017,Serbia,Waste generated,Thousand tonnes,"2,150"
+2017,Serbia,Waste treatment,Thousand tonnes,"1,806"
+2017,Serbia,Recycling - material,Thousand tonnes,6
+2017,Turkey,Waste generated,Thousand tonnes,"34,173"
+2017,Turkey,Waste treatment,Thousand tonnes,"31,968"
+2017,Turkey,Recycling - material,Thousand tonnes,"2,982"
+2017,Bosnia and Herzegovina,Waste generated,Thousand tonnes,"1,235"
+2017,Bosnia and Herzegovina,Waste treatment,Thousand tonnes,951
+2017,Kosovo (under United Nations Security Council Resolution 1244/99),Waste generated,Thousand tonnes,409

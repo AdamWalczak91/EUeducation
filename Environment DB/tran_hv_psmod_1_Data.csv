@@ -1,0 +1,2395 @@
+TIME,GEO,VEHICLE,UNIT,Value
+2000,European Union - 28 countries,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.5
+2000,European Union - 28 countries,Trains,Percentage,7.1
+2000,European Union - 28 countries,Passenger cars,Percentage,82.5
+2000,European Union - 28 countries,"Motor coaches, buses and trolley buses",Percentage,10.4
+2000,Belgium,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17
+2000,Belgium,Trains,Percentage,6.3
+2000,Belgium,Passenger cars,Percentage,83
+2000,Belgium,"Motor coaches, buses and trolley buses",Percentage,10.8
+2000,Bulgaria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,39.2
+2000,Bulgaria,Trains,Percentage,7.8
+2000,Bulgaria,Passenger cars,Percentage,60.8
+2000,Bulgaria,"Motor coaches, buses and trolley buses",Percentage,31.4
+2000,Czechia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,26.9
+2000,Czechia,Trains,Percentage,8.3
+2000,Czechia,Passenger cars,Percentage,73.1
+2000,Czechia,"Motor coaches, buses and trolley buses",Percentage,18.6
+2000,Denmark,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.4
+2000,Denmark,Trains,Percentage,8.7
+2000,Denmark,Passenger cars,Percentage,79.6
+2000,Denmark,"Motor coaches, buses and trolley buses",Percentage,11.7
+2000,Germany (until 1990 former territory of the FRG),"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.8
+2000,Germany (until 1990 former territory of the FRG),Trains,Percentage,7.7
+2000,Germany (until 1990 former territory of the FRG),Passenger cars,Percentage,85.2
+2000,Germany (until 1990 former territory of the FRG),"Motor coaches, buses and trolley buses",Percentage,7.1
+2000,Estonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,30.2
+2000,Estonia,Trains,Percentage,2.7
+2000,Estonia,Passenger cars,Percentage,69.8
+2000,Estonia,"Motor coaches, buses and trolley buses",Percentage,27.5
+2000,Ireland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.4
+2000,Ireland,Trains,Percentage,3.2
+2000,Ireland,Passenger cars,Percentage,80.6
+2000,Ireland,"Motor coaches, buses and trolley buses",Percentage,16.2
+2000,Greece,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,27.2
+2000,Greece,Trains,Percentage,2.2
+2000,Greece,Passenger cars,Percentage,72.8
+2000,Greece,"Motor coaches, buses and trolley buses",Percentage,25.1
+2000,Spain,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19
+2000,Spain,Trains,Percentage,5.4
+2000,Spain,Passenger cars,Percentage,81
+2000,Spain,"Motor coaches, buses and trolley buses",Percentage,13.5
+2000,France,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.9
+2000,France,Trains,Percentage,8.6
+2000,France,Passenger cars,Percentage,86.1
+2000,France,"Motor coaches, buses and trolley buses",Percentage,5.3
+2000,Croatia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.6
+2000,Croatia,Trains,Percentage,5.1
+2000,Croatia,Passenger cars,Percentage,81.4
+2000,Croatia,"Motor coaches, buses and trolley buses",Percentage,13.6
+2000,Italy,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.7
+2000,Italy,Trains,Percentage,5.8
+2000,Italy,Passenger cars,Percentage,83.3
+2000,Italy,"Motor coaches, buses and trolley buses",Percentage,10.9
+2000,Cyprus,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.3
+2000,Cyprus,Passenger cars,Percentage,77.7
+2000,Cyprus,"Motor coaches, buses and trolley buses",Percentage,22.3
+2000,Latvia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,23.1
+2000,Latvia,Trains,Percentage,4.8
+2000,Latvia,Passenger cars,Percentage,76.9
+2000,Latvia,"Motor coaches, buses and trolley buses",Percentage,18.4
+2000,Lithuania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.8
+2000,Lithuania,Trains,Percentage,3.2
+2000,Lithuania,Passenger cars,Percentage,82.2
+2000,Lithuania,"Motor coaches, buses and trolley buses",Percentage,14.6
+2000,Luxembourg,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.5
+2000,Luxembourg,Trains,Percentage,5.1
+2000,Luxembourg,Passenger cars,Percentage,85.5
+2000,Luxembourg,"Motor coaches, buses and trolley buses",Percentage,9.5
+2000,Hungary,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,38.1
+2000,Hungary,Trains,Percentage,13
+2000,Hungary,Passenger cars,Percentage,61.9
+2000,Hungary,"Motor coaches, buses and trolley buses",Percentage,25.1
+2000,Malta,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.4
+2000,Malta,Passenger cars,Percentage,79.6
+2000,Malta,"Motor coaches, buses and trolley buses",Percentage,20.4
+2000,Netherlands,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14
+2000,Netherlands,Trains,Percentage,9.4
+2000,Netherlands,Passenger cars,Percentage,86
+2000,Netherlands,"Motor coaches, buses and trolley buses",Percentage,4.6
+2000,Austria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.8
+2000,Austria,Trains,Percentage,9.8
+2000,Austria,Passenger cars,Percentage,79.2
+2000,Austria,"Motor coaches, buses and trolley buses",Percentage,11
+2000,Poland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,35.7
+2000,Poland,Trains,Percentage,10.3
+2000,Poland,Passenger cars,Percentage,64.3
+2000,Poland,"Motor coaches, buses and trolley buses",Percentage,25.4
+2000,Portugal,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.3
+2000,Portugal,Trains,Percentage,4.6
+2000,Portugal,Passenger cars,Percentage,81.7
+2000,Portugal,"Motor coaches, buses and trolley buses",Percentage,13.6
+2000,Romania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,28.5
+2000,Romania,Trains,Percentage,16.3
+2000,Romania,Passenger cars,Percentage,71.5
+2000,Romania,"Motor coaches, buses and trolley buses",Percentage,12.2
+2000,Slovenia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.1
+2000,Slovenia,Trains,Percentage,2.9
+2000,Slovenia,Passenger cars,Percentage,82.9
+2000,Slovenia,"Motor coaches, buses and trolley buses",Percentage,14.3
+2000,Slovakia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,35.6
+2000,Slovakia,Trains,Percentage,7.7
+2000,Slovakia,Passenger cars,Percentage,64.4
+2000,Slovakia,"Motor coaches, buses and trolley buses",Percentage,27.8
+2000,Finland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.6
+2000,Finland,Trains,Percentage,5.1
+2000,Finland,Passenger cars,Percentage,83.4
+2000,Finland,"Motor coaches, buses and trolley buses",Percentage,11.5
+2000,Sweden,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.9
+2000,Sweden,Trains,Percentage,6.9
+2000,Sweden,Passenger cars,Percentage,85.1
+2000,Sweden,"Motor coaches, buses and trolley buses",Percentage,7.9
+2000,United Kingdom,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.9
+2000,United Kingdom,Trains,Percentage,5.3
+2000,United Kingdom,Passenger cars,Percentage,88.1
+2000,United Kingdom,"Motor coaches, buses and trolley buses",Percentage,6.6
+2000,Iceland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2000,Iceland,Passenger cars,Percentage,88.6
+2000,Iceland,"Motor coaches, buses and trolley buses",Percentage,11.4
+2000,Norway,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.7
+2000,Norway,Trains,Percentage,4.5
+2000,Norway,Passenger cars,Percentage,88.3
+2000,Norway,"Motor coaches, buses and trolley buses",Percentage,7.1
+2000,Switzerland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.9
+2000,Switzerland,Trains,Percentage,13.7
+2000,Switzerland,Passenger cars,Percentage,81.1
+2000,Switzerland,"Motor coaches, buses and trolley buses",Percentage,5.2
+2000,North Macedonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.5
+2000,North Macedonia,Trains,Percentage,2
+2000,North Macedonia,Passenger cars,Percentage,84.5
+2000,North Macedonia,"Motor coaches, buses and trolley buses",Percentage,13.5
+2000,Turkey,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,54.1
+2000,Turkey,Trains,Percentage,3.4
+2000,Turkey,Passenger cars,Percentage,45.9
+2000,Turkey,"Motor coaches, buses and trolley buses",Percentage,50.7
+2001,European Union - 28 countries,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.2
+2001,European Union - 28 countries,Trains,Percentage,7
+2001,European Union - 28 countries,Passenger cars,Percentage,82.8
+2001,European Union - 28 countries,"Motor coaches, buses and trolley buses",Percentage,10.2
+2001,Belgium,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.4
+2001,Belgium,Trains,Percentage,6.4
+2001,Belgium,Passenger cars,Percentage,82.6
+2001,Belgium,"Motor coaches, buses and trolley buses",Percentage,11
+2001,Bulgaria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,38.5
+2001,Bulgaria,Trains,Percentage,6.6
+2001,Bulgaria,Passenger cars,Percentage,61.5
+2001,Bulgaria,"Motor coaches, buses and trolley buses",Percentage,32
+2001,Czechia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,28.2
+2001,Czechia,Trains,Percentage,8.3
+2001,Czechia,Passenger cars,Percentage,71.8
+2001,Czechia,"Motor coaches, buses and trolley buses",Percentage,19.9
+2001,Denmark,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.8
+2001,Denmark,Trains,Percentage,9.1
+2001,Denmark,Passenger cars,Percentage,79.2
+2001,Denmark,"Motor coaches, buses and trolley buses",Percentage,11.7
+2001,Germany (until 1990 former territory of the FRG),"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.5
+2001,Germany (until 1990 former territory of the FRG),Trains,Percentage,7.6
+2001,Germany (until 1990 former territory of the FRG),Passenger cars,Percentage,85.5
+2001,Germany (until 1990 former territory of the FRG),"Motor coaches, buses and trolley buses",Percentage,6.9
+2001,Estonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,29.9
+2001,Estonia,Trains,Percentage,1.9
+2001,Estonia,Passenger cars,Percentage,70.1
+2001,Estonia,"Motor coaches, buses and trolley buses",Percentage,28
+2001,Ireland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.4
+2001,Ireland,Trains,Percentage,3.3
+2001,Ireland,Passenger cars,Percentage,80.6
+2001,Ireland,"Motor coaches, buses and trolley buses",Percentage,16.1
+2001,Greece,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,25.7
+2001,Greece,Trains,Percentage,1.9
+2001,Greece,Passenger cars,Percentage,74.3
+2001,Greece,"Motor coaches, buses and trolley buses",Percentage,23.8
+2001,Spain,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.2
+2001,Spain,Trains,Percentage,5.5
+2001,Spain,Passenger cars,Percentage,80.8
+2001,Spain,"Motor coaches, buses and trolley buses",Percentage,13.7
+2001,France,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.4
+2001,France,Trains,Percentage,8.5
+2001,France,Passenger cars,Percentage,86.6
+2001,France,"Motor coaches, buses and trolley buses",Percentage,4.9
+2001,Croatia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.3
+2001,Croatia,Trains,Percentage,4.8
+2001,Croatia,Passenger cars,Percentage,81.7
+2001,Croatia,"Motor coaches, buses and trolley buses",Percentage,13.5
+2001,Italy,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.8
+2001,Italy,Trains,Percentage,5.8
+2001,Italy,Passenger cars,Percentage,83.2
+2001,Italy,"Motor coaches, buses and trolley buses",Percentage,11
+2001,Cyprus,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.5
+2001,Cyprus,Passenger cars,Percentage,77.5
+2001,Cyprus,"Motor coaches, buses and trolley buses",Percentage,22.5
+2001,Latvia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.1
+2001,Latvia,Trains,Percentage,4.8
+2001,Latvia,Passenger cars,Percentage,79.9
+2001,Latvia,"Motor coaches, buses and trolley buses",Percentage,15.3
+2001,Lithuania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.4
+2001,Lithuania,Trains,Percentage,2.8
+2001,Lithuania,Passenger cars,Percentage,82.6
+2001,Lithuania,"Motor coaches, buses and trolley buses",Percentage,14.6
+2001,Luxembourg,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.8
+2001,Luxembourg,Trains,Percentage,5.1
+2001,Luxembourg,Passenger cars,Percentage,85.2
+2001,Luxembourg,"Motor coaches, buses and trolley buses",Percentage,9.7
+2001,Hungary,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,38.3
+2001,Hungary,Trains,Percentage,13.4
+2001,Hungary,Passenger cars,Percentage,61.7
+2001,Hungary,"Motor coaches, buses and trolley buses",Percentage,24.9
+2001,Malta,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.7
+2001,Malta,Passenger cars,Percentage,79.3
+2001,Malta,"Motor coaches, buses and trolley buses",Percentage,20.7
+2001,Netherlands,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14
+2001,Netherlands,Trains,Percentage,9.4
+2001,Netherlands,Passenger cars,Percentage,86
+2001,Netherlands,"Motor coaches, buses and trolley buses",Percentage,4.6
+2001,Austria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.6
+2001,Austria,Trains,Percentage,9.7
+2001,Austria,Passenger cars,Percentage,79.4
+2001,Austria,"Motor coaches, buses and trolley buses",Percentage,10.9
+2001,Poland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,33.1
+2001,Poland,Trains,Percentage,9.5
+2001,Poland,Passenger cars,Percentage,66.9
+2001,Poland,"Motor coaches, buses and trolley buses",Percentage,23.5
+2001,Portugal,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.2
+2001,Portugal,Trains,Percentage,4.5
+2001,Portugal,Passenger cars,Percentage,82.8
+2001,Portugal,"Motor coaches, buses and trolley buses",Percentage,12.6
+2001,Romania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,27.5
+2001,Romania,Trains,Percentage,15.1
+2001,Romania,Passenger cars,Percentage,72.5
+2001,Romania,"Motor coaches, buses and trolley buses",Percentage,12.4
+2001,Slovenia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.5
+2001,Slovenia,Trains,Percentage,2.9
+2001,Slovenia,Passenger cars,Percentage,83.5
+2001,Slovenia,"Motor coaches, buses and trolley buses",Percentage,13.6
+2001,Slovakia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,35.3
+2001,Slovakia,Trains,Percentage,7.5
+2001,Slovakia,Passenger cars,Percentage,64.7
+2001,Slovakia,"Motor coaches, buses and trolley buses",Percentage,27.8
+2001,Finland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.2
+2001,Finland,Trains,Percentage,4.8
+2001,Finland,Passenger cars,Percentage,83.8
+2001,Finland,"Motor coaches, buses and trolley buses",Percentage,11.3
+2001,Sweden,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.9
+2001,Sweden,Trains,Percentage,7.3
+2001,Sweden,Passenger cars,Percentage,85.1
+2001,Sweden,"Motor coaches, buses and trolley buses",Percentage,7.6
+2001,United Kingdom,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.8
+2001,United Kingdom,Trains,Percentage,5.3
+2001,United Kingdom,Passenger cars,Percentage,88.2
+2001,United Kingdom,"Motor coaches, buses and trolley buses",Percentage,6.5
+2001,Iceland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2001,Iceland,Passenger cars,Percentage,88.6
+2001,Iceland,"Motor coaches, buses and trolley buses",Percentage,11.4
+2001,Norway,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.5
+2001,Norway,Trains,Percentage,4.5
+2001,Norway,Passenger cars,Percentage,88.5
+2001,Norway,"Motor coaches, buses and trolley buses",Percentage,6.9
+2001,Switzerland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.4
+2001,Switzerland,Trains,Percentage,14.2
+2001,Switzerland,Passenger cars,Percentage,80.6
+2001,Switzerland,"Motor coaches, buses and trolley buses",Percentage,5.2
+2001,North Macedonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17
+2001,North Macedonia,Trains,Percentage,2.8
+2001,North Macedonia,Passenger cars,Percentage,83
+2001,North Macedonia,"Motor coaches, buses and trolley buses",Percentage,14.3
+2001,Turkey,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,50.4
+2001,Turkey,Trains,Percentage,3.4
+2001,Turkey,Passenger cars,Percentage,49.6
+2001,Turkey,"Motor coaches, buses and trolley buses",Percentage,47
+2002,European Union - 28 countries,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.6
+2002,European Union - 28 countries,Trains,Percentage,6.8
+2002,European Union - 28 countries,Passenger cars,Percentage,83.4
+2002,European Union - 28 countries,"Motor coaches, buses and trolley buses",Percentage,9.8
+2002,Belgium,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.1
+2002,Belgium,Trains,Percentage,6.5
+2002,Belgium,Passenger cars,Percentage,81.9
+2002,Belgium,"Motor coaches, buses and trolley buses",Percentage,11.7
+2002,Bulgaria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,38.8
+2002,Bulgaria,Trains,Percentage,5.4
+2002,Bulgaria,Passenger cars,Percentage,61.2
+2002,Bulgaria,"Motor coaches, buses and trolley buses",Percentage,33.4
+2002,Czechia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,26.2
+2002,Czechia,Trains,Percentage,7.5
+2002,Czechia,Passenger cars,Percentage,73.8
+2002,Czechia,"Motor coaches, buses and trolley buses",Percentage,18.7
+2002,Denmark,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.9
+2002,Denmark,Trains,Percentage,9.2
+2002,Denmark,Passenger cars,Percentage,79.1
+2002,Denmark,"Motor coaches, buses and trolley buses",Percentage,11.7
+2002,Germany (until 1990 former territory of the FRG),"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.8
+2002,Germany (until 1990 former territory of the FRG),Trains,Percentage,7.1
+2002,Germany (until 1990 former territory of the FRG),Passenger cars,Percentage,86.2
+2002,Germany (until 1990 former territory of the FRG),"Motor coaches, buses and trolley buses",Percentage,6.7
+2002,Estonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,28.3
+2002,Estonia,Trains,Percentage,1.8
+2002,Estonia,Passenger cars,Percentage,71.7
+2002,Estonia,"Motor coaches, buses and trolley buses",Percentage,26.5
+2002,Ireland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19
+2002,Ireland,Trains,Percentage,3.5
+2002,Ireland,Passenger cars,Percentage,81
+2002,Ireland,"Motor coaches, buses and trolley buses",Percentage,15.6
+2002,Greece,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,24.9
+2002,Greece,Trains,Percentage,1.9
+2002,Greece,Passenger cars,Percentage,75.1
+2002,Greece,"Motor coaches, buses and trolley buses",Percentage,23
+2002,Spain,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.5
+2002,Spain,Trains,Percentage,5.2
+2002,Spain,Passenger cars,Percentage,82.5
+2002,Spain,"Motor coaches, buses and trolley buses",Percentage,12.3
+2002,France,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.6
+2002,France,Trains,Percentage,8.7
+2002,France,Passenger cars,Percentage,86.4
+2002,France,"Motor coaches, buses and trolley buses",Percentage,5
+2002,Croatia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.8
+2002,Croatia,Trains,Percentage,4.5
+2002,Croatia,Passenger cars,Percentage,82.2
+2002,Croatia,"Motor coaches, buses and trolley buses",Percentage,13.3
+2002,Italy,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.7
+2002,Italy,Trains,Percentage,5.6
+2002,Italy,Passenger cars,Percentage,83.3
+2002,Italy,"Motor coaches, buses and trolley buses",Percentage,11.1
+2002,Cyprus,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.6
+2002,Cyprus,Passenger cars,Percentage,77.4
+2002,Cyprus,"Motor coaches, buses and trolley buses",Percentage,22.6
+2002,Latvia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,23.4
+2002,Latvia,Trains,Percentage,4.8
+2002,Latvia,Passenger cars,Percentage,76.6
+2002,Latvia,"Motor coaches, buses and trolley buses",Percentage,18.6
+2002,Lithuania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18
+2002,Lithuania,Trains,Percentage,2.5
+2002,Lithuania,Passenger cars,Percentage,82
+2002,Lithuania,"Motor coaches, buses and trolley buses",Percentage,15.4
+2002,Luxembourg,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.3
+2002,Luxembourg,Trains,Percentage,3.9
+2002,Luxembourg,Passenger cars,Percentage,85.7
+2002,Luxembourg,"Motor coaches, buses and trolley buses",Percentage,10.5
+2002,Hungary,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,38.9
+2002,Hungary,Trains,Percentage,13.9
+2002,Hungary,Passenger cars,Percentage,61.1
+2002,Hungary,"Motor coaches, buses and trolley buses",Percentage,25
+2002,Malta,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.6
+2002,Malta,Passenger cars,Percentage,79.4
+2002,Malta,"Motor coaches, buses and trolley buses",Percentage,20.6
+2002,Netherlands,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.6
+2002,Netherlands,Trains,Percentage,9.3
+2002,Netherlands,Passenger cars,Percentage,86.4
+2002,Netherlands,"Motor coaches, buses and trolley buses",Percentage,4.3
+2002,Austria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.6
+2002,Austria,Trains,Percentage,9.7
+2002,Austria,Passenger cars,Percentage,79.4
+2002,Austria,"Motor coaches, buses and trolley buses",Percentage,10.9
+2002,Poland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,30.3
+2002,Poland,Trains,Percentage,8.6
+2002,Poland,Passenger cars,Percentage,69.7
+2002,Poland,"Motor coaches, buses and trolley buses",Percentage,21.7
+2002,Portugal,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.1
+2002,Portugal,Trains,Percentage,4.3
+2002,Portugal,Passenger cars,Percentage,84.9
+2002,Portugal,"Motor coaches, buses and trolley buses",Percentage,10.9
+2002,Romania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,24.2
+2002,Romania,Trains,Percentage,11.9
+2002,Romania,Passenger cars,Percentage,75.8
+2002,Romania,"Motor coaches, buses and trolley buses",Percentage,12.3
+2002,Slovenia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.1
+2002,Slovenia,Trains,Percentage,3
+2002,Slovenia,Passenger cars,Percentage,83.9
+2002,Slovenia,"Motor coaches, buses and trolley buses",Percentage,13.2
+2002,Slovakia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,33.2
+2002,Slovakia,Trains,Percentage,7.2
+2002,Slovakia,Passenger cars,Percentage,66.8
+2002,Slovakia,"Motor coaches, buses and trolley buses",Percentage,26
+2002,Finland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.9
+2002,Finland,Trains,Percentage,4.8
+2002,Finland,Passenger cars,Percentage,84.1
+2002,Finland,"Motor coaches, buses and trolley buses",Percentage,11.1
+2002,Sweden,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.7
+2002,Sweden,Trains,Percentage,7.2
+2002,Sweden,Passenger cars,Percentage,85.3
+2002,Sweden,"Motor coaches, buses and trolley buses",Percentage,7.5
+2002,United Kingdom,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.9
+2002,United Kingdom,Trains,Percentage,5.3
+2002,United Kingdom,Passenger cars,Percentage,89.1
+2002,United Kingdom,"Motor coaches, buses and trolley buses",Percentage,5.6
+2002,Iceland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2002,Iceland,Passenger cars,Percentage,88.6
+2002,Iceland,"Motor coaches, buses and trolley buses",Percentage,11.4
+2002,Norway,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11
+2002,Norway,Trains,Percentage,4.1
+2002,Norway,Passenger cars,Percentage,89
+2002,Norway,"Motor coaches, buses and trolley buses",Percentage,6.9
+2002,Switzerland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.9
+2002,Switzerland,Trains,Percentage,14.8
+2002,Switzerland,Passenger cars,Percentage,80.1
+2002,Switzerland,"Motor coaches, buses and trolley buses",Percentage,5.1
+2002,North Macedonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.7
+2002,North Macedonia,Trains,Percentage,1.9
+2002,North Macedonia,Passenger cars,Percentage,81.3
+2002,North Macedonia,"Motor coaches, buses and trolley buses",Percentage,16.7
+2002,Turkey,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,51
+2002,Turkey,Trains,Percentage,3.1
+2002,Turkey,Passenger cars,Percentage,49
+2002,Turkey,"Motor coaches, buses and trolley buses",Percentage,47.8
+2003,European Union - 28 countries,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.4
+2003,European Union - 28 countries,Trains,Percentage,6.6
+2003,European Union - 28 countries,Passenger cars,Percentage,83.6
+2003,European Union - 28 countries,"Motor coaches, buses and trolley buses",Percentage,9.8
+2003,Belgium,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.5
+2003,Belgium,Trains,Percentage,6.5
+2003,Belgium,Passenger cars,Percentage,80.5
+2003,Belgium,"Motor coaches, buses and trolley buses",Percentage,13
+2003,Bulgaria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,33.5
+2003,Bulgaria,Trains,Percentage,5.5
+2003,Bulgaria,Passenger cars,Percentage,66.5
+2003,Bulgaria,"Motor coaches, buses and trolley buses",Percentage,28.1
+2003,Czechia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,24.5
+2003,Czechia,Trains,Percentage,7.3
+2003,Czechia,Passenger cars,Percentage,75.5
+2003,Czechia,"Motor coaches, buses and trolley buses",Percentage,17.2
+2003,Denmark,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.9
+2003,Denmark,Trains,Percentage,9.3
+2003,Denmark,Passenger cars,Percentage,79.1
+2003,Denmark,"Motor coaches, buses and trolley buses",Percentage,11.6
+2003,Germany (until 1990 former territory of the FRG),"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.9
+2003,Germany (until 1990 former territory of the FRG),Trains,Percentage,7.2
+2003,Germany (until 1990 former territory of the FRG),Passenger cars,Percentage,86.1
+2003,Germany (until 1990 former territory of the FRG),"Motor coaches, buses and trolley buses",Percentage,6.8
+2003,Estonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,26.4
+2003,Estonia,Trains,Percentage,1.7
+2003,Estonia,Passenger cars,Percentage,73.6
+2003,Estonia,"Motor coaches, buses and trolley buses",Percentage,24.7
+2003,Ireland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.6
+2003,Ireland,Trains,Percentage,3.3
+2003,Ireland,Passenger cars,Percentage,81.4
+2003,Ireland,"Motor coaches, buses and trolley buses",Percentage,15.3
+2003,Greece,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,23.6
+2003,Greece,Trains,Percentage,1.6
+2003,Greece,Passenger cars,Percentage,76.4
+2003,Greece,"Motor coaches, buses and trolley buses",Percentage,22.1
+2003,Spain,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.9
+2003,Spain,Trains,Percentage,5.1
+2003,Spain,Passenger cars,Percentage,83.1
+2003,Spain,"Motor coaches, buses and trolley buses",Percentage,11.8
+2003,France,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.4
+2003,France,Trains,Percentage,8.4
+2003,France,Passenger cars,Percentage,86.6
+2003,France,"Motor coaches, buses and trolley buses",Percentage,5
+2003,Croatia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.8
+2003,Croatia,Trains,Percentage,4.2
+2003,Croatia,Passenger cars,Percentage,82.2
+2003,Croatia,"Motor coaches, buses and trolley buses",Percentage,13.6
+2003,Italy,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.6
+2003,Italy,Trains,Percentage,5.5
+2003,Italy,Passenger cars,Percentage,83.4
+2003,Italy,"Motor coaches, buses and trolley buses",Percentage,11.1
+2003,Cyprus,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,23.6
+2003,Cyprus,Passenger cars,Percentage,76.4
+2003,Cyprus,"Motor coaches, buses and trolley buses",Percentage,23.6
+2003,Latvia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,24.3
+2003,Latvia,Trains,Percentage,4.8
+2003,Latvia,Passenger cars,Percentage,75.7
+2003,Latvia,"Motor coaches, buses and trolley buses",Percentage,19.4
+2003,Lithuania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15
+2003,Lithuania,Trains,Percentage,1.9
+2003,Lithuania,Passenger cars,Percentage,85
+2003,Lithuania,"Motor coaches, buses and trolley buses",Percentage,13.1
+2003,Luxembourg,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.3
+2003,Luxembourg,Trains,Percentage,3.7
+2003,Luxembourg,Passenger cars,Percentage,85.7
+2003,Luxembourg,"Motor coaches, buses and trolley buses",Percentage,10.6
+2003,Hungary,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,37.9
+2003,Hungary,Trains,Percentage,13.4
+2003,Hungary,Passenger cars,Percentage,62.1
+2003,Hungary,"Motor coaches, buses and trolley buses",Percentage,24.5
+2003,Malta,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.5
+2003,Malta,Passenger cars,Percentage,79.5
+2003,Malta,"Motor coaches, buses and trolley buses",Percentage,20.5
+2003,Netherlands,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,12.6
+2003,Netherlands,Trains,Percentage,8.7
+2003,Netherlands,Passenger cars,Percentage,87.4
+2003,Netherlands,"Motor coaches, buses and trolley buses",Percentage,3.9
+2003,Austria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.5
+2003,Austria,Trains,Percentage,9.5
+2003,Austria,Passenger cars,Percentage,79.5
+2003,Austria,"Motor coaches, buses and trolley buses",Percentage,10.9
+2003,Poland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,29.2
+2003,Poland,Trains,Percentage,8.1
+2003,Poland,Passenger cars,Percentage,70.8
+2003,Poland,"Motor coaches, buses and trolley buses",Percentage,21.2
+2003,Portugal,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.9
+2003,Portugal,Trains,Percentage,3.9
+2003,Portugal,Passenger cars,Percentage,85.1
+2003,Portugal,"Motor coaches, buses and trolley buses",Percentage,11
+2003,Romania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,24.3
+2003,Romania,Trains,Percentage,11.5
+2003,Romania,Passenger cars,Percentage,75.7
+2003,Romania,"Motor coaches, buses and trolley buses",Percentage,12.8
+2003,Slovenia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.5
+2003,Slovenia,Trains,Percentage,3
+2003,Slovenia,Passenger cars,Percentage,83.5
+2003,Slovenia,"Motor coaches, buses and trolley buses",Percentage,13.5
+2003,Slovakia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,31.2
+2003,Slovakia,Trains,Percentage,6.3
+2003,Slovakia,Passenger cars,Percentage,68.8
+2003,Slovakia,"Motor coaches, buses and trolley buses",Percentage,24.8
+2003,Finland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.6
+2003,Finland,Trains,Percentage,4.7
+2003,Finland,Passenger cars,Percentage,84.4
+2003,Finland,"Motor coaches, buses and trolley buses",Percentage,10.9
+2003,Sweden,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.5
+2003,Sweden,Trains,Percentage,7.1
+2003,Sweden,Passenger cars,Percentage,85.5
+2003,Sweden,"Motor coaches, buses and trolley buses",Percentage,7.3
+2003,United Kingdom,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.5
+2003,United Kingdom,Trains,Percentage,5.4
+2003,United Kingdom,Passenger cars,Percentage,88.5
+2003,United Kingdom,"Motor coaches, buses and trolley buses",Percentage,6.1
+2003,Iceland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2003,Iceland,Passenger cars,Percentage,88.6
+2003,Iceland,"Motor coaches, buses and trolley buses",Percentage,11.4
+2003,Norway,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.1
+2003,Norway,Trains,Percentage,4.1
+2003,Norway,Passenger cars,Percentage,88.9
+2003,Norway,"Motor coaches, buses and trolley buses",Percentage,7
+2003,Switzerland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.2
+2003,Switzerland,Trains,Percentage,15
+2003,Switzerland,Passenger cars,Percentage,79.8
+2003,Switzerland,"Motor coaches, buses and trolley buses",Percentage,5.2
+2003,North Macedonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.2
+2003,North Macedonia,Trains,Percentage,1.7
+2003,North Macedonia,Passenger cars,Percentage,78.8
+2003,North Macedonia,"Motor coaches, buses and trolley buses",Percentage,19.5
+2003,Turkey,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,50.8
+2003,Turkey,Trains,Percentage,3.4
+2003,Turkey,Passenger cars,Percentage,49.2
+2003,Turkey,"Motor coaches, buses and trolley buses",Percentage,47.4
+2004,European Union - 28 countries,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.5
+2004,European Union - 28 countries,Trains,Percentage,6.7
+2004,European Union - 28 countries,Passenger cars,Percentage,83.5
+2004,European Union - 28 countries,"Motor coaches, buses and trolley buses",Percentage,9.7
+2004,Belgium,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.4
+2004,Belgium,Trains,Percentage,7.1
+2004,Belgium,Passenger cars,Percentage,79.6
+2004,Belgium,"Motor coaches, buses and trolley buses",Percentage,13.2
+2004,Bulgaria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,30.2
+2004,Bulgaria,Trains,Percentage,5.1
+2004,Bulgaria,Passenger cars,Percentage,69.8
+2004,Bulgaria,"Motor coaches, buses and trolley buses",Percentage,25
+2004,Czechia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,23.4
+2004,Czechia,Trains,Percentage,7.5
+2004,Czechia,Passenger cars,Percentage,76.6
+2004,Czechia,"Motor coaches, buses and trolley buses",Percentage,16
+2004,Denmark,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.7
+2004,Denmark,Trains,Percentage,9.3
+2004,Denmark,Passenger cars,Percentage,79.3
+2004,Denmark,"Motor coaches, buses and trolley buses",Percentage,11.4
+2004,Germany (until 1990 former territory of the FRG),"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.2
+2004,Germany (until 1990 former territory of the FRG),Trains,Percentage,7.5
+2004,Germany (until 1990 former territory of the FRG),Passenger cars,Percentage,85.8
+2004,Germany (until 1990 former territory of the FRG),"Motor coaches, buses and trolley buses",Percentage,6.7
+2004,Estonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,27.1
+2004,Estonia,Trains,Percentage,1.8
+2004,Estonia,Passenger cars,Percentage,72.9
+2004,Estonia,"Motor coaches, buses and trolley buses",Percentage,25.3
+2004,Ireland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.1
+2004,Ireland,Trains,Percentage,3
+2004,Ireland,Passenger cars,Percentage,81.9
+2004,Ireland,"Motor coaches, buses and trolley buses",Percentage,15.1
+2004,Greece,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.5
+2004,Greece,Trains,Percentage,1.6
+2004,Greece,Passenger cars,Percentage,77.5
+2004,Greece,"Motor coaches, buses and trolley buses",Percentage,20.9
+2004,Spain,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.3
+2004,Spain,Trains,Percentage,5
+2004,Spain,Passenger cars,Percentage,81.7
+2004,Spain,"Motor coaches, buses and trolley buses",Percentage,13.2
+2004,France,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.8
+2004,France,Trains,Percentage,8.7
+2004,France,Passenger cars,Percentage,86.2
+2004,France,"Motor coaches, buses and trolley buses",Percentage,5.1
+2004,Croatia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.2
+2004,Croatia,Trains,Percentage,4.2
+2004,Croatia,Passenger cars,Percentage,83.8
+2004,Croatia,"Motor coaches, buses and trolley buses",Percentage,12.1
+2004,Italy,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.6
+2004,Italy,Trains,Percentage,5.5
+2004,Italy,Passenger cars,Percentage,83.4
+2004,Italy,"Motor coaches, buses and trolley buses",Percentage,11.1
+2004,Cyprus,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.2
+2004,Cyprus,Passenger cars,Percentage,78.8
+2004,Cyprus,"Motor coaches, buses and trolley buses",Percentage,21.2
+2004,Latvia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,26.2
+2004,Latvia,Trains,Percentage,5.2
+2004,Latvia,Passenger cars,Percentage,73.8
+2004,Latvia,"Motor coaches, buses and trolley buses",Percentage,21.1
+2004,Lithuania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.4
+2004,Lithuania,Trains,Percentage,1.5
+2004,Lithuania,Passenger cars,Percentage,86.6
+2004,Lithuania,"Motor coaches, buses and trolley buses",Percentage,11.9
+2004,Luxembourg,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.4
+2004,Luxembourg,Trains,Percentage,3.6
+2004,Luxembourg,Passenger cars,Percentage,85.6
+2004,Luxembourg,"Motor coaches, buses and trolley buses",Percentage,10.8
+2004,Hungary,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,36.8
+2004,Hungary,Trains,Percentage,13.4
+2004,Hungary,Passenger cars,Percentage,63.2
+2004,Hungary,"Motor coaches, buses and trolley buses",Percentage,23.4
+2004,Malta,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.4
+2004,Malta,Passenger cars,Percentage,79.6
+2004,Malta,"Motor coaches, buses and trolley buses",Percentage,20.4
+2004,Netherlands,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,12.3
+2004,Netherlands,Trains,Percentage,8.4
+2004,Netherlands,Passenger cars,Percentage,87.7
+2004,Netherlands,"Motor coaches, buses and trolley buses",Percentage,3.9
+2004,Austria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.4
+2004,Austria,Trains,Percentage,9.5
+2004,Austria,Passenger cars,Percentage,79.6
+2004,Austria,"Motor coaches, buses and trolley buses",Percentage,11
+2004,Poland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,27.7
+2004,Poland,Trains,Percentage,7.3
+2004,Poland,Passenger cars,Percentage,72.3
+2004,Poland,"Motor coaches, buses and trolley buses",Percentage,20.4
+2004,Portugal,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.9
+2004,Portugal,Trains,Percentage,3.8
+2004,Portugal,Passenger cars,Percentage,85.1
+2004,Portugal,"Motor coaches, buses and trolley buses",Percentage,11.1
+2004,Romania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,23.8
+2004,Romania,Trains,Percentage,11.4
+2004,Romania,Passenger cars,Percentage,76.2
+2004,Romania,"Motor coaches, buses and trolley buses",Percentage,12.4
+2004,Slovenia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.1
+2004,Slovenia,Trains,Percentage,2.7
+2004,Slovenia,Passenger cars,Percentage,84.9
+2004,Slovenia,"Motor coaches, buses and trolley buses",Percentage,12.4
+2004,Slovakia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,32.2
+2004,Slovakia,Trains,Percentage,6
+2004,Slovakia,Passenger cars,Percentage,67.8
+2004,Slovakia,"Motor coaches, buses and trolley buses",Percentage,26.2
+2004,Finland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.2
+2004,Finland,Trains,Percentage,4.7
+2004,Finland,Passenger cars,Percentage,84.8
+2004,Finland,"Motor coaches, buses and trolley buses",Percentage,10.6
+2004,Sweden,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.1
+2004,Sweden,Trains,Percentage,6.9
+2004,Sweden,Passenger cars,Percentage,85.9
+2004,Sweden,"Motor coaches, buses and trolley buses",Percentage,7.1
+2004,United Kingdom,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.3
+2004,United Kingdom,Trains,Percentage,5.7
+2004,United Kingdom,Passenger cars,Percentage,88.7
+2004,United Kingdom,"Motor coaches, buses and trolley buses",Percentage,5.6
+2004,Iceland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2004,Iceland,Passenger cars,Percentage,88.6
+2004,Iceland,"Motor coaches, buses and trolley buses",Percentage,11.4
+2004,Norway,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.2
+2004,Norway,Trains,Percentage,4.3
+2004,Norway,Passenger cars,Percentage,88.8
+2004,Norway,"Motor coaches, buses and trolley buses",Percentage,6.9
+2004,Switzerland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.4
+2004,Switzerland,Trains,Percentage,15.3
+2004,Switzerland,Passenger cars,Percentage,79.6
+2004,Switzerland,"Motor coaches, buses and trolley buses",Percentage,5.2
+2004,North Macedonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.5
+2004,North Macedonia,Trains,Percentage,1.7
+2004,North Macedonia,Passenger cars,Percentage,78.5
+2004,North Macedonia,"Motor coaches, buses and trolley buses",Percentage,19.8
+2004,Turkey,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,48.7
+2004,Turkey,Trains,Percentage,2.8
+2004,Turkey,Passenger cars,Percentage,51.3
+2004,Turkey,"Motor coaches, buses and trolley buses",Percentage,45.9
+2005,European Union - 28 countries,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.6
+2005,European Union - 28 countries,Trains,Percentage,6.9
+2005,European Union - 28 countries,Passenger cars,Percentage,83.4
+2005,European Union - 28 countries,"Motor coaches, buses and trolley buses",Percentage,9.8
+2005,Belgium,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.2
+2005,Belgium,Trains,Percentage,6.6
+2005,Belgium,Passenger cars,Percentage,79.8
+2005,Belgium,"Motor coaches, buses and trolley buses",Percentage,13.6
+2005,Bulgaria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,29.1
+2005,Bulgaria,Trains,Percentage,4.8
+2005,Bulgaria,Passenger cars,Percentage,70.9
+2005,Bulgaria,"Motor coaches, buses and trolley buses",Percentage,24.3
+2005,Czechia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,24.5
+2005,Czechia,Trains,Percentage,7.3
+2005,Czechia,Passenger cars,Percentage,75.5
+2005,Czechia,"Motor coaches, buses and trolley buses",Percentage,17.2
+2005,Denmark,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.9
+2005,Denmark,Trains,Percentage,9.5
+2005,Denmark,Passenger cars,Percentage,79.1
+2005,Denmark,"Motor coaches, buses and trolley buses",Percentage,11.4
+2005,Germany (until 1990 former territory of the FRG),"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.2
+2005,Germany (until 1990 former territory of the FRG),Trains,Percentage,7.5
+2005,Germany (until 1990 former territory of the FRG),Passenger cars,Percentage,85.8
+2005,Germany (until 1990 former territory of the FRG),"Motor coaches, buses and trolley buses",Percentage,6.7
+2005,Estonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,24.3
+2005,Estonia,Trains,Percentage,1.9
+2005,Estonia,Passenger cars,Percentage,75.7
+2005,Estonia,"Motor coaches, buses and trolley buses",Percentage,22.4
+2005,Ireland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.9
+2005,Ireland,Trains,Percentage,3.3
+2005,Ireland,Passenger cars,Percentage,82.1
+2005,Ireland,"Motor coaches, buses and trolley buses",Percentage,14.6
+2005,Greece,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.7
+2005,Greece,Trains,Percentage,1.7
+2005,Greece,Passenger cars,Percentage,78.3
+2005,Greece,"Motor coaches, buses and trolley buses",Percentage,20
+2005,Spain,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18
+2005,Spain,Trains,Percentage,5.1
+2005,Spain,Passenger cars,Percentage,82
+2005,Spain,"Motor coaches, buses and trolley buses",Percentage,12.9
+2005,France,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.2
+2005,France,Trains,Percentage,9.1
+2005,France,Passenger cars,Percentage,85.8
+2005,France,"Motor coaches, buses and trolley buses",Percentage,5.2
+2005,Croatia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.2
+2005,Croatia,Trains,Percentage,4.3
+2005,Croatia,Passenger cars,Percentage,83.8
+2005,Croatia,"Motor coaches, buses and trolley buses",Percentage,11.9
+2005,Italy,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.2
+2005,Italy,Trains,Percentage,6
+2005,Italy,Passenger cars,Percentage,81.8
+2005,Italy,"Motor coaches, buses and trolley buses",Percentage,12.2
+2005,Cyprus,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.8
+2005,Cyprus,Passenger cars,Percentage,79.2
+2005,Cyprus,"Motor coaches, buses and trolley buses",Percentage,20.8
+2005,Latvia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,26.5
+2005,Latvia,Trains,Percentage,5.4
+2005,Latvia,Passenger cars,Percentage,73.5
+2005,Latvia,"Motor coaches, buses and trolley buses",Percentage,21.1
+2005,Lithuania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.2
+2005,Lithuania,Trains,Percentage,0.7
+2005,Lithuania,Passenger cars,Percentage,89.8
+2005,Lithuania,"Motor coaches, buses and trolley buses",Percentage,9.5
+2005,Luxembourg,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.5
+2005,Luxembourg,Trains,Percentage,3.6
+2005,Luxembourg,Passenger cars,Percentage,85.5
+2005,Luxembourg,"Motor coaches, buses and trolley buses",Percentage,10.9
+2005,Hungary,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,35.8
+2005,Hungary,Trains,Percentage,12.6
+2005,Hungary,Passenger cars,Percentage,64.2
+2005,Hungary,"Motor coaches, buses and trolley buses",Percentage,23.2
+2005,Malta,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.7
+2005,Malta,Passenger cars,Percentage,80.3
+2005,Malta,"Motor coaches, buses and trolley buses",Percentage,19.7
+2005,Netherlands,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,12.7
+2005,Netherlands,Trains,Percentage,8.9
+2005,Netherlands,Passenger cars,Percentage,87.3
+2005,Netherlands,"Motor coaches, buses and trolley buses",Percentage,3.8
+2005,Austria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.3
+2005,Austria,Trains,Percentage,9.8
+2005,Austria,Passenger cars,Percentage,79.7
+2005,Austria,"Motor coaches, buses and trolley buses",Percentage,10.5
+2005,Poland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,25.4
+2005,Poland,Trains,Percentage,6.8
+2005,Poland,Passenger cars,Percentage,74.6
+2005,Poland,"Motor coaches, buses and trolley buses",Percentage,18.6
+2005,Portugal,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.7
+2005,Portugal,Trains,Percentage,4
+2005,Portugal,Passenger cars,Percentage,89.3
+2005,Portugal,"Motor coaches, buses and trolley buses",Percentage,6.7
+2005,Romania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,24.5
+2005,Romania,Trains,Percentage,9.9
+2005,Romania,Passenger cars,Percentage,75.5
+2005,Romania,"Motor coaches, buses and trolley buses",Percentage,14.6
+2005,Slovenia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.4
+2005,Slovenia,Trains,Percentage,2.7
+2005,Slovenia,Passenger cars,Percentage,85.6
+2005,Slovenia,"Motor coaches, buses and trolley buses",Percentage,11.6
+2005,Slovakia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,30.6
+2005,Slovakia,Trains,Percentage,5.9
+2005,Slovakia,Passenger cars,Percentage,69.4
+2005,Slovakia,"Motor coaches, buses and trolley buses",Percentage,24.8
+2005,Finland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.1
+2005,Finland,Trains,Percentage,4.8
+2005,Finland,Passenger cars,Percentage,84.9
+2005,Finland,"Motor coaches, buses and trolley buses",Percentage,10.3
+2005,Sweden,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.1
+2005,Sweden,Trains,Percentage,7.1
+2005,Sweden,Passenger cars,Percentage,85.9
+2005,Sweden,"Motor coaches, buses and trolley buses",Percentage,7
+2005,United Kingdom,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.7
+2005,United Kingdom,Trains,Percentage,5.9
+2005,United Kingdom,Passenger cars,Percentage,88.3
+2005,United Kingdom,"Motor coaches, buses and trolley buses",Percentage,5.8
+2005,Iceland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2005,Iceland,Passenger cars,Percentage,88.6
+2005,Iceland,"Motor coaches, buses and trolley buses",Percentage,11.4
+2005,Norway,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.5
+2005,Norway,Trains,Percentage,4.5
+2005,Norway,Passenger cars,Percentage,88.5
+2005,Norway,"Motor coaches, buses and trolley buses",Percentage,7.1
+2005,Switzerland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.6
+2005,Switzerland,Trains,Percentage,16.3
+2005,Switzerland,Passenger cars,Percentage,78.4
+2005,Switzerland,"Motor coaches, buses and trolley buses",Percentage,5.3
+2005,North Macedonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.8
+2005,North Macedonia,Trains,Percentage,1.7
+2005,North Macedonia,Passenger cars,Percentage,79.2
+2005,North Macedonia,"Motor coaches, buses and trolley buses",Percentage,19.1
+2005,Turkey,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,47.7
+2005,Turkey,Trains,Percentage,2.6
+2005,Turkey,Passenger cars,Percentage,52.3
+2005,Turkey,"Motor coaches, buses and trolley buses",Percentage,45
+2006,European Union - 28 countries,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.6
+2006,European Union - 28 countries,Trains,Percentage,7
+2006,European Union - 28 countries,Passenger cars,Percentage,83.4
+2006,European Union - 28 countries,"Motor coaches, buses and trolley buses",Percentage,9.6
+2006,Belgium,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.8
+2006,Belgium,Trains,Percentage,6.9
+2006,Belgium,Passenger cars,Percentage,79.2
+2006,Belgium,"Motor coaches, buses and trolley buses",Percentage,13.9
+2006,Bulgaria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,27.4
+2006,Bulgaria,Trains,Percentage,4.7
+2006,Bulgaria,Passenger cars,Percentage,72.6
+2006,Bulgaria,"Motor coaches, buses and trolley buses",Percentage,22.7
+2006,Czechia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,24.8
+2006,Czechia,Trains,Percentage,7.5
+2006,Czechia,Passenger cars,Percentage,75.2
+2006,Czechia,"Motor coaches, buses and trolley buses",Percentage,17.3
+2006,Denmark,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.9
+2006,Denmark,Trains,Percentage,9.7
+2006,Denmark,Passenger cars,Percentage,79.1
+2006,Denmark,"Motor coaches, buses and trolley buses",Percentage,11.2
+2006,Germany (until 1990 former territory of the FRG),"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.4
+2006,Germany (until 1990 former territory of the FRG),Trains,Percentage,7.8
+2006,Germany (until 1990 former territory of the FRG),Passenger cars,Percentage,85.6
+2006,Germany (until 1990 former territory of the FRG),"Motor coaches, buses and trolley buses",Percentage,6.6
+2006,Estonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22
+2006,Estonia,Trains,Percentage,2
+2006,Estonia,Passenger cars,Percentage,78
+2006,Estonia,"Motor coaches, buses and trolley buses",Percentage,19.9
+2006,Ireland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.7
+2006,Ireland,Trains,Percentage,3.3
+2006,Ireland,Passenger cars,Percentage,82.3
+2006,Ireland,"Motor coaches, buses and trolley buses",Percentage,14.4
+2006,Greece,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.8
+2006,Greece,Trains,Percentage,1.6
+2006,Greece,Passenger cars,Percentage,79.2
+2006,Greece,"Motor coaches, buses and trolley buses",Percentage,19.2
+2006,Spain,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.2
+2006,Spain,Trains,Percentage,5.2
+2006,Spain,Passenger cars,Percentage,82.8
+2006,Spain,"Motor coaches, buses and trolley buses",Percentage,12
+2006,France,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.7
+2006,France,Trains,Percentage,9.4
+2006,France,Passenger cars,Percentage,85.3
+2006,France,"Motor coaches, buses and trolley buses",Percentage,5.3
+2006,Croatia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.3
+2006,Croatia,Trains,Percentage,4.4
+2006,Croatia,Passenger cars,Percentage,83.7
+2006,Croatia,"Motor coaches, buses and trolley buses",Percentage,11.8
+2006,Italy,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.5
+2006,Italy,Trains,Percentage,6.1
+2006,Italy,Passenger cars,Percentage,81.5
+2006,Italy,"Motor coaches, buses and trolley buses",Percentage,12.4
+2006,Cyprus,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.4
+2006,Cyprus,Passenger cars,Percentage,79.6
+2006,Cyprus,"Motor coaches, buses and trolley buses",Percentage,20.4
+2006,Latvia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,23.4
+2006,Latvia,Trains,Percentage,5.4
+2006,Latvia,Passenger cars,Percentage,76.6
+2006,Latvia,"Motor coaches, buses and trolley buses",Percentage,18
+2006,Lithuania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,8.6
+2006,Lithuania,Trains,Percentage,0.6
+2006,Lithuania,Passenger cars,Percentage,91.4
+2006,Lithuania,"Motor coaches, buses and trolley buses",Percentage,8
+2006,Luxembourg,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.7
+2006,Luxembourg,Trains,Percentage,3.9
+2006,Luxembourg,Passenger cars,Percentage,85.3
+2006,Luxembourg,"Motor coaches, buses and trolley buses",Percentage,10.8
+2006,Hungary,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,34.4
+2006,Hungary,Trains,Percentage,11.9
+2006,Hungary,Passenger cars,Percentage,65.6
+2006,Hungary,"Motor coaches, buses and trolley buses",Percentage,22.5
+2006,Malta,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.6
+2006,Malta,Passenger cars,Percentage,80.4
+2006,Malta,"Motor coaches, buses and trolley buses",Percentage,19.6
+2006,Netherlands,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,12.8
+2006,Netherlands,Trains,Percentage,9.4
+2006,Netherlands,Passenger cars,Percentage,87.2
+2006,Netherlands,"Motor coaches, buses and trolley buses",Percentage,3.5
+2006,Austria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.4
+2006,Austria,Trains,Percentage,10
+2006,Austria,Passenger cars,Percentage,79.6
+2006,Austria,"Motor coaches, buses and trolley buses",Percentage,10.4
+2006,Poland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,23.4
+2006,Poland,Trains,Percentage,6.4
+2006,Poland,Passenger cars,Percentage,76.6
+2006,Poland,"Motor coaches, buses and trolley buses",Percentage,17
+2006,Portugal,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.4
+2006,Portugal,Trains,Percentage,4
+2006,Portugal,Passenger cars,Percentage,89.6
+2006,Portugal,"Motor coaches, buses and trolley buses",Percentage,6.3
+2006,Romania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,23.6
+2006,Romania,Trains,Percentage,9.6
+2006,Romania,Passenger cars,Percentage,76.4
+2006,Romania,"Motor coaches, buses and trolley buses",Percentage,14
+2006,Slovenia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.4
+2006,Slovenia,Trains,Percentage,2.7
+2006,Slovenia,Passenger cars,Percentage,85.6
+2006,Slovenia,"Motor coaches, buses and trolley buses",Percentage,11.7
+2006,Slovakia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,29.3
+2006,Slovakia,Trains,Percentage,5.9
+2006,Slovakia,Passenger cars,Percentage,70.7
+2006,Slovakia,"Motor coaches, buses and trolley buses",Percentage,23.3
+2006,Finland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.1
+2006,Finland,Trains,Percentage,4.8
+2006,Finland,Passenger cars,Percentage,84.9
+2006,Finland,"Motor coaches, buses and trolley buses",Percentage,10.3
+2006,Sweden,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.6
+2006,Sweden,Trains,Percentage,7.7
+2006,Sweden,Passenger cars,Percentage,85.4
+2006,Sweden,"Motor coaches, buses and trolley buses",Percentage,7
+2006,United Kingdom,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.7
+2006,United Kingdom,Trains,Percentage,6.2
+2006,United Kingdom,Passenger cars,Percentage,88.3
+2006,United Kingdom,"Motor coaches, buses and trolley buses",Percentage,5.5
+2006,Iceland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2006,Iceland,Passenger cars,Percentage,88.6
+2006,Iceland,"Motor coaches, buses and trolley buses",Percentage,11.4
+2006,Norway,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2006,Norway,Trains,Percentage,4.6
+2006,Norway,Passenger cars,Percentage,88.6
+2006,Norway,"Motor coaches, buses and trolley buses",Percentage,6.9
+2006,Switzerland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.1
+2006,Switzerland,Trains,Percentage,16.5
+2006,Switzerland,Passenger cars,Percentage,77.9
+2006,Switzerland,"Motor coaches, buses and trolley buses",Percentage,5.6
+2006,North Macedonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.6
+2006,North Macedonia,Trains,Percentage,1.8
+2006,North Macedonia,Passenger cars,Percentage,80.4
+2006,North Macedonia,"Motor coaches, buses and trolley buses",Percentage,17.8
+2006,Turkey,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,46.1
+2006,Turkey,Trains,Percentage,2.6
+2006,Turkey,Passenger cars,Percentage,53.9
+2006,Turkey,"Motor coaches, buses and trolley buses",Percentage,43.4
+2007,European Union - 28 countries,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.9
+2007,European Union - 28 countries,Trains,Percentage,7.1
+2007,European Union - 28 countries,Passenger cars,Percentage,83.1
+2007,European Union - 28 countries,"Motor coaches, buses and trolley buses",Percentage,9.8
+2007,Belgium,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.2
+2007,Belgium,Trains,Percentage,7.1
+2007,Belgium,Passenger cars,Percentage,78.8
+2007,Belgium,"Motor coaches, buses and trolley buses",Percentage,14.1
+2007,Bulgaria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,26.2
+2007,Bulgaria,Trains,Percentage,4.4
+2007,Bulgaria,Passenger cars,Percentage,73.8
+2007,Bulgaria,"Motor coaches, buses and trolley buses",Percentage,21.8
+2007,Czechia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,24.3
+2007,Czechia,Trains,Percentage,7.3
+2007,Czechia,Passenger cars,Percentage,75.7
+2007,Czechia,"Motor coaches, buses and trolley buses",Percentage,17
+2007,Denmark,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.4
+2007,Denmark,Trains,Percentage,9.7
+2007,Denmark,Passenger cars,Percentage,79.6
+2007,Denmark,"Motor coaches, buses and trolley buses",Percentage,10.7
+2007,Germany (until 1990 former territory of the FRG),"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.3
+2007,Germany (until 1990 former territory of the FRG),Trains,Percentage,7.8
+2007,Germany (until 1990 former territory of the FRG),Passenger cars,Percentage,85.7
+2007,Germany (until 1990 former territory of the FRG),"Motor coaches, buses and trolley buses",Percentage,6.5
+2007,Estonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.8
+2007,Estonia,Trains,Percentage,2.1
+2007,Estonia,Passenger cars,Percentage,77.2
+2007,Estonia,"Motor coaches, buses and trolley buses",Percentage,20.7
+2007,Ireland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.7
+2007,Ireland,Trains,Percentage,3.4
+2007,Ireland,Passenger cars,Percentage,82.3
+2007,Ireland,"Motor coaches, buses and trolley buses",Percentage,14.2
+2007,Greece,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.1
+2007,Greece,Trains,Percentage,1.6
+2007,Greece,Passenger cars,Percentage,79.9
+2007,Greece,"Motor coaches, buses and trolley buses",Percentage,18.5
+2007,Spain,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19
+2007,Spain,Trains,Percentage,5
+2007,Spain,Passenger cars,Percentage,81
+2007,Spain,"Motor coaches, buses and trolley buses",Percentage,14
+2007,France,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.1
+2007,France,Trains,Percentage,9.6
+2007,France,Passenger cars,Percentage,84.9
+2007,France,"Motor coaches, buses and trolley buses",Percentage,5.5
+2007,Croatia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.1
+2007,Croatia,Trains,Percentage,5
+2007,Croatia,Passenger cars,Percentage,82.9
+2007,Croatia,"Motor coaches, buses and trolley buses",Percentage,12.1
+2007,Italy,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.4
+2007,Italy,Trains,Percentage,6
+2007,Italy,Passenger cars,Percentage,81.6
+2007,Italy,"Motor coaches, buses and trolley buses",Percentage,12.4
+2007,Cyprus,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.7
+2007,Cyprus,Passenger cars,Percentage,80.3
+2007,Cyprus,"Motor coaches, buses and trolley buses",Percentage,19.7
+2007,Latvia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.6
+2007,Latvia,Trains,Percentage,4.9
+2007,Latvia,Passenger cars,Percentage,79.4
+2007,Latvia,"Motor coaches, buses and trolley buses",Percentage,15.7
+2007,Lithuania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,9
+2007,Lithuania,Trains,Percentage,0.6
+2007,Lithuania,Passenger cars,Percentage,91
+2007,Lithuania,"Motor coaches, buses and trolley buses",Percentage,8.4
+2007,Luxembourg,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.1
+2007,Luxembourg,Trains,Percentage,4.1
+2007,Luxembourg,Passenger cars,Percentage,84.9
+2007,Luxembourg,"Motor coaches, buses and trolley buses",Percentage,11.1
+2007,Hungary,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,32.4
+2007,Hungary,Trains,Percentage,11
+2007,Hungary,Passenger cars,Percentage,67.6
+2007,Hungary,"Motor coaches, buses and trolley buses",Percentage,21.5
+2007,Malta,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.4
+2007,Malta,Passenger cars,Percentage,80.6
+2007,Malta,"Motor coaches, buses and trolley buses",Percentage,19.4
+2007,Netherlands,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,12.9
+2007,Netherlands,Trains,Percentage,9.6
+2007,Netherlands,Passenger cars,Percentage,87.1
+2007,Netherlands,"Motor coaches, buses and trolley buses",Percentage,3.4
+2007,Austria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.1
+2007,Austria,Trains,Percentage,10
+2007,Austria,Passenger cars,Percentage,78.9
+2007,Austria,"Motor coaches, buses and trolley buses",Percentage,11.1
+2007,Poland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,29.3
+2007,Poland,Trains,Percentage,8.5
+2007,Poland,Passenger cars,Percentage,70.7
+2007,Poland,"Motor coaches, buses and trolley buses",Percentage,20.8
+2007,Portugal,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.6
+2007,Portugal,Trains,Percentage,4.1
+2007,Portugal,Passenger cars,Percentage,89.4
+2007,Portugal,"Motor coaches, buses and trolley buses",Percentage,6.5
+2007,Romania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.5
+2007,Romania,Trains,Percentage,8.6
+2007,Romania,Passenger cars,Percentage,77.5
+2007,Romania,"Motor coaches, buses and trolley buses",Percentage,14
+2007,Slovenia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14
+2007,Slovenia,Trains,Percentage,2.6
+2007,Slovenia,Passenger cars,Percentage,86
+2007,Slovenia,"Motor coaches, buses and trolley buses",Percentage,11.4
+2007,Slovakia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,28
+2007,Slovakia,Trains,Percentage,6
+2007,Slovakia,Passenger cars,Percentage,72
+2007,Slovakia,"Motor coaches, buses and trolley buses",Percentage,22
+2007,Finland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.1
+2007,Finland,Trains,Percentage,5
+2007,Finland,Passenger cars,Percentage,84.9
+2007,Finland,"Motor coaches, buses and trolley buses",Percentage,10
+2007,Sweden,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.8
+2007,Sweden,Trains,Percentage,8
+2007,Sweden,Passenger cars,Percentage,85.2
+2007,Sweden,"Motor coaches, buses and trolley buses",Percentage,6.8
+2007,United Kingdom,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,12.1
+2007,United Kingdom,Trains,Percentage,6.6
+2007,United Kingdom,Passenger cars,Percentage,87.9
+2007,United Kingdom,"Motor coaches, buses and trolley buses",Percentage,5.5
+2007,Iceland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2007,Iceland,Passenger cars,Percentage,88.6
+2007,Iceland,"Motor coaches, buses and trolley buses",Percentage,11.4
+2007,Norway,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.3
+2007,Norway,Trains,Percentage,4.6
+2007,Norway,Passenger cars,Percentage,88.7
+2007,Norway,"Motor coaches, buses and trolley buses",Percentage,6.7
+2007,Switzerland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.6
+2007,Switzerland,Trains,Percentage,17
+2007,Switzerland,Passenger cars,Percentage,77.4
+2007,Switzerland,"Motor coaches, buses and trolley buses",Percentage,5.5
+2007,North Macedonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.2
+2007,North Macedonia,Trains,Percentage,2.1
+2007,North Macedonia,Passenger cars,Percentage,77.8
+2007,North Macedonia,"Motor coaches, buses and trolley buses",Percentage,20.1
+2007,Turkey,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,45.1
+2007,Turkey,Trains,Percentage,2.7
+2007,Turkey,Passenger cars,Percentage,54.9
+2007,Turkey,"Motor coaches, buses and trolley buses",Percentage,42.4
+2008,European Union - 28 countries,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.1
+2008,European Union - 28 countries,Trains,Percentage,7.4
+2008,European Union - 28 countries,Passenger cars,Percentage,82.9
+2008,European Union - 28 countries,"Motor coaches, buses and trolley buses",Percentage,9.8
+2008,Belgium,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.4
+2008,Belgium,Trains,Percentage,7.5
+2008,Belgium,Passenger cars,Percentage,79.6
+2008,Belgium,"Motor coaches, buses and trolley buses",Percentage,13
+2008,Bulgaria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,24.9
+2008,Bulgaria,Trains,Percentage,4
+2008,Bulgaria,Passenger cars,Percentage,75.1
+2008,Bulgaria,"Motor coaches, buses and trolley buses",Percentage,20.8
+2008,Czechia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,24
+2008,Czechia,Trains,Percentage,7.1
+2008,Czechia,Passenger cars,Percentage,76
+2008,Czechia,"Motor coaches, buses and trolley buses",Percentage,16.9
+2008,Denmark,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.2
+2008,Denmark,Trains,Percentage,9.7
+2008,Denmark,Passenger cars,Percentage,79.8
+2008,Denmark,"Motor coaches, buses and trolley buses",Percentage,10.5
+2008,Germany (until 1990 former territory of the FRG),"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.4
+2008,Germany (until 1990 former territory of the FRG),Trains,Percentage,8.1
+2008,Germany (until 1990 former territory of the FRG),Passenger cars,Percentage,85.6
+2008,Germany (until 1990 former territory of the FRG),"Motor coaches, buses and trolley buses",Percentage,6.3
+2008,Estonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.6
+2008,Estonia,Trains,Percentage,2.1
+2008,Estonia,Passenger cars,Percentage,79.4
+2008,Estonia,"Motor coaches, buses and trolley buses",Percentage,18.5
+2008,Ireland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.7
+2008,Ireland,Trains,Percentage,3.3
+2008,Ireland,Passenger cars,Percentage,82.3
+2008,Ireland,"Motor coaches, buses and trolley buses",Percentage,14.4
+2008,Greece,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.2
+2008,Greece,Trains,Percentage,1.3
+2008,Greece,Passenger cars,Percentage,80.8
+2008,Greece,"Motor coaches, buses and trolley buses",Percentage,17.9
+2008,Spain,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.7
+2008,Spain,Trains,Percentage,5.5
+2008,Spain,Passenger cars,Percentage,80.3
+2008,Spain,"Motor coaches, buses and trolley buses",Percentage,14.3
+2008,France,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.8
+2008,France,Trains,Percentage,10.1
+2008,France,Passenger cars,Percentage,84.2
+2008,France,"Motor coaches, buses and trolley buses",Percentage,5.7
+2008,Croatia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.8
+2008,Croatia,Trains,Percentage,5.4
+2008,Croatia,Passenger cars,Percentage,82.2
+2008,Croatia,"Motor coaches, buses and trolley buses",Percentage,12.5
+2008,Italy,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.3
+2008,Italy,Trains,Percentage,6
+2008,Italy,Passenger cars,Percentage,81.7
+2008,Italy,"Motor coaches, buses and trolley buses",Percentage,12.4
+2008,Cyprus,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.8
+2008,Cyprus,Passenger cars,Percentage,81.2
+2008,Cyprus,"Motor coaches, buses and trolley buses",Percentage,18.8
+2008,Latvia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.3
+2008,Latvia,Trains,Percentage,5.2
+2008,Latvia,Passenger cars,Percentage,78.7
+2008,Latvia,"Motor coaches, buses and trolley buses",Percentage,16.1
+2008,Lithuania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,8.8
+2008,Lithuania,Trains,Percentage,0.6
+2008,Lithuania,Passenger cars,Percentage,91.2
+2008,Lithuania,"Motor coaches, buses and trolley buses",Percentage,8.2
+2008,Luxembourg,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.8
+2008,Luxembourg,Trains,Percentage,4.3
+2008,Luxembourg,Passenger cars,Percentage,84.2
+2008,Luxembourg,"Motor coaches, buses and trolley buses",Percentage,11.4
+2008,Hungary,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,32.5
+2008,Hungary,Trains,Percentage,10.4
+2008,Hungary,Passenger cars,Percentage,67.5
+2008,Hungary,"Motor coaches, buses and trolley buses",Percentage,22.1
+2008,Malta,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.2
+2008,Malta,Passenger cars,Percentage,80.8
+2008,Malta,"Motor coaches, buses and trolley buses",Percentage,19.2
+2008,Netherlands,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,12.7
+2008,Netherlands,Trains,Percentage,9.2
+2008,Netherlands,Passenger cars,Percentage,87.3
+2008,Netherlands,"Motor coaches, buses and trolley buses",Percentage,3.5
+2008,Austria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.7
+2008,Austria,Trains,Percentage,11.1
+2008,Austria,Passenger cars,Percentage,78.3
+2008,Austria,"Motor coaches, buses and trolley buses",Percentage,10.6
+2008,Poland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,28.1
+2008,Poland,Trains,Percentage,8.2
+2008,Poland,Passenger cars,Percentage,71.9
+2008,Poland,"Motor coaches, buses and trolley buses",Percentage,19.9
+2008,Portugal,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.8
+2008,Portugal,Trains,Percentage,4.3
+2008,Portugal,Passenger cars,Percentage,89.2
+2008,Portugal,"Motor coaches, buses and trolley buses",Percentage,6.4
+2008,Romania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.8
+2008,Romania,Trains,Percentage,7.6
+2008,Romania,Passenger cars,Percentage,77.2
+2008,Romania,"Motor coaches, buses and trolley buses",Percentage,15.2
+2008,Slovenia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.6
+2008,Slovenia,Trains,Percentage,2.7
+2008,Slovenia,Passenger cars,Percentage,86.4
+2008,Slovenia,"Motor coaches, buses and trolley buses",Percentage,10.9
+2008,Slovakia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,27
+2008,Slovakia,Trains,Percentage,6.4
+2008,Slovakia,Passenger cars,Percentage,73
+2008,Slovakia,"Motor coaches, buses and trolley buses",Percentage,20.6
+2008,Finland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.5
+2008,Finland,Trains,Percentage,5.4
+2008,Finland,Passenger cars,Percentage,84.5
+2008,Finland,"Motor coaches, buses and trolley buses",Percentage,10.1
+2008,Sweden,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.4
+2008,Sweden,Trains,Percentage,8.7
+2008,Sweden,Passenger cars,Percentage,84.6
+2008,Sweden,"Motor coaches, buses and trolley buses",Percentage,6.7
+2008,United Kingdom,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,12.8
+2008,United Kingdom,Trains,Percentage,6.9
+2008,United Kingdom,Passenger cars,Percentage,87.2
+2008,United Kingdom,"Motor coaches, buses and trolley buses",Percentage,5.9
+2008,Iceland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2008,Iceland,Passenger cars,Percentage,88.6
+2008,Iceland,"Motor coaches, buses and trolley buses",Percentage,11.4
+2008,Norway,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.5
+2008,Norway,Trains,Percentage,4.8
+2008,Norway,Passenger cars,Percentage,88.5
+2008,Norway,"Motor coaches, buses and trolley buses",Percentage,6.7
+2008,Switzerland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.2
+2008,Switzerland,Trains,Percentage,17.1
+2008,Switzerland,Passenger cars,Percentage,77.8
+2008,Switzerland,"Motor coaches, buses and trolley buses",Percentage,5.2
+2008,North Macedonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,24.8
+2008,North Macedonia,Trains,Percentage,2.6
+2008,North Macedonia,Passenger cars,Percentage,75.2
+2008,North Macedonia,"Motor coaches, buses and trolley buses",Percentage,22.1
+2008,Turkey,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,43.7
+2008,Turkey,Trains,Percentage,2.4
+2008,Turkey,Passenger cars,Percentage,56.3
+2008,Turkey,"Motor coaches, buses and trolley buses",Percentage,41.3
+2009,European Union - 28 countries,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.3
+2009,European Union - 28 countries,Trains,Percentage,7.1
+2009,European Union - 28 countries,Passenger cars,Percentage,83.7
+2009,European Union - 28 countries,"Motor coaches, buses and trolley buses",Percentage,9.2
+2009,Belgium,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.5
+2009,Belgium,Trains,Percentage,7.5
+2009,Belgium,Passenger cars,Percentage,79.5
+2009,Belgium,"Motor coaches, buses and trolley buses",Percentage,13
+2009,Bulgaria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.5
+2009,Bulgaria,Trains,Percentage,3.7
+2009,Bulgaria,Passenger cars,Percentage,79.5
+2009,Bulgaria,"Motor coaches, buses and trolley buses",Percentage,16.8
+2009,Czechia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,23.8
+2009,Czechia,Trains,Percentage,6.8
+2009,Czechia,Passenger cars,Percentage,76.2
+2009,Czechia,"Motor coaches, buses and trolley buses",Percentage,16.9
+2009,Denmark,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.9
+2009,Denmark,Trains,Percentage,9.5
+2009,Denmark,Passenger cars,Percentage,80.1
+2009,Denmark,"Motor coaches, buses and trolley buses",Percentage,10.4
+2009,Germany (until 1990 former territory of the FRG),"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14
+2009,Germany (until 1990 former territory of the FRG),Trains,Percentage,7.9
+2009,Germany (until 1990 former territory of the FRG),Passenger cars,Percentage,86
+2009,Germany (until 1990 former territory of the FRG),"Motor coaches, buses and trolley buses",Percentage,6.1
+2009,Estonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.4
+2009,Estonia,Trains,Percentage,1.9
+2009,Estonia,Passenger cars,Percentage,81.6
+2009,Estonia,"Motor coaches, buses and trolley buses",Percentage,16.4
+2009,Ireland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.9
+2009,Ireland,Trains,Percentage,2.8
+2009,Ireland,Passenger cars,Percentage,82.1
+2009,Ireland,"Motor coaches, buses and trolley buses",Percentage,15
+2009,Greece,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.1
+2009,Greece,Trains,Percentage,1.2
+2009,Greece,Passenger cars,Percentage,81.9
+2009,Greece,"Motor coaches, buses and trolley buses",Percentage,16.9
+2009,Spain,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.6
+2009,Spain,Trains,Percentage,5.4
+2009,Spain,Passenger cars,Percentage,81.4
+2009,Spain,"Motor coaches, buses and trolley buses",Percentage,13.3
+2009,France,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.6
+2009,France,Trains,Percentage,9.4
+2009,France,Passenger cars,Percentage,85.4
+2009,France,"Motor coaches, buses and trolley buses",Percentage,5.2
+2009,Croatia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.4
+2009,Croatia,Trains,Percentage,5.6
+2009,Croatia,Passenger cars,Percentage,83.6
+2009,Croatia,"Motor coaches, buses and trolley buses",Percentage,10.7
+2009,Italy,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.2
+2009,Italy,Trains,Percentage,5.5
+2009,Italy,Passenger cars,Percentage,82.8
+2009,Italy,"Motor coaches, buses and trolley buses",Percentage,11.7
+2009,Cyprus,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.6
+2009,Cyprus,Passenger cars,Percentage,82.4
+2009,Cyprus,"Motor coaches, buses and trolley buses",Percentage,17.6
+2009,Latvia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.8
+2009,Latvia,Trains,Percentage,4.7
+2009,Latvia,Passenger cars,Percentage,80.2
+2009,Latvia,"Motor coaches, buses and trolley buses",Percentage,15.1
+2009,Lithuania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,7.7
+2009,Lithuania,Trains,Percentage,0.6
+2009,Lithuania,Passenger cars,Percentage,92.3
+2009,Lithuania,"Motor coaches, buses and trolley buses",Percentage,7.1
+2009,Luxembourg,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.7
+2009,Luxembourg,Trains,Percentage,4.3
+2009,Luxembourg,Passenger cars,Percentage,84.3
+2009,Luxembourg,"Motor coaches, buses and trolley buses",Percentage,11.4
+2009,Hungary,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,30.9
+2009,Hungary,Trains,Percentage,10.2
+2009,Hungary,Passenger cars,Percentage,69.1
+2009,Hungary,"Motor coaches, buses and trolley buses",Percentage,20.7
+2009,Malta,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.1
+2009,Malta,Passenger cars,Percentage,81.9
+2009,Malta,"Motor coaches, buses and trolley buses",Percentage,18.1
+2009,Netherlands,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,12.7
+2009,Netherlands,Trains,Percentage,9.2
+2009,Netherlands,Passenger cars,Percentage,87.3
+2009,Netherlands,"Motor coaches, buses and trolley buses",Percentage,3.5
+2009,Austria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21
+2009,Austria,Trains,Percentage,11.1
+2009,Austria,Passenger cars,Percentage,79
+2009,Austria,"Motor coaches, buses and trolley buses",Percentage,10
+2009,Poland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,25.3
+2009,Poland,Trains,Percentage,7.4
+2009,Poland,Passenger cars,Percentage,74.7
+2009,Poland,"Motor coaches, buses and trolley buses",Percentage,17.9
+2009,Portugal,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.6
+2009,Portugal,Trains,Percentage,4.4
+2009,Portugal,Passenger cars,Percentage,89.4
+2009,Portugal,"Motor coaches, buses and trolley buses",Percentage,6.2
+2009,Romania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20
+2009,Romania,Trains,Percentage,6.5
+2009,Romania,Passenger cars,Percentage,80
+2009,Romania,"Motor coaches, buses and trolley buses",Percentage,13.6
+2009,Slovenia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.3
+2009,Slovenia,Trains,Percentage,2.6
+2009,Slovenia,Passenger cars,Percentage,86.7
+2009,Slovenia,"Motor coaches, buses and trolley buses",Percentage,10.7
+2009,Slovakia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.4
+2009,Slovakia,Trains,Percentage,6.6
+2009,Slovakia,Passenger cars,Percentage,77.6
+2009,Slovakia,"Motor coaches, buses and trolley buses",Percentage,15.8
+2009,Finland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.1
+2009,Finland,Trains,Percentage,5.1
+2009,Finland,Passenger cars,Percentage,84.9
+2009,Finland,"Motor coaches, buses and trolley buses",Percentage,10
+2009,Sweden,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.5
+2009,Sweden,Trains,Percentage,8.8
+2009,Sweden,Passenger cars,Percentage,84.5
+2009,Sweden,"Motor coaches, buses and trolley buses",Percentage,6.6
+2009,United Kingdom,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13
+2009,United Kingdom,Trains,Percentage,6.9
+2009,United Kingdom,Passenger cars,Percentage,87
+2009,United Kingdom,"Motor coaches, buses and trolley buses",Percentage,6
+2009,Iceland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2009,Iceland,Passenger cars,Percentage,88.6
+2009,Iceland,"Motor coaches, buses and trolley buses",Percentage,11.4
+2009,Norway,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2009,Norway,Trains,Percentage,4.7
+2009,Norway,Passenger cars,Percentage,88.6
+2009,Norway,"Motor coaches, buses and trolley buses",Percentage,6.7
+2009,Switzerland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.5
+2009,Switzerland,Trains,Percentage,17.4
+2009,Switzerland,Passenger cars,Percentage,77.5
+2009,Switzerland,"Motor coaches, buses and trolley buses",Percentage,5.1
+2009,North Macedonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,24.4
+2009,North Macedonia,Trains,Percentage,2.8
+2009,North Macedonia,Passenger cars,Percentage,75.6
+2009,North Macedonia,"Motor coaches, buses and trolley buses",Percentage,21.6
+2009,Turkey,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,43.1
+2009,Turkey,Trains,Percentage,2.5
+2009,Turkey,Passenger cars,Percentage,56.9
+2009,Turkey,"Motor coaches, buses and trolley buses",Percentage,40.6
+2010,European Union - 28 countries,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.5
+2010,European Union - 28 countries,Trains,Percentage,7.2
+2010,European Union - 28 countries,Passenger cars,Percentage,83.5
+2010,European Union - 28 countries,"Motor coaches, buses and trolley buses",Percentage,9.4
+2010,Belgium,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.3
+2010,Belgium,Trains,Percentage,7.7
+2010,Belgium,Passenger cars,Percentage,79.7
+2010,Belgium,"Motor coaches, buses and trolley buses",Percentage,12.7
+2010,Bulgaria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20
+2010,Bulgaria,Trains,Percentage,3.6
+2010,Bulgaria,Passenger cars,Percentage,80
+2010,Bulgaria,"Motor coaches, buses and trolley buses",Percentage,16.4
+2010,Czechia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,27
+2010,Czechia,Trains,Percentage,7.5
+2010,Czechia,Passenger cars,Percentage,73
+2010,Czechia,"Motor coaches, buses and trolley buses",Percentage,19.5
+2010,Denmark,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.3
+2010,Denmark,Trains,Percentage,9.8
+2010,Denmark,Passenger cars,Percentage,79.7
+2010,Denmark,"Motor coaches, buses and trolley buses",Percentage,10.5
+2010,Germany (until 1990 former territory of the FRG),"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14
+2010,Germany (until 1990 former territory of the FRG),Trains,Percentage,8
+2010,Germany (until 1990 former territory of the FRG),Passenger cars,Percentage,86
+2010,Germany (until 1990 former territory of the FRG),"Motor coaches, buses and trolley buses",Percentage,6
+2010,Estonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.6
+2010,Estonia,Trains,Percentage,2
+2010,Estonia,Passenger cars,Percentage,81.4
+2010,Estonia,"Motor coaches, buses and trolley buses",Percentage,16.6
+2010,Ireland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.4
+2010,Ireland,Trains,Percentage,2.9
+2010,Ireland,Passenger cars,Percentage,82.6
+2010,Ireland,"Motor coaches, buses and trolley buses",Percentage,14.5
+2010,Greece,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.4
+2010,Greece,Trains,Percentage,1.1
+2010,Greece,Passenger cars,Percentage,81.6
+2010,Greece,"Motor coaches, buses and trolley buses",Percentage,17.3
+2010,Spain,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.7
+2010,Spain,Trains,Percentage,5.4
+2010,Spain,Passenger cars,Percentage,82.3
+2010,Spain,"Motor coaches, buses and trolley buses",Percentage,12.3
+2010,France,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.5
+2010,France,Trains,Percentage,9.3
+2010,France,Passenger cars,Percentage,85.5
+2010,France,"Motor coaches, buses and trolley buses",Percentage,5.3
+2010,Croatia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.3
+2010,Croatia,Trains,Percentage,5.6
+2010,Croatia,Passenger cars,Percentage,83.7
+2010,Croatia,"Motor coaches, buses and trolley buses",Percentage,10.7
+2010,Italy,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.3
+2010,Italy,Trains,Percentage,5.5
+2010,Italy,Passenger cars,Percentage,81.7
+2010,Italy,"Motor coaches, buses and trolley buses",Percentage,12.8
+2010,Cyprus,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.1
+2010,Cyprus,Passenger cars,Percentage,81.9
+2010,Cyprus,"Motor coaches, buses and trolley buses",Percentage,18.1
+2010,Latvia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.8
+2010,Latvia,Trains,Percentage,4.7
+2010,Latvia,Passenger cars,Percentage,78.2
+2010,Latvia,"Motor coaches, buses and trolley buses",Percentage,17.1
+2010,Lithuania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,8.3
+2010,Lithuania,Trains,Percentage,0.7
+2010,Lithuania,Passenger cars,Percentage,91.7
+2010,Lithuania,"Motor coaches, buses and trolley buses",Percentage,7.6
+2010,Luxembourg,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.5
+2010,Luxembourg,Trains,Percentage,4.5
+2010,Luxembourg,Passenger cars,Percentage,83.5
+2010,Luxembourg,"Motor coaches, buses and trolley buses",Percentage,12.1
+2010,Hungary,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,31.4
+2010,Hungary,Trains,Percentage,10
+2010,Hungary,Passenger cars,Percentage,68.6
+2010,Hungary,"Motor coaches, buses and trolley buses",Percentage,21.5
+2010,Malta,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.5
+2010,Malta,Passenger cars,Percentage,81.5
+2010,Malta,"Motor coaches, buses and trolley buses",Percentage,18.5
+2010,Netherlands,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,12.3
+2010,Netherlands,Trains,Percentage,9.4
+2010,Netherlands,Passenger cars,Percentage,87.7
+2010,Netherlands,"Motor coaches, buses and trolley buses",Percentage,2.9
+2010,Austria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.6
+2010,Austria,Trains,Percentage,11
+2010,Austria,Passenger cars,Percentage,78.4
+2010,Austria,"Motor coaches, buses and trolley buses",Percentage,10.6
+2010,Poland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,23.9
+2010,Poland,Trains,Percentage,7.1
+2010,Poland,Passenger cars,Percentage,76.1
+2010,Poland,"Motor coaches, buses and trolley buses",Percentage,16.8
+2010,Portugal,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.9
+2010,Portugal,Trains,Percentage,4.4
+2010,Portugal,Passenger cars,Percentage,89.1
+2010,Portugal,"Motor coaches, buses and trolley buses",Percentage,6.5
+2010,Romania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22
+2010,Romania,Trains,Percentage,5.6
+2010,Romania,Passenger cars,Percentage,78
+2010,Romania,"Motor coaches, buses and trolley buses",Percentage,16.3
+2010,Slovenia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.2
+2010,Slovenia,Trains,Percentage,2.5
+2010,Slovenia,Passenger cars,Percentage,86.8
+2010,Slovenia,"Motor coaches, buses and trolley buses",Percentage,10.8
+2010,Slovakia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22
+2010,Slovakia,Trains,Percentage,6.7
+2010,Slovakia,Passenger cars,Percentage,78
+2010,Slovakia,"Motor coaches, buses and trolley buses",Percentage,15.3
+2010,Finland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.1
+2010,Finland,Trains,Percentage,5.2
+2010,Finland,Passenger cars,Percentage,84.9
+2010,Finland,"Motor coaches, buses and trolley buses",Percentage,9.9
+2010,Sweden,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16
+2010,Sweden,Trains,Percentage,8.7
+2010,Sweden,Passenger cars,Percentage,84
+2010,Sweden,"Motor coaches, buses and trolley buses",Percentage,7.3
+2010,United Kingdom,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.7
+2010,United Kingdom,Trains,Percentage,7.5
+2010,United Kingdom,Passenger cars,Percentage,86.3
+2010,United Kingdom,"Motor coaches, buses and trolley buses",Percentage,6.2
+2010,Iceland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2010,Iceland,Passenger cars,Percentage,88.6
+2010,Iceland,"Motor coaches, buses and trolley buses",Percentage,11.4
+2010,Norway,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.7
+2010,Norway,Trains,Percentage,4.8
+2010,Norway,Passenger cars,Percentage,88.3
+2010,Norway,"Motor coaches, buses and trolley buses",Percentage,6.9
+2010,Switzerland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.7
+2010,Switzerland,Trains,Percentage,17.6
+2010,Switzerland,Passenger cars,Percentage,77.3
+2010,Switzerland,"Motor coaches, buses and trolley buses",Percentage,5.1
+2010,North Macedonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,25.4
+2010,North Macedonia,Trains,Percentage,2.5
+2010,North Macedonia,Passenger cars,Percentage,74.6
+2010,North Macedonia,"Motor coaches, buses and trolley buses",Percentage,22.9
+2010,Turkey,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,40.7
+2010,Turkey,Trains,Percentage,2.4
+2010,Turkey,Passenger cars,Percentage,59.3
+2010,Turkey,"Motor coaches, buses and trolley buses",Percentage,38.3
+2011,European Union - 28 countries,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.8
+2011,European Union - 28 countries,Trains,Percentage,7.4
+2011,European Union - 28 countries,Passenger cars,Percentage,83.2
+2011,European Union - 28 countries,"Motor coaches, buses and trolley buses",Percentage,9.4
+2011,Belgium,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.5
+2011,Belgium,Trains,Percentage,7.7
+2011,Belgium,Passenger cars,Percentage,79.5
+2011,Belgium,"Motor coaches, buses and trolley buses",Percentage,12.8
+2011,Bulgaria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.4
+2011,Bulgaria,Trains,Percentage,3.5
+2011,Bulgaria,Passenger cars,Percentage,80.6
+2011,Bulgaria,"Motor coaches, buses and trolley buses",Percentage,15.9
+2011,Czechia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,25.6
+2011,Czechia,Trains,Percentage,7.6
+2011,Czechia,Passenger cars,Percentage,74.4
+2011,Czechia,"Motor coaches, buses and trolley buses",Percentage,18
+2011,Denmark,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20
+2011,Denmark,Trains,Percentage,10
+2011,Denmark,Passenger cars,Percentage,80
+2011,Denmark,"Motor coaches, buses and trolley buses",Percentage,10.1
+2011,Germany (until 1990 former territory of the FRG),"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.4
+2011,Germany (until 1990 former territory of the FRG),Trains,Percentage,8.5
+2011,Germany (until 1990 former territory of the FRG),Passenger cars,Percentage,85.6
+2011,Germany (until 1990 former territory of the FRG),"Motor coaches, buses and trolley buses",Percentage,5.9
+2011,Estonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.2
+2011,Estonia,Trains,Percentage,1.9
+2011,Estonia,Passenger cars,Percentage,81.8
+2011,Estonia,"Motor coaches, buses and trolley buses",Percentage,16.3
+2011,Ireland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,23.2
+2011,Ireland,Trains,Percentage,3.8
+2011,Ireland,Passenger cars,Percentage,76.8
+2011,Ireland,"Motor coaches, buses and trolley buses",Percentage,19.4
+2011,Greece,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.4
+2011,Greece,Trains,Percentage,0.8
+2011,Greece,Passenger cars,Percentage,81.6
+2011,Greece,"Motor coaches, buses and trolley buses",Percentage,17.6
+2011,Spain,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.1
+2011,Spain,Trains,Percentage,5.6
+2011,Spain,Passenger cars,Percentage,80.9
+2011,Spain,"Motor coaches, buses and trolley buses",Percentage,13.5
+2011,France,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.7
+2011,France,Trains,Percentage,9.3
+2011,France,Passenger cars,Percentage,85.3
+2011,France,"Motor coaches, buses and trolley buses",Percentage,5.4
+2011,Croatia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.4
+2011,Croatia,Trains,Percentage,4.9
+2011,Croatia,Passenger cars,Percentage,84.6
+2011,Croatia,"Motor coaches, buses and trolley buses",Percentage,10.5
+2011,Italy,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.9
+2011,Italy,Trains,Percentage,5.7
+2011,Italy,Passenger cars,Percentage,81.1
+2011,Italy,"Motor coaches, buses and trolley buses",Percentage,13.2
+2011,Cyprus,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.3
+2011,Cyprus,Passenger cars,Percentage,81.7
+2011,Cyprus,"Motor coaches, buses and trolley buses",Percentage,18.3
+2011,Latvia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,23.8
+2011,Latvia,Trains,Percentage,4.9
+2011,Latvia,Passenger cars,Percentage,76.2
+2011,Latvia,"Motor coaches, buses and trolley buses",Percentage,18.9
+2011,Lithuania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,9.2
+2011,Lithuania,Trains,Percentage,0.8
+2011,Lithuania,Passenger cars,Percentage,90.8
+2011,Lithuania,"Motor coaches, buses and trolley buses",Percentage,8.3
+2011,Luxembourg,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.9
+2011,Luxembourg,Trains,Percentage,4.4
+2011,Luxembourg,Passenger cars,Percentage,83.1
+2011,Luxembourg,"Motor coaches, buses and trolley buses",Percentage,12.5
+2011,Hungary,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,31.7
+2011,Hungary,Trains,Percentage,10.2
+2011,Hungary,Passenger cars,Percentage,68.3
+2011,Hungary,"Motor coaches, buses and trolley buses",Percentage,21.5
+2011,Malta,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.6
+2011,Malta,Passenger cars,Percentage,82.4
+2011,Malta,"Motor coaches, buses and trolley buses",Percentage,17.6
+2011,Netherlands,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.5
+2011,Netherlands,Trains,Percentage,10.5
+2011,Netherlands,Passenger cars,Percentage,86.5
+2011,Netherlands,"Motor coaches, buses and trolley buses",Percentage,3
+2011,Austria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.7
+2011,Austria,Trains,Percentage,11.3
+2011,Austria,Passenger cars,Percentage,78.3
+2011,Austria,"Motor coaches, buses and trolley buses",Percentage,10.4
+2011,Poland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.6
+2011,Poland,Trains,Percentage,6.9
+2011,Poland,Passenger cars,Percentage,77.4
+2011,Poland,"Motor coaches, buses and trolley buses",Percentage,15.7
+2011,Portugal,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.8
+2011,Portugal,Trains,Percentage,4.5
+2011,Portugal,Passenger cars,Percentage,89.2
+2011,Portugal,"Motor coaches, buses and trolley buses",Percentage,6.3
+2011,Romania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.5
+2011,Romania,Trains,Percentage,5.3
+2011,Romania,Passenger cars,Percentage,78.5
+2011,Romania,"Motor coaches, buses and trolley buses",Percentage,16.2
+2011,Slovenia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.4
+2011,Slovenia,Trains,Percentage,2.3
+2011,Slovenia,Passenger cars,Percentage,86.6
+2011,Slovenia,"Motor coaches, buses and trolley buses",Percentage,11
+2011,Slovakia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.7
+2011,Slovakia,Trains,Percentage,7
+2011,Slovakia,Passenger cars,Percentage,77.3
+2011,Slovakia,"Motor coaches, buses and trolley buses",Percentage,15.7
+2011,Finland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.9
+2011,Finland,Trains,Percentage,5
+2011,Finland,Passenger cars,Percentage,85.1
+2011,Finland,"Motor coaches, buses and trolley buses",Percentage,9.8
+2011,Sweden,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.2
+2011,Sweden,Trains,Percentage,8.7
+2011,Sweden,Passenger cars,Percentage,83.8
+2011,Sweden,"Motor coaches, buses and trolley buses",Percentage,7.4
+2011,United Kingdom,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.7
+2011,United Kingdom,Trains,Percentage,7.8
+2011,United Kingdom,Passenger cars,Percentage,86.3
+2011,United Kingdom,"Motor coaches, buses and trolley buses",Percentage,5.9
+2011,Iceland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2011,Iceland,Passenger cars,Percentage,88.6
+2011,Iceland,"Motor coaches, buses and trolley buses",Percentage,11.4
+2011,Norway,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.6
+2011,Norway,Trains,Percentage,4.5
+2011,Norway,Passenger cars,Percentage,88.4
+2011,Norway,"Motor coaches, buses and trolley buses",Percentage,7
+2011,Switzerland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,25.2
+2011,Switzerland,Trains,Percentage,19.6
+2011,Switzerland,Passenger cars,Percentage,74.8
+2011,Switzerland,"Motor coaches, buses and trolley buses",Percentage,5.7
+2011,North Macedonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,25.1
+2011,North Macedonia,Trains,Percentage,2
+2011,North Macedonia,Passenger cars,Percentage,74.9
+2011,North Macedonia,"Motor coaches, buses and trolley buses",Percentage,23.1
+2011,Turkey,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,40.8
+2011,Turkey,Trains,Percentage,2.4
+2011,Turkey,Passenger cars,Percentage,59.2
+2011,Turkey,"Motor coaches, buses and trolley buses",Percentage,38.4
+2012,European Union - 28 countries,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.2
+2012,European Union - 28 countries,Trains,Percentage,7.7
+2012,European Union - 28 countries,Passenger cars,Percentage,82.8
+2012,European Union - 28 countries,"Motor coaches, buses and trolley buses",Percentage,9.5
+2012,Belgium,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.7
+2012,Belgium,Trains,Percentage,7.8
+2012,Belgium,Passenger cars,Percentage,79.3
+2012,Belgium,"Motor coaches, buses and trolley buses",Percentage,12.9
+2012,Bulgaria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.9
+2012,Bulgaria,Trains,Percentage,3.1
+2012,Bulgaria,Passenger cars,Percentage,82.1
+2012,Bulgaria,"Motor coaches, buses and trolley buses",Percentage,14.8
+2012,Czechia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,26
+2012,Czechia,Trains,Percentage,8.3
+2012,Czechia,Passenger cars,Percentage,74
+2012,Czechia,"Motor coaches, buses and trolley buses",Percentage,17.7
+2012,Denmark,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20
+2012,Denmark,Trains,Percentage,10.2
+2012,Denmark,Passenger cars,Percentage,80
+2012,Denmark,"Motor coaches, buses and trolley buses",Percentage,9.8
+2012,Germany (until 1990 former territory of the FRG),"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.6
+2012,Germany (until 1990 former territory of the FRG),Trains,Percentage,8.9
+2012,Germany (until 1990 former territory of the FRG),Passenger cars,Percentage,85.4
+2012,Germany (until 1990 former territory of the FRG),"Motor coaches, buses and trolley buses",Percentage,5.7
+2012,Estonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.6
+2012,Estonia,Trains,Percentage,1.8
+2012,Estonia,Passenger cars,Percentage,81.4
+2012,Estonia,"Motor coaches, buses and trolley buses",Percentage,16.8
+2012,Ireland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.2
+2012,Ireland,Trains,Percentage,2.8
+2012,Ireland,Passenger cars,Percentage,82.8
+2012,Ireland,"Motor coaches, buses and trolley buses",Percentage,14.4
+2012,Greece,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.4
+2012,Greece,Trains,Percentage,0.7
+2012,Greece,Passenger cars,Percentage,81.6
+2012,Greece,"Motor coaches, buses and trolley buses",Percentage,17.7
+2012,Spain,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.3
+2012,Spain,Trains,Percentage,5.6
+2012,Spain,Passenger cars,Percentage,80.7
+2012,Spain,"Motor coaches, buses and trolley buses",Percentage,13.7
+2012,France,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.9
+2012,France,Trains,Percentage,9.5
+2012,France,Passenger cars,Percentage,85.1
+2012,France,"Motor coaches, buses and trolley buses",Percentage,5.4
+2012,Croatia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.2
+2012,Croatia,Trains,Percentage,3.5
+2012,Croatia,Passenger cars,Percentage,85.8
+2012,Croatia,"Motor coaches, buses and trolley buses",Percentage,10.7
+2012,Italy,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.1
+2012,Italy,Trains,Percentage,6.4
+2012,Italy,Passenger cars,Percentage,78.9
+2012,Italy,"Motor coaches, buses and trolley buses",Percentage,14.7
+2012,Cyprus,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.7
+2012,Cyprus,Passenger cars,Percentage,81.3
+2012,Cyprus,"Motor coaches, buses and trolley buses",Percentage,18.7
+2012,Latvia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,23.1
+2012,Latvia,Trains,Percentage,4.8
+2012,Latvia,Passenger cars,Percentage,76.9
+2012,Latvia,"Motor coaches, buses and trolley buses",Percentage,18.3
+2012,Lithuania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,8.1
+2012,Lithuania,Trains,Percentage,0.7
+2012,Lithuania,Passenger cars,Percentage,91.9
+2012,Lithuania,"Motor coaches, buses and trolley buses",Percentage,7.3
+2012,Luxembourg,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17
+2012,Luxembourg,Trains,Percentage,4.6
+2012,Luxembourg,Passenger cars,Percentage,83
+2012,Luxembourg,"Motor coaches, buses and trolley buses",Percentage,12.4
+2012,Hungary,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,32.4
+2012,Hungary,Trains,Percentage,10.1
+2012,Hungary,Passenger cars,Percentage,67.6
+2012,Hungary,"Motor coaches, buses and trolley buses",Percentage,22.3
+2012,Malta,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.5
+2012,Malta,Passenger cars,Percentage,82.5
+2012,Malta,"Motor coaches, buses and trolley buses",Percentage,17.5
+2012,Netherlands,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.4
+2012,Netherlands,Trains,Percentage,10.7
+2012,Netherlands,Passenger cars,Percentage,86.6
+2012,Netherlands,"Motor coaches, buses and trolley buses",Percentage,2.7
+2012,Austria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.1
+2012,Austria,Trains,Percentage,11.8
+2012,Austria,Passenger cars,Percentage,77.9
+2012,Austria,"Motor coaches, buses and trolley buses",Percentage,10.4
+2012,Poland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,23.2
+2012,Poland,Trains,Percentage,7.2
+2012,Poland,Passenger cars,Percentage,76.8
+2012,Poland,"Motor coaches, buses and trolley buses",Percentage,16
+2012,Portugal,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.5
+2012,Portugal,Trains,Percentage,4.1
+2012,Portugal,Passenger cars,Percentage,89.5
+2012,Portugal,"Motor coaches, buses and trolley buses",Percentage,6.4
+2012,Romania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.8
+2012,Romania,Trains,Percentage,4.6
+2012,Romania,Passenger cars,Percentage,78.2
+2012,Romania,"Motor coaches, buses and trolley buses",Percentage,17.2
+2012,Slovenia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.3
+2012,Slovenia,Trains,Percentage,2.3
+2012,Slovenia,Passenger cars,Percentage,86.7
+2012,Slovenia,"Motor coaches, buses and trolley buses",Percentage,11.1
+2012,Slovakia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.7
+2012,Slovakia,Trains,Percentage,7.1
+2012,Slovakia,Passenger cars,Percentage,77.3
+2012,Slovakia,"Motor coaches, buses and trolley buses",Percentage,15.6
+2012,Finland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.1
+2012,Finland,Trains,Percentage,5.3
+2012,Finland,Passenger cars,Percentage,84.9
+2012,Finland,"Motor coaches, buses and trolley buses",Percentage,9.8
+2012,Sweden,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.4
+2012,Sweden,Trains,Percentage,9.1
+2012,Sweden,Passenger cars,Percentage,83.6
+2012,Sweden,"Motor coaches, buses and trolley buses",Percentage,7.3
+2012,United Kingdom,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.9
+2012,United Kingdom,Trains,Percentage,8.1
+2012,United Kingdom,Passenger cars,Percentage,86.1
+2012,United Kingdom,"Motor coaches, buses and trolley buses",Percentage,5.8
+2012,Iceland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2012,Iceland,Passenger cars,Percentage,88.6
+2012,Iceland,"Motor coaches, buses and trolley buses",Percentage,11.4
+2012,Norway,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.2
+2012,Norway,Trains,Percentage,4.6
+2012,Norway,Passenger cars,Percentage,89.8
+2012,Norway,"Motor coaches, buses and trolley buses",Percentage,5.6
+2012,Switzerland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,25
+2012,Switzerland,Trains,Percentage,19.2
+2012,Switzerland,Passenger cars,Percentage,75
+2012,Switzerland,"Motor coaches, buses and trolley buses",Percentage,5.7
+2012,North Macedonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.7
+2012,North Macedonia,Trains,Percentage,1.5
+2012,North Macedonia,Passenger cars,Percentage,77.3
+2012,North Macedonia,"Motor coaches, buses and trolley buses",Percentage,21.2
+2012,Turkey,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,38.4
+2012,Turkey,Trains,Percentage,1.7
+2012,Turkey,Passenger cars,Percentage,61.6
+2012,Turkey,"Motor coaches, buses and trolley buses",Percentage,36.6
+2013,European Union - 28 countries,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.6
+2013,European Union - 28 countries,Trains,Percentage,7.8
+2013,European Union - 28 countries,Passenger cars,Percentage,82.4
+2013,European Union - 28 countries,"Motor coaches, buses and trolley buses",Percentage,9.8
+2013,Belgium,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.2
+2013,Belgium,Trains,Percentage,8.2
+2013,Belgium,Passenger cars,Percentage,79.8
+2013,Belgium,"Motor coaches, buses and trolley buses",Percentage,11.9
+2013,Bulgaria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17
+2013,Bulgaria,Trains,Percentage,2.9
+2013,Bulgaria,Passenger cars,Percentage,83
+2013,Bulgaria,"Motor coaches, buses and trolley buses",Percentage,14
+2013,Czechia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,26.4
+2013,Czechia,Trains,Percentage,8.5
+2013,Czechia,Passenger cars,Percentage,73.6
+2013,Czechia,"Motor coaches, buses and trolley buses",Percentage,17.9
+2013,Denmark,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.1
+2013,Denmark,Trains,Percentage,10.3
+2013,Denmark,Passenger cars,Percentage,79.9
+2013,Denmark,"Motor coaches, buses and trolley buses",Percentage,9.8
+2013,Germany (until 1990 former territory of the FRG),"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.2
+2013,Germany (until 1990 former territory of the FRG),Trains,Percentage,8.5
+2013,Germany (until 1990 former territory of the FRG),Passenger cars,Percentage,85.8
+2013,Germany (until 1990 former territory of the FRG),"Motor coaches, buses and trolley buses",Percentage,5.7
+2013,Estonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19
+2013,Estonia,Trains,Percentage,1.6
+2013,Estonia,Passenger cars,Percentage,81
+2013,Estonia,"Motor coaches, buses and trolley buses",Percentage,17.4
+2013,Ireland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.8
+2013,Ireland,Trains,Percentage,2.7
+2013,Ireland,Passenger cars,Percentage,83.2
+2013,Ireland,"Motor coaches, buses and trolley buses",Percentage,14.1
+2013,Greece,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.7
+2013,Greece,Trains,Percentage,0.9
+2013,Greece,Passenger cars,Percentage,81.3
+2013,Greece,"Motor coaches, buses and trolley buses",Percentage,17.8
+2013,Spain,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.3
+2013,Spain,Trains,Percentage,6.1
+2013,Spain,Passenger cars,Percentage,80.7
+2013,Spain,"Motor coaches, buses and trolley buses",Percentage,13.2
+2013,France,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.6
+2013,France,Trains,Percentage,10.5
+2013,France,Passenger cars,Percentage,81.4
+2013,France,"Motor coaches, buses and trolley buses",Percentage,8.1
+2013,Croatia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.5
+2013,Croatia,Trains,Percentage,3.1
+2013,Croatia,Passenger cars,Percentage,85.5
+2013,Croatia,"Motor coaches, buses and trolley buses",Percentage,11.5
+2013,Italy,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.3
+2013,Italy,Trains,Percentage,6.3
+2013,Italy,Passenger cars,Percentage,79.7
+2013,Italy,"Motor coaches, buses and trolley buses",Percentage,14.1
+2013,Cyprus,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.5
+2013,Cyprus,Passenger cars,Percentage,81.5
+2013,Cyprus,"Motor coaches, buses and trolley buses",Percentage,18.5
+2013,Latvia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.7
+2013,Latvia,Trains,Percentage,4.7
+2013,Latvia,Passenger cars,Percentage,77.3
+2013,Latvia,"Motor coaches, buses and trolley buses",Percentage,18
+2013,Lithuania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,8.6
+2013,Lithuania,Trains,Percentage,0.8
+2013,Lithuania,Passenger cars,Percentage,91.4
+2013,Lithuania,"Motor coaches, buses and trolley buses",Percentage,7.8
+2013,Luxembourg,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.2
+2013,Luxembourg,Trains,Percentage,4.8
+2013,Luxembourg,Passenger cars,Percentage,82.8
+2013,Luxembourg,"Motor coaches, buses and trolley buses",Percentage,12.4
+2013,Hungary,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,32.5
+2013,Hungary,Trains,Percentage,10.2
+2013,Hungary,Passenger cars,Percentage,67.5
+2013,Hungary,"Motor coaches, buses and trolley buses",Percentage,22.3
+2013,Malta,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17
+2013,Malta,Passenger cars,Percentage,83
+2013,Malta,"Motor coaches, buses and trolley buses",Percentage,17
+2013,Netherlands,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14
+2013,Netherlands,Trains,Percentage,11.3
+2013,Netherlands,Passenger cars,Percentage,86
+2013,Netherlands,"Motor coaches, buses and trolley buses",Percentage,2.7
+2013,Austria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.5
+2013,Austria,Trains,Percentage,12.2
+2013,Austria,Passenger cars,Percentage,77.5
+2013,Austria,"Motor coaches, buses and trolley buses",Percentage,10.3
+2013,Poland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22
+2013,Poland,Trains,Percentage,6.7
+2013,Poland,Passenger cars,Percentage,78
+2013,Poland,"Motor coaches, buses and trolley buses",Percentage,15.3
+2013,Portugal,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.6
+2013,Portugal,Trains,Percentage,4
+2013,Portugal,Passenger cars,Percentage,89.4
+2013,Portugal,"Motor coaches, buses and trolley buses",Percentage,6.6
+2013,Romania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.1
+2013,Romania,Trains,Percentage,4.3
+2013,Romania,Passenger cars,Percentage,78.9
+2013,Romania,"Motor coaches, buses and trolley buses",Percentage,16.8
+2013,Slovenia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.7
+2013,Slovenia,Trains,Percentage,2.3
+2013,Slovenia,Passenger cars,Percentage,86.3
+2013,Slovenia,"Motor coaches, buses and trolley buses",Percentage,11.4
+2013,Slovakia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.2
+2013,Slovakia,Trains,Percentage,7.1
+2013,Slovakia,Passenger cars,Percentage,77.8
+2013,Slovakia,"Motor coaches, buses and trolley buses",Percentage,15.1
+2013,Finland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.1
+2013,Finland,Trains,Percentage,5.3
+2013,Finland,Passenger cars,Percentage,84.9
+2013,Finland,"Motor coaches, buses and trolley buses",Percentage,9.8
+2013,Sweden,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.6
+2013,Sweden,Trains,Percentage,9.1
+2013,Sweden,Passenger cars,Percentage,83.4
+2013,Sweden,"Motor coaches, buses and trolley buses",Percentage,7.5
+2013,United Kingdom,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.9
+2013,United Kingdom,Trains,Percentage,8.3
+2013,United Kingdom,Passenger cars,Percentage,86.1
+2013,United Kingdom,"Motor coaches, buses and trolley buses",Percentage,5.6
+2013,Iceland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2013,Iceland,Passenger cars,Percentage,88.6
+2013,Iceland,"Motor coaches, buses and trolley buses",Percentage,11.4
+2013,Norway,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.2
+2013,Norway,Trains,Percentage,4.8
+2013,Norway,Passenger cars,Percentage,89.8
+2013,Norway,"Motor coaches, buses and trolley buses",Percentage,5.5
+2013,Switzerland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,25
+2013,Switzerland,Trains,Percentage,19.3
+2013,Switzerland,Passenger cars,Percentage,75
+2013,Switzerland,"Motor coaches, buses and trolley buses",Percentage,5.7
+2013,North Macedonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21
+2013,North Macedonia,Trains,Percentage,1
+2013,North Macedonia,Passenger cars,Percentage,79
+2013,North Macedonia,"Motor coaches, buses and trolley buses",Percentage,20
+2013,Turkey,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,36.3
+2013,Turkey,Trains,Percentage,1.4
+2013,Turkey,Passenger cars,Percentage,63.7
+2013,Turkey,"Motor coaches, buses and trolley buses",Percentage,34.9
+2014,European Union - 28 countries,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.4
+2014,European Union - 28 countries,Trains,Percentage,7.8
+2014,European Union - 28 countries,Passenger cars,Percentage,82.6
+2014,European Union - 28 countries,"Motor coaches, buses and trolley buses",Percentage,9.6
+2014,Belgium,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.6
+2014,Belgium,Trains,Percentage,8.2
+2014,Belgium,Passenger cars,Percentage,80.4
+2014,Belgium,"Motor coaches, buses and trolley buses",Percentage,11.4
+2014,Bulgaria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.7
+2014,Bulgaria,Trains,Percentage,2.6
+2014,Bulgaria,Passenger cars,Percentage,82.3
+2014,Bulgaria,"Motor coaches, buses and trolley buses",Percentage,15.1
+2014,Czechia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,26.9
+2014,Czechia,Trains,Percentage,8.4
+2014,Czechia,Passenger cars,Percentage,73.1
+2014,Czechia,"Motor coaches, buses and trolley buses",Percentage,18.5
+2014,Denmark,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.4
+2014,Denmark,Trains,Percentage,9.7
+2014,Denmark,Passenger cars,Percentage,80.6
+2014,Denmark,"Motor coaches, buses and trolley buses",Percentage,9.7
+2014,Germany (until 1990 former territory of the FRG),"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.3
+2014,Germany (until 1990 former territory of the FRG),Trains,Percentage,8.5
+2014,Germany (until 1990 former territory of the FRG),Passenger cars,Percentage,85.7
+2014,Germany (until 1990 former territory of the FRG),"Motor coaches, buses and trolley buses",Percentage,5.8
+2014,Estonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.4
+2014,Estonia,Trains,Percentage,1.9
+2014,Estonia,Passenger cars,Percentage,81.6
+2014,Estonia,"Motor coaches, buses and trolley buses",Percentage,16.5
+2014,Ireland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.7
+2014,Ireland,Trains,Percentage,3
+2014,Ireland,Passenger cars,Percentage,82.3
+2014,Ireland,"Motor coaches, buses and trolley buses",Percentage,14.7
+2014,Greece,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.6
+2014,Greece,Trains,Percentage,0.9
+2014,Greece,Passenger cars,Percentage,81.4
+2014,Greece,"Motor coaches, buses and trolley buses",Percentage,17.7
+2014,Spain,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.3
+2014,Spain,Trains,Percentage,6.7
+2014,Spain,Passenger cars,Percentage,82.7
+2014,Spain,"Motor coaches, buses and trolley buses",Percentage,10.6
+2014,France,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.4
+2014,France,Trains,Percentage,10.3
+2014,France,Passenger cars,Percentage,81.6
+2014,France,"Motor coaches, buses and trolley buses",Percentage,8.1
+2014,Croatia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.9
+2014,Croatia,Trains,Percentage,3
+2014,Croatia,Passenger cars,Percentage,85.1
+2014,Croatia,"Motor coaches, buses and trolley buses",Percentage,11.9
+2014,Italy,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.9
+2014,Italy,Trains,Percentage,6.2
+2014,Italy,Passenger cars,Percentage,80.1
+2014,Italy,"Motor coaches, buses and trolley buses",Percentage,13.7
+2014,Cyprus,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.2
+2014,Cyprus,Passenger cars,Percentage,81.8
+2014,Cyprus,"Motor coaches, buses and trolley buses",Percentage,18.2
+2014,Latvia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21
+2014,Latvia,Trains,Percentage,4
+2014,Latvia,Passenger cars,Percentage,79
+2014,Latvia,"Motor coaches, buses and trolley buses",Percentage,17
+2014,Lithuania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.7
+2014,Lithuania,Trains,Percentage,1
+2014,Lithuania,Passenger cars,Percentage,88.3
+2014,Lithuania,"Motor coaches, buses and trolley buses",Percentage,10.8
+2014,Luxembourg,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.4
+2014,Luxembourg,Trains,Percentage,4.3
+2014,Luxembourg,Passenger cars,Percentage,83.6
+2014,Luxembourg,"Motor coaches, buses and trolley buses",Percentage,12.2
+2014,Hungary,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,32.5
+2014,Hungary,Trains,Percentage,9.9
+2014,Hungary,Passenger cars,Percentage,67.5
+2014,Hungary,"Motor coaches, buses and trolley buses",Percentage,22.6
+2014,Malta,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.9
+2014,Malta,Passenger cars,Percentage,83.1
+2014,Malta,"Motor coaches, buses and trolley buses",Percentage,16.9
+2014,Netherlands,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.5
+2014,Netherlands,Trains,Percentage,11.8
+2014,Netherlands,Passenger cars,Percentage,85.5
+2014,Netherlands,"Motor coaches, buses and trolley buses",Percentage,2.7
+2014,Austria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.4
+2014,Austria,Trains,Percentage,12.1
+2014,Austria,Passenger cars,Percentage,77.6
+2014,Austria,"Motor coaches, buses and trolley buses",Percentage,10.3
+2014,Poland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.8
+2014,Poland,Trains,Percentage,6.3
+2014,Poland,Passenger cars,Percentage,78.2
+2014,Poland,"Motor coaches, buses and trolley buses",Percentage,15.5
+2014,Portugal,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.2
+2014,Portugal,Trains,Percentage,4.1
+2014,Portugal,Passenger cars,Percentage,89.8
+2014,Portugal,"Motor coaches, buses and trolley buses",Percentage,6.1
+2014,Romania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.5
+2014,Romania,Trains,Percentage,4.6
+2014,Romania,Passenger cars,Percentage,78.5
+2014,Romania,"Motor coaches, buses and trolley buses",Percentage,16.9
+2014,Slovenia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.7
+2014,Slovenia,Trains,Percentage,2.1
+2014,Slovenia,Passenger cars,Percentage,86.3
+2014,Slovenia,"Motor coaches, buses and trolley buses",Percentage,11.6
+2014,Slovakia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.6
+2014,Slovakia,Trains,Percentage,7.3
+2014,Slovakia,Passenger cars,Percentage,77.4
+2014,Slovakia,"Motor coaches, buses and trolley buses",Percentage,15.2
+2014,Finland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.8
+2014,Finland,Trains,Percentage,5
+2014,Finland,Passenger cars,Percentage,85.2
+2014,Finland,"Motor coaches, buses and trolley buses",Percentage,9.8
+2014,Sweden,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.5
+2014,Sweden,Trains,Percentage,9.2
+2014,Sweden,Passenger cars,Percentage,83.5
+2014,Sweden,"Motor coaches, buses and trolley buses",Percentage,7.3
+2014,United Kingdom,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.9
+2014,United Kingdom,Trains,Percentage,8.5
+2014,United Kingdom,Passenger cars,Percentage,86.1
+2014,United Kingdom,"Motor coaches, buses and trolley buses",Percentage,5.4
+2014,Iceland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2014,Iceland,Passenger cars,Percentage,88.6
+2014,Iceland,"Motor coaches, buses and trolley buses",Percentage,11.4
+2014,Norway,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.2
+2014,Norway,Trains,Percentage,4.9
+2014,Norway,Passenger cars,Percentage,89.8
+2014,Norway,"Motor coaches, buses and trolley buses",Percentage,5.4
+2014,Switzerland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,25.4
+2014,Switzerland,Trains,Percentage,19.6
+2014,Switzerland,Passenger cars,Percentage,74.6
+2014,Switzerland,"Motor coaches, buses and trolley buses",Percentage,5.8
+2014,North Macedonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,27.4
+2014,North Macedonia,Trains,Percentage,0.9
+2014,North Macedonia,Passenger cars,Percentage,72.6
+2014,North Macedonia,"Motor coaches, buses and trolley buses",Percentage,26.5
+2014,Turkey,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,35.1
+2014,Turkey,Trains,Percentage,1.6
+2014,Turkey,Passenger cars,Percentage,64.9
+2014,Turkey,"Motor coaches, buses and trolley buses",Percentage,33.5
+2015,European Union - 28 countries,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.1
+2015,European Union - 28 countries,Trains,Percentage,7.8
+2015,European Union - 28 countries,Passenger cars,Percentage,82.9
+2015,European Union - 28 countries,"Motor coaches, buses and trolley buses",Percentage,9.3
+2015,Belgium,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.8
+2015,Belgium,Trains,Percentage,7.8
+2015,Belgium,Passenger cars,Percentage,81.2
+2015,Belgium,"Motor coaches, buses and trolley buses",Percentage,10.9
+2015,Bulgaria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.9
+2015,Bulgaria,Trains,Percentage,2.3
+2015,Bulgaria,Passenger cars,Percentage,83.1
+2015,Bulgaria,"Motor coaches, buses and trolley buses",Percentage,14.6
+2015,Czechia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,25.9
+2015,Czechia,Trains,Percentage,8.6
+2015,Czechia,Passenger cars,Percentage,74.1
+2015,Czechia,"Motor coaches, buses and trolley buses",Percentage,17.3
+2015,Denmark,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.1
+2015,Denmark,Trains,Percentage,9.3
+2015,Denmark,Passenger cars,Percentage,80.9
+2015,Denmark,"Motor coaches, buses and trolley buses",Percentage,9.8
+2015,Germany (until 1990 former territory of the FRG),"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.4
+2015,Germany (until 1990 former territory of the FRG),Trains,Percentage,8.4
+2015,Germany (until 1990 former territory of the FRG),Passenger cars,Percentage,85.6
+2015,Germany (until 1990 former territory of the FRG),"Motor coaches, buses and trolley buses",Percentage,6
+2015,Estonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.8
+2015,Estonia,Trains,Percentage,1.8
+2015,Estonia,Passenger cars,Percentage,78.2
+2015,Estonia,"Motor coaches, buses and trolley buses",Percentage,20
+2015,Ireland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.7
+2015,Ireland,Trains,Percentage,3.1
+2015,Ireland,Passenger cars,Percentage,83.3
+2015,Ireland,"Motor coaches, buses and trolley buses",Percentage,13.7
+2015,Greece,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.6
+2015,Greece,Trains,Percentage,1
+2015,Greece,Passenger cars,Percentage,81.4
+2015,Greece,"Motor coaches, buses and trolley buses",Percentage,17.5
+2015,Spain,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.6
+2015,Spain,Trains,Percentage,6.7
+2015,Spain,Passenger cars,Percentage,81.4
+2015,Spain,"Motor coaches, buses and trolley buses",Percentage,11.9
+2015,France,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.2
+2015,France,Trains,Percentage,10.5
+2015,France,Passenger cars,Percentage,82.8
+2015,France,"Motor coaches, buses and trolley buses",Percentage,6.7
+2015,Croatia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.1
+2015,Croatia,Trains,Percentage,3.1
+2015,Croatia,Passenger cars,Percentage,85.9
+2015,Croatia,"Motor coaches, buses and trolley buses",Percentage,11
+2015,Italy,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.6
+2015,Italy,Trains,Percentage,6.3
+2015,Italy,Passenger cars,Percentage,81.4
+2015,Italy,"Motor coaches, buses and trolley buses",Percentage,12.3
+2015,Cyprus,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.7
+2015,Cyprus,Passenger cars,Percentage,81.3
+2015,Cyprus,"Motor coaches, buses and trolley buses",Percentage,18.7
+2015,Latvia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.3
+2015,Latvia,Trains,Percentage,3.5
+2015,Latvia,Passenger cars,Percentage,80.7
+2015,Latvia,"Motor coaches, buses and trolley buses",Percentage,15.8
+2015,Lithuania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.8
+2015,Lithuania,Trains,Percentage,0.9
+2015,Lithuania,Passenger cars,Percentage,89.2
+2015,Lithuania,"Motor coaches, buses and trolley buses",Percentage,9.9
+2015,Luxembourg,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.1
+2015,Luxembourg,Trains,Percentage,4.7
+2015,Luxembourg,Passenger cars,Percentage,82.9
+2015,Luxembourg,"Motor coaches, buses and trolley buses",Percentage,12.4
+2015,Hungary,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,31.8
+2015,Hungary,Trains,Percentage,9.5
+2015,Hungary,Passenger cars,Percentage,68.2
+2015,Hungary,"Motor coaches, buses and trolley buses",Percentage,22.3
+2015,Malta,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.7
+2015,Malta,Passenger cars,Percentage,82.3
+2015,Malta,"Motor coaches, buses and trolley buses",Percentage,17.7
+2015,Netherlands,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.9
+2015,Netherlands,Trains,Percentage,10.8
+2015,Netherlands,Passenger cars,Percentage,86.1
+2015,Netherlands,"Motor coaches, buses and trolley buses",Percentage,3
+2015,Austria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.2
+2015,Austria,Trains,Percentage,12
+2015,Austria,Passenger cars,Percentage,77.8
+2015,Austria,"Motor coaches, buses and trolley buses",Percentage,10.2
+2015,Poland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.5
+2015,Poland,Trains,Percentage,6.8
+2015,Poland,Passenger cars,Percentage,78.5
+2015,Poland,"Motor coaches, buses and trolley buses",Percentage,14.7
+2015,Portugal,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.1
+2015,Portugal,Trains,Percentage,4.2
+2015,Portugal,Passenger cars,Percentage,88.9
+2015,Portugal,"Motor coaches, buses and trolley buses",Percentage,6.9
+2015,Romania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,20.1
+2015,Romania,Trains,Percentage,4.6
+2015,Romania,Passenger cars,Percentage,79.9
+2015,Romania,"Motor coaches, buses and trolley buses",Percentage,15.5
+2015,Slovenia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.9
+2015,Slovenia,Trains,Percentage,2.1
+2015,Slovenia,Passenger cars,Percentage,86.1
+2015,Slovenia,"Motor coaches, buses and trolley buses",Percentage,11.8
+2015,Slovakia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,24.2
+2015,Slovakia,Trains,Percentage,9.4
+2015,Slovakia,Passenger cars,Percentage,75.8
+2015,Slovakia,"Motor coaches, buses and trolley buses",Percentage,14.8
+2015,Finland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15
+2015,Finland,Trains,Percentage,5.3
+2015,Finland,Passenger cars,Percentage,85
+2015,Finland,"Motor coaches, buses and trolley buses",Percentage,9.7
+2015,Sweden,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.8
+2015,Sweden,Trains,Percentage,9.5
+2015,Sweden,Passenger cars,Percentage,83.2
+2015,Sweden,"Motor coaches, buses and trolley buses",Percentage,7.3
+2015,United Kingdom,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.1
+2015,United Kingdom,Trains,Percentage,8.7
+2015,United Kingdom,Passenger cars,Percentage,85.9
+2015,United Kingdom,"Motor coaches, buses and trolley buses",Percentage,5.4
+2015,Iceland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2015,Iceland,Passenger cars,Percentage,88.6
+2015,Iceland,"Motor coaches, buses and trolley buses",Percentage,11.4
+2015,Norway,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.6
+2015,Norway,Trains,Percentage,4.9
+2015,Norway,Passenger cars,Percentage,89.4
+2015,Norway,"Motor coaches, buses and trolley buses",Percentage,5.7
+2015,Switzerland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,25.6
+2015,Switzerland,Trains,Percentage,19.8
+2015,Switzerland,Passenger cars,Percentage,74.4
+2015,Switzerland,"Motor coaches, buses and trolley buses",Percentage,5.9
+2015,North Macedonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,26
+2015,North Macedonia,Trains,Percentage,1.9
+2015,North Macedonia,Passenger cars,Percentage,74
+2015,North Macedonia,"Motor coaches, buses and trolley buses",Percentage,24.1
+2015,Turkey,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,32.4
+2015,Turkey,Trains,Percentage,1.6
+2015,Turkey,Passenger cars,Percentage,67.6
+2015,Turkey,"Motor coaches, buses and trolley buses",Percentage,30.7
+2016,European Union - 28 countries,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.8
+2016,European Union - 28 countries,Trains,Percentage,7.8
+2016,European Union - 28 countries,Passenger cars,Percentage,83.2
+2016,European Union - 28 countries,"Motor coaches, buses and trolley buses",Percentage,9
+2016,Belgium,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.2
+2016,Belgium,Trains,Percentage,7.7
+2016,Belgium,Passenger cars,Percentage,81.8
+2016,Belgium,"Motor coaches, buses and trolley buses",Percentage,10.5
+2016,Bulgaria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.3
+2016,Bulgaria,Trains,Percentage,2.2
+2016,Bulgaria,Passenger cars,Percentage,83.7
+2016,Bulgaria,"Motor coaches, buses and trolley buses",Percentage,14.1
+2016,Czechia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,26
+2016,Czechia,Trains,Percentage,8.9
+2016,Czechia,Passenger cars,Percentage,74
+2016,Czechia,"Motor coaches, buses and trolley buses",Percentage,17.1
+2016,Denmark,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.6
+2016,Denmark,Trains,Percentage,8.8
+2016,Denmark,Passenger cars,Percentage,81.4
+2016,Denmark,"Motor coaches, buses and trolley buses",Percentage,9.8
+2016,Germany (until 1990 former territory of the FRG),"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.4
+2016,Germany (until 1990 former territory of the FRG),Trains,Percentage,8.6
+2016,Germany (until 1990 former territory of the FRG),Passenger cars,Percentage,85.6
+2016,Germany (until 1990 former territory of the FRG),"Motor coaches, buses and trolley buses",Percentage,5.8
+2016,Estonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.9
+2016,Estonia,Trains,Percentage,2
+2016,Estonia,Passenger cars,Percentage,80.1
+2016,Estonia,"Motor coaches, buses and trolley buses",Percentage,17.9
+2016,Ireland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.6
+2016,Ireland,Trains,Percentage,3
+2016,Ireland,Passenger cars,Percentage,83.4
+2016,Ireland,"Motor coaches, buses and trolley buses",Percentage,13.6
+2016,Greece,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.1
+2016,Greece,Trains,Percentage,1
+2016,Greece,Passenger cars,Percentage,81.9
+2016,Greece,"Motor coaches, buses and trolley buses",Percentage,17.1
+2016,Spain,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.4
+2016,Spain,Trains,Percentage,6.6
+2016,Spain,Passenger cars,Percentage,81.6
+2016,Spain,"Motor coaches, buses and trolley buses",Percentage,11.8
+2016,France,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.5
+2016,France,Trains,Percentage,10
+2016,France,Passenger cars,Percentage,83.5
+2016,France,"Motor coaches, buses and trolley buses",Percentage,6.5
+2016,Croatia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15
+2016,Croatia,Trains,Percentage,2.7
+2016,Croatia,Passenger cars,Percentage,85
+2016,Croatia,"Motor coaches, buses and trolley buses",Percentage,12.3
+2016,Italy,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.1
+2016,Italy,Trains,Percentage,6.1
+2016,Italy,Passenger cars,Percentage,81.9
+2016,Italy,"Motor coaches, buses and trolley buses",Percentage,12
+2016,Cyprus,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.6
+2016,Cyprus,Passenger cars,Percentage,81.4
+2016,Cyprus,"Motor coaches, buses and trolley buses",Percentage,18.6
+2016,Latvia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.5
+2016,Latvia,Trains,Percentage,3.4
+2016,Latvia,Passenger cars,Percentage,81.5
+2016,Latvia,"Motor coaches, buses and trolley buses",Percentage,15.1
+2016,Lithuania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.1
+2016,Lithuania,Trains,Percentage,1
+2016,Lithuania,Passenger cars,Percentage,89.9
+2016,Lithuania,"Motor coaches, buses and trolley buses",Percentage,9.1
+2016,Luxembourg,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.9
+2016,Luxembourg,Trains,Percentage,4.6
+2016,Luxembourg,Passenger cars,Percentage,83.1
+2016,Luxembourg,"Motor coaches, buses and trolley buses",Percentage,12.3
+2016,Hungary,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,31
+2016,Hungary,Trains,Percentage,9.3
+2016,Hungary,Passenger cars,Percentage,69
+2016,Hungary,"Motor coaches, buses and trolley buses",Percentage,21.7
+2016,Malta,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.4
+2016,Malta,Passenger cars,Percentage,82.6
+2016,Malta,"Motor coaches, buses and trolley buses",Percentage,17.4
+2016,Netherlands,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14
+2016,Netherlands,Trains,Percentage,11
+2016,Netherlands,Passenger cars,Percentage,86
+2016,Netherlands,"Motor coaches, buses and trolley buses",Percentage,3
+2016,Austria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.3
+2016,Austria,Trains,Percentage,12.1
+2016,Austria,Passenger cars,Percentage,77.7
+2016,Austria,"Motor coaches, buses and trolley buses",Percentage,10.2
+2016,Poland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.5
+2016,Poland,Trains,Percentage,7.3
+2016,Poland,Passenger cars,Percentage,78.5
+2016,Poland,"Motor coaches, buses and trolley buses",Percentage,14.2
+2016,Portugal,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.6
+2016,Portugal,Trains,Percentage,4.2
+2016,Portugal,Passenger cars,Percentage,88.4
+2016,Portugal,"Motor coaches, buses and trolley buses",Percentage,7.4
+2016,Romania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.9
+2016,Romania,Trains,Percentage,4.2
+2016,Romania,Passenger cars,Percentage,80.1
+2016,Romania,"Motor coaches, buses and trolley buses",Percentage,15.7
+2016,Slovenia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.7
+2016,Slovenia,Trains,Percentage,2
+2016,Slovenia,Passenger cars,Percentage,86.3
+2016,Slovenia,"Motor coaches, buses and trolley buses",Percentage,11.8
+2016,Slovakia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,25.2
+2016,Slovakia,Trains,Percentage,9.4
+2016,Slovakia,Passenger cars,Percentage,74.8
+2016,Slovakia,"Motor coaches, buses and trolley buses",Percentage,15.8
+2016,Finland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.5
+2016,Finland,Trains,Percentage,5.6
+2016,Finland,Passenger cars,Percentage,82.5
+2016,Finland,"Motor coaches, buses and trolley buses",Percentage,11.9
+2016,Sweden,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.5
+2016,Sweden,Trains,Percentage,9.3
+2016,Sweden,Passenger cars,Percentage,83.5
+2016,Sweden,"Motor coaches, buses and trolley buses",Percentage,7.2
+2016,United Kingdom,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.5
+2016,United Kingdom,Trains,Percentage,8.8
+2016,United Kingdom,Passenger cars,Percentage,86.5
+2016,United Kingdom,"Motor coaches, buses and trolley buses",Percentage,4.6
+2016,Iceland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.4
+2016,Iceland,Passenger cars,Percentage,88.6
+2016,Iceland,"Motor coaches, buses and trolley buses",Percentage,11.4
+2016,Norway,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11
+2016,Norway,Trains,Percentage,5.1
+2016,Norway,Passenger cars,Percentage,89
+2016,Norway,"Motor coaches, buses and trolley buses",Percentage,5.9
+2016,Switzerland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,25.7
+2016,Switzerland,Trains,Percentage,19.8
+2016,Switzerland,Passenger cars,Percentage,74.3
+2016,Switzerland,"Motor coaches, buses and trolley buses",Percentage,5.9
+2016,North Macedonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,23
+2016,North Macedonia,Trains,Percentage,0.9
+2016,North Macedonia,Passenger cars,Percentage,77
+2016,North Macedonia,"Motor coaches, buses and trolley buses",Percentage,22.1
+2016,Turkey,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,29.9
+2016,Turkey,Trains,Percentage,1.4
+2016,Turkey,Passenger cars,Percentage,70.1
+2016,Turkey,"Motor coaches, buses and trolley buses",Percentage,28.5
+2017,European Union - 28 countries,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.7
+2017,European Union - 28 countries,Trains,Percentage,7.9
+2017,European Union - 28 countries,Passenger cars,Percentage,83.3
+2017,European Union - 28 countries,"Motor coaches, buses and trolley buses",Percentage,8.8
+2017,Belgium,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18
+2017,Belgium,Trains,Percentage,7.8
+2017,Belgium,Passenger cars,Percentage,82
+2017,Belgium,"Motor coaches, buses and trolley buses",Percentage,10.2
+2017,Bulgaria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.2
+2017,Bulgaria,Trains,Percentage,2.1
+2017,Bulgaria,Passenger cars,Percentage,84.8
+2017,Bulgaria,"Motor coaches, buses and trolley buses",Percentage,13.1
+2017,Czechia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,26.7
+2017,Czechia,Trains,Percentage,9.3
+2017,Czechia,Passenger cars,Percentage,73.3
+2017,Czechia,"Motor coaches, buses and trolley buses",Percentage,17.4
+2017,Denmark,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18.5
+2017,Denmark,Trains,Percentage,8.6
+2017,Denmark,Passenger cars,Percentage,81.5
+2017,Denmark,"Motor coaches, buses and trolley buses",Percentage,10
+2017,Germany (until 1990 former territory of the FRG),"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.4
+2017,Germany (until 1990 former territory of the FRG),Trains,Percentage,8.7
+2017,Germany (until 1990 former territory of the FRG),Passenger cars,Percentage,85.6
+2017,Germany (until 1990 former territory of the FRG),"Motor coaches, buses and trolley buses",Percentage,5.7
+2017,Estonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.5
+2017,Estonia,Trains,Percentage,2.3
+2017,Estonia,Passenger cars,Percentage,80.5
+2017,Estonia,"Motor coaches, buses and trolley buses",Percentage,17.3
+2017,Ireland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.4
+2017,Ireland,Trains,Percentage,3.1
+2017,Ireland,Passenger cars,Percentage,82.6
+2017,Ireland,"Motor coaches, buses and trolley buses",Percentage,14.3
+2017,Greece,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.5
+2017,Greece,Trains,Percentage,0.9
+2017,Greece,Passenger cars,Percentage,82.5
+2017,Greece,"Motor coaches, buses and trolley buses",Percentage,16.6
+2017,Spain,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.8
+2017,Spain,Trains,Percentage,7
+2017,Spain,Passenger cars,Percentage,85.2
+2017,Spain,"Motor coaches, buses and trolley buses",Percentage,7.8
+2017,France,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.2
+2017,France,Trains,Percentage,10.8
+2017,France,Passenger cars,Percentage,82.8
+2017,France,"Motor coaches, buses and trolley buses",Percentage,6.5
+2017,Croatia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.7
+2017,Croatia,Trains,Percentage,2.4
+2017,Croatia,Passenger cars,Percentage,84.3
+2017,Croatia,"Motor coaches, buses and trolley buses",Percentage,13.4
+2017,Italy,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,18
+2017,Italy,Trains,Percentage,5.9
+2017,Italy,Passenger cars,Percentage,82
+2017,Italy,"Motor coaches, buses and trolley buses",Percentage,12.1
+2017,Cyprus,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19
+2017,Cyprus,Passenger cars,Percentage,81
+2017,Cyprus,"Motor coaches, buses and trolley buses",Percentage,19
+2017,Latvia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.3
+2017,Latvia,Trains,Percentage,3.3
+2017,Latvia,Passenger cars,Percentage,82.7
+2017,Latvia,"Motor coaches, buses and trolley buses",Percentage,14
+2017,Lithuania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,8.9
+2017,Lithuania,Trains,Percentage,0.9
+2017,Lithuania,Passenger cars,Percentage,91.1
+2017,Lithuania,"Motor coaches, buses and trolley buses",Percentage,8
+2017,Luxembourg,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.1
+2017,Luxembourg,Trains,Percentage,4.7
+2017,Luxembourg,Passenger cars,Percentage,82.9
+2017,Luxembourg,"Motor coaches, buses and trolley buses",Percentage,12.4
+2017,Hungary,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,30
+2017,Hungary,Trains,Percentage,8.9
+2017,Hungary,Passenger cars,Percentage,70
+2017,Hungary,"Motor coaches, buses and trolley buses",Percentage,21.1
+2017,Malta,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,17.5
+2017,Malta,Passenger cars,Percentage,82.5
+2017,Malta,"Motor coaches, buses and trolley buses",Percentage,17.5
+2017,Netherlands,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,14.3
+2017,Netherlands,Trains,Percentage,11.4
+2017,Netherlands,Passenger cars,Percentage,85.7
+2017,Netherlands,"Motor coaches, buses and trolley buses",Percentage,2.9
+2017,Austria,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.3
+2017,Austria,Trains,Percentage,11.9
+2017,Austria,Passenger cars,Percentage,77.7
+2017,Austria,"Motor coaches, buses and trolley buses",Percentage,10.3
+2017,Poland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,21.5
+2017,Poland,Trains,Percentage,7.7
+2017,Poland,Passenger cars,Percentage,78.5
+2017,Poland,"Motor coaches, buses and trolley buses",Percentage,13.8
+2017,Portugal,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.5
+2017,Portugal,Trains,Percentage,4.3
+2017,Portugal,Passenger cars,Percentage,88.5
+2017,Portugal,"Motor coaches, buses and trolley buses",Percentage,7.1
+2017,Romania,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,19.7
+2017,Romania,Trains,Percentage,4.7
+2017,Romania,Passenger cars,Percentage,80.3
+2017,Romania,"Motor coaches, buses and trolley buses",Percentage,15
+2017,Slovenia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.5
+2017,Slovenia,Trains,Percentage,1.8
+2017,Slovenia,Passenger cars,Percentage,86.5
+2017,Slovenia,"Motor coaches, buses and trolley buses",Percentage,11.7
+2017,Slovakia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,25.6
+2017,Slovakia,Trains,Percentage,9.9
+2017,Slovakia,Passenger cars,Percentage,74.4
+2017,Slovakia,"Motor coaches, buses and trolley buses",Percentage,15.7
+2017,Finland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,15.8
+2017,Finland,Trains,Percentage,5.4
+2017,Finland,Passenger cars,Percentage,84.2
+2017,Finland,"Motor coaches, buses and trolley buses",Percentage,10.4
+2017,Sweden,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,16.7
+2017,Sweden,Trains,Percentage,9.6
+2017,Sweden,Passenger cars,Percentage,83.3
+2017,Sweden,"Motor coaches, buses and trolley buses",Percentage,7.2
+2017,United Kingdom,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,13.9
+2017,United Kingdom,Trains,Percentage,8.8
+2017,United Kingdom,Passenger cars,Percentage,86.1
+2017,United Kingdom,"Motor coaches, buses and trolley buses",Percentage,5.1
+2017,Iceland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,11.9
+2017,Iceland,Passenger cars,Percentage,88.1
+2017,Iceland,"Motor coaches, buses and trolley buses",Percentage,11.9
+2017,Norway,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,10.5
+2017,Norway,Trains,Percentage,4.8
+2017,Norway,Passenger cars,Percentage,89.5
+2017,Norway,"Motor coaches, buses and trolley buses",Percentage,5.7
+2017,Switzerland,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,25.5
+2017,Switzerland,Trains,Percentage,19.7
+2017,Switzerland,Passenger cars,Percentage,74.5
+2017,Switzerland,"Motor coaches, buses and trolley buses",Percentage,5.8
+2017,North Macedonia,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,22.8
+2017,North Macedonia,Trains,Percentage,0.6
+2017,North Macedonia,Passenger cars,Percentage,77.2
+2017,North Macedonia,"Motor coaches, buses and trolley buses",Percentage,22.2
+2017,Turkey,"Trains, motor coaches, buses and trolley buses - sum of available data",Percentage,29.7
+2017,Turkey,Trains,Percentage,1.5
+2017,Turkey,Passenger cars,Percentage,70.3
+2017,Turkey,"Motor coaches, buses and trolley buses",Percentage,28.2
